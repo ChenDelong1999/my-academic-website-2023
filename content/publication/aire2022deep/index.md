@@ -12,8 +12,8 @@ authors:
 - Feng Xu
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Joint First Author"
 
 date: "2022-07-08T00:00:00Z"
 doi: ""
@@ -28,8 +28,8 @@ publishDate: "2022-07-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In [*Artificial Intelligence Review*](https://link.springer.com/article/10.1007/s10462-022-10240-2), 2022. [[DOI]](https://doi.org/10.1007/s10462-022-10240-2) [[ArXiv]](https://arxiv.org/abs/2006.11395)
-publication_short: In *Artificial Intelligence Review*
+publication: In Artificial Intelligence Review, 2022. [[DOI]](https://doi.org/10.1007/s10462-022-10240-2) [[ArXiv]](https://arxiv.org/abs/2006.11395)
+publication_short: In *Artificial Intelligence Review* 2022. [[DOI]](https://doi.org/10.1007/s10462-022-10240-2) [[ArXiv]](https://arxiv.org/abs/2006.11395)
 
 abstract: 'Face recognition has long been an active research area in the field of artificial intelligence, particularly since the rise of deep learning in recent years. In some practical situations, each identity has only a single sample available for training. Face recognition under this situation is referred to as single sample face recognition and poses significant challenges to the effective training of deep models. Therefore, in recent years, researchers have attempted to unleash more potential of deep learning and improve the model recognition performance in the single sample situation. While several comprehensive surveys have been conducted on traditional single sample face recognition approaches, emerging deep learning based methods are rarely involved in these reviews. Accordingly, we focus on the deep learning-based methods in this paper, classifying them into virtual sample methods and generic learning methods. In the former category, virtual images or virtual features are generated to benefit the training of the deep model. In the latter one, additional multi-sample generic sets are used. There are three types of generic learning methods: combining traditional methods and deep features, improving the loss function, and improving network structure, all of which are covered in our analysis. Moreover, we review face datasets that have been commonly used for evaluating single sample face recognition models and go on to compare the results of different types of models. Additionally, we discuss problems with existing single sample face recognition methods, including identity information preservation in virtual sample methods, domain adaption in generic learning methods. Furthermore, we regard developing unsupervised methods is a promising future direction, and point out that the semantic gap as an important issue that needs to be further considered.'
 

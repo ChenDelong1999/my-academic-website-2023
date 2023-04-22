@@ -27,9 +27,8 @@ publishDate: "2020-11-20T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 6th International Conference on Robotics and Artificial
-               Intelligence (ICRAI), Singapore, November 20-22, 2020*. [[DOI]](https://doi.org/10.1145/3449301.3449778) [[ArXiv]](https://arxiv.org/abs/2006.05245)
-publication_short: In *ICRAI 2020*
+publication: In *The 6th International Conference on Robotics and Artificial Intelligence (ICRAI), Singapore, November 20-22, 2020*. [[DOI]](https://doi.org/10.1145/3449301.3449778) [[ArXiv]](https://arxiv.org/abs/2006.05245)
+publication_short: In *The 6th International Conference on Robotics and Artificial Intelligence (ICRAI), 2020*. [[DOI]](https://doi.org/10.1145/3449301.3449778) [[ArXiv]](https://arxiv.org/abs/2006.05245)
 
 abstract: The pandemic of COVID-19 has caused millions of infections, which has led to a great loss all over the world, socially and economically. Due to the false-negative rate and the time-consuming of the conventional Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests, diagnosing based on X-ray images and Computed Tomography (CT) images has been widely adopted. Therefore, researchers of the computer vision area have developed many automatic diagnosing models based on machine learning or deep learning to assist the radiologists and improve the diagnosing accuracy. In this paper, we present a review of these recently emerging automatic diagnosing models. 70 models proposed from February 14, 2020, to July 21, 2020, are involved. We analyzed the models from the perspective of preprocessing, feature extraction, classification, and evaluation. Based on the limitation of existing models, we pointed out that domain adaption in transfer learning and interpretability promotion would be the possible future directions.
 # Summary. An optional shortened abstract.

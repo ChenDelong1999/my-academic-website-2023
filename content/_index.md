@@ -18,7 +18,7 @@ sections:
       - **2023-04-22**. Our paper _\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_ is accepted by IJCAI-23!
       <br /><br />
 
-      - **2023-03-11**. The MEP-3M dataset, previously awarded as IJCAI 2021 LTDL Best Dataset Paper, is now extended and published at [_Pattern Recognition_](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194). See details [here](publication/pr2023mep).
+      - **2023-03-11**. The MEP-3M dataset, previously awarded as IJCAI 2021 LTDL Best Dataset Paper, is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
       <br /><br />
 
       - **2023-03-08**. I joined Xiaobing.AI (previously 微软小冰), and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
@@ -27,7 +27,7 @@ sections:
       - **2023-10-10**. I started my internship under the supervision of [Dr. Bei Liu](https://www.microsoft.com/en-us/research/people/libei) at MSRA. My research project is related to egocentric vision language learning.
       <br /><br />
 
-      - **2022-07-08**. Our [comprehensive survey](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in [*Artificial Intelligence Review*](https://link.springer.com/article/10.1007/s10462-022-10240-2) (Impact Factor=9.588). 
+      - **2022-07-08**. Our [comprehensive survey](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in _Artificial Intelligence Review_. 
       <br /><br />
 
       - **2022-06-29**. My graduation thesis _\"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss\"_ [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
@@ -42,7 +42,7 @@ sections:
       - **2021-09-22**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern. My research project is related to multimodal self-supervised learning and CLIP-style vision-language pretraining.
       <br /><br />
 
-      - **2021-08-21**. I received a Best Demo Award from [ICME\'21](http://2021.ieeeicme.org/2021.ieeeicme.org/best_demo_awards.html), a Best Dataset Paper Award from [IJCAI\'21 LTDL workshop](https://ltdl-ijcai21.github.io/submission.html), and a Best Presentation Award from [BDAI\'21](http://www.bdai.net/2021.html).
+      - **2021-08-21**. I received a Best Demo Award from [IEEE ICME\'21](http://2021.ieeeicme.org/2021.ieeeicme.org/best_demo_awards.html), a Best Dataset Paper Award from [IJCAI\'21 LTDL workshop](https://ltdl-ijcai21.github.io/submission.html), and a Best Presentation Award from [IEEE BDAI\'21](http://www.bdai.net/2021.html).
       <br /><br />
 
       - **2021-07-01**. I received my B.S. degree in computer science from [Hohai University (河海大学)](https://en.hhu.edu.cn/) in Nanjing, China, and begin to work as research assistant at the Artificial Intelligence of Multi-modality Group ([AIM Group](https://multimodality.group/)) under the supervision of [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/).
@@ -259,6 +259,60 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
+  - block: markdown
+    id: awards
+    content:
+      title: Selected awards, prizes, and honors
+      text: "
+- **2022-06.**	江苏省优秀本科毕业论文一等奖 
+  <br /> First Class of Outstanding Graduation Thesis of Jiangsu Province.
+  <br /><br />
+
+- **2021-08.**	Best Dataset Paper Award at _Long-Tailed Distribution Learning Workshop, IJCAI 2021_
+  <br /><br />
+
+- **2021-07.**	Best Demo Award at _IEEE International Conference on Multimedia and Expo (ICME) 2021_
+  <br /><br />
+
+- **2021-07.**	Best Presentation Winner at _2021 4th International Conference on Big Data and Artificial Intelligence_
+  <br /><br />
+
+- **2021-06.**	河海大学2021届本科优秀毕业设计 
+  <br /> Outstanding Graduation Thesis of Hohai University in 2021 <font color='red'>[score ranked top 1]</font>
+  <br /><br />
+
+- **2021-06.** 河海大学2021届本科“优秀毕业生”荣誉称号 
+  <br /> 	Excellent Graduate Student of Hohai University <font color='red'>[highest honor, top 1.6%]</font>
+  <br /><br />
+
+- **2021-04.** 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 
+  <br /> 	First Prize in 2020 Campus Music Competition of Jiangsu Province
+  <br /><br />
+
+- **2020-05.**	“江苏省优秀共青团员”称号 
+  <br /> Excellent Communist Youth League Member of Jiangsu Province <font color='red'>[provincial level]</font>
+  <br /><br />
+
+- **2020-10.**	“2019江苏省大学生年度人物”提名奖 
+  <br /> Nomination Award for the Person of the Year in Jiangsu Province in 2019 <font color='red'>[provincial level]</font>
+  <br /><br />
+
+- **2020-04.**	2020年河海大学“海韵风华大学生年度人物”称号 
+  <br /> Hohai University's 2019 Undergraduate Person of the Year <font color='red'>[top 0.2%]</font>
+  <br /><br />
+
+- **2019-06.**	第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖，团队负责人 
+  <br /> Third Prize of The 8th China Software Cup Competition, East China Division Finals (as team Leader)
+  <br /><br />
+
+- **2017-10.**	河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号 
+  <br /> Best Debater in the 2017 Freshman Cup Debate Competition of the School of Computer and Information, Hohai University	Aug. 2021
+  <br /><br />
+"
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   - block: portfolio
     id: projects
     content:

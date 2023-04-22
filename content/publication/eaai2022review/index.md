@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In [*Engineering Applications of Artificial Intelligence*](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence0), 2022. [[DOI]](https://doi.org/10.1016/j.engappai.2022.105399)
-publication_short: In *Engineering Applications of Artificial Intelligence*
+publication_short: In _Engineering Applications of Artificial Intelligence_. [[DOI]](https://doi.org/10.1016/j.engappai.2022.105399)
 
 abstract: "Driver fatigue is an essential reason for traffic accidents, which poses a severe threat to people's lives and property. In this review, we summarize the latest research findings and analyze the developmental trends of driver fatigue detection. Firstly, we analyze and discuss four types of different fatigue detection technologies based on driver physiological signals, behavior features, vehicle running features, and information fusion, respectively. Then, we focus on  RGB-D camera and deep learning which are two state-of-the-art solutions in this field. Finally, we present the work on integration of RGB-D camera and deep learning, where Generative Adversarial Networks and multi-channel schemes are utilized to enhance the performance. We conducted experiments to show that the fatigue features extracted by Convolutional Neural Networks are superior to traditional handcrafted ones while single features cannot guarantee robustness. Moreover, the latent fatigue features extracted by deep learning methods have been demonstrated to be effective for fatigue detection."
 

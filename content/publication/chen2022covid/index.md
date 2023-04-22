@@ -12,8 +12,8 @@ authors:
 - Feng Xu
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding Author"
 
 date: "2022-04-08T00:00:00Z"
 doi: ""
@@ -28,8 +28,8 @@ publishDate: "2022-04-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'In [*Applied Sciences*](https://www.mdpi.com/journal/applsci), 2022. [[DOI]](https://doi.org/10.3390/app12083895)'
-publication_short: In *Applied Sciences*
+publication: 'In _Applied Sciences_. [[DOI]](https://doi.org/10.3390/app12083895)'
+publication_short: 'In _Applied Sciences_. [[DOI]](https://doi.org/10.3390/app12083895)'
 
 abstract: 'The pandemic of COVID-19 has caused millions of infections, which has led to a great loss all over the world, socially and economically. Due to the false-negative rate and the time-consuming characteristic of the Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests, diagnosing based on X-ray images and Computed Tomography (CT) images have been widely adopted to confirm positive COVID-19 RT-PCR tests. Since the very beginning of the pandemic, researchers in the artificial intelligence area have proposed a large number of automatic diagnosing models, hoping to assist radiologists and improve diagnosing accuracy. However, after two years of development, there are still few models that can be actually applied in real-world scenarios. Numerous problems have emerged in the research of automated diagnosis of COVID-19. In this paper, we present a systematic review of these diagnosing models. A total of 179 proposed models are involved. First, we compare the medical image modalities (CT or X-ray) for COVID-19 diagnosis from both the clinical perspective and the artificial intelligence perspective. Then, we classify existing methods into two types -- image-level diagnosis (i.e., classification-based methods) and pixel-level diagnosis (i.e., segmentation-based models). For both types of methods, we define universal model pipelines and analyze the techniques that have been applied in each step of the pipeline in detail. In addition, we also review some commonly adopted public COVID-19 datasets. More importantly, we present an in-depth discussion of the existing automated diagnosis models and note a total of three significant problems: biased model performance evaluation; inappropriate implementation details; and low reproducibility, reliability, and explainability. For each point, we give corresponding recommendations on how can we avoid making the same mistakes and let AI do better in the next pandemic. '
 

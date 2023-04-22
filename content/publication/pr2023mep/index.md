@@ -13,8 +13,8 @@ authors:
 
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Joint First Author"
 
 date: "2023-03-16T00:00:00Z"
 doi: ""
@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Pattern Recognition*. [[DOI]](https://www.sciencedirect.com/science/article/pii/S0031320323002194)
-publication_short: In *Pattern Recognition*
+publication_short: In *Pattern Recognition* [[DOI]](https://www.sciencedirect.com/science/article/pii/S0031320323002194).
 
 abstract: 'The product categories are vital for the E-commerce platforms due to the core applications on automatic product category assignment, personalized product recommendations, etc. In this paper, we construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which is large-scale, hierarchical-categorized, multi-modal, fine-grained, and long-tailed. Statistically, MEP-3M consists of over 3 million products, thus achieves the largest data scale in comparison to the existing E-commerce product datasets. The products in MEP-3M are represented in three modalities: image, textual description, and OCR text, and labeled with tree-like labels. The third level labels are extremely fine-grained. In addition, we exploit four novel practical tasks on this dataset, Product classification, Hierarchical Product Classification, Fine-grained Product Classification, and Product Representation Learning. For each task, we present some image-only, text-only, and multi-modal baseline performances for further researches. The MEP-3M dataset will be released at https://github.com/ChenDelong1999/MEP-3M.'
 # Summary. An optional shortened abstract.

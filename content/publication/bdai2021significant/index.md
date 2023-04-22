@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceeding of *2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI)*. [[DOI]](https://doi.org/10.1109/BDAI52447.2021.9515293)  [[ArXiv]](https://arxiv.org/abs/2107.09483)
-publication_short: In *BDAI 2021*
+publication_short: In Proceeding of *2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI)*. [[DOI]](https://doi.org/10.1109/BDAI52447.2021.9515293)  [[ArXiv]](https://arxiv.org/abs/2107.09483)
 
 abstract: Computational intelligence-based ocean characteristics forecasting applications, such as Significant Wave Height (SWH) prediction, are crucial for avoiding social and economic loss in coastal cities. Compared to the traditional empirical-based or numerical-based forecasting models, "soft computing" approaches, including machine learning and deep learning models, have shown numerous success in recent years. In this paper, we focus on enabling the deep learning model to learn both short-term and long-term spatial-temporal dependencies for SWH prediction. A Wavelet Graph Neural Network (WGNN) approach is proposed to integrate the advantages of wavelet transform and graph neural network. Several parallel graph neural networks are separately trained on wavelet decomposed data, and the reconstruction of each model’s prediction forms the final SWH prediction. Experimental results show that the proposed WGNN approach outperforms other models, including the numerical models, the machine learning models, and several deep learning models.
 # Summary. An optional shortened abstract.
