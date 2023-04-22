@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 'ocean'
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: Classic 
+  font_size: M
 
 # SEO
 
@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ChenDelong1999/my-academic-website-2023'
     content_dir: content
     branch: main
   avatar:
@@ -92,7 +92,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: ture
   map:
     provider: ''
     api_key: ''
