@@ -90,7 +90,7 @@ highlight_name: true
 ---
 ---
 
-Delong Chen (陈德龙) received the BSc degree of computer science from [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. He is currently a research assistant at the [AIM Group](https://multimodality.group/) of Hohai University, and a research intern at [Xiaobing.AI](https://www.xiaoice.com/) working on multi-modal large language models. Previously he interned at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [MEGVII technology](https://en.megvii.com) and worked on several research projects related to vision-language learning. He plans to start his Ph.D. study at HKUST in 2023 fall.
+Delong Chen received the BSc degree of computer science from [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. He is currently a research assistant at the [AIM Group](https://multimodality.group/) of Hohai University, and a research intern at [Xiaobing.AI](https://www.xiaoice.com/) working on multi-modal large language models. Previously he interned at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [MEGVII technology](https://en.megvii.com) and worked on several research projects related to vision-language learning. He plans to start his Ph.D. study at HKUST in 2023 fall.
 {style="text-align: justify;"}
 
 

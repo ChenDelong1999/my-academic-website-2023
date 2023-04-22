@@ -153,7 +153,7 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Lead a team of graduate students working on research projects include:
               * Vision-language learning for earth observations (satellite and UAV images)
               * Few-shot learning for visual recognition
               * Hydrological time-series forecasting
@@ -190,7 +190,7 @@ sections:
           description: |2-
             * Bachelor of Science degree in Computer Science
             * Excellent Graduate Student
-            * First-class Outstanding Graduation Thesis of Jiangsu Province.
+            * First-class Outstanding Graduation Thesis of Jiangsu Province
     design:
       columns: '2'
   # - block: accomplishments
