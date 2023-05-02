@@ -29,7 +29,7 @@ bio: Towards Multi-modal Artificial General Intelligence
 # Interests to show in About widget
 interests:
   - Multimodal Large Language Models
-  - Computer Vision and Self-supervised Learning
+  - 'Computer Vision: Self-supervised Learning, Vision Language Learning'
   - Music Information Retrieval
 
 # Education to show in About widget
@@ -97,7 +97,8 @@ Delong Chen received the BSc degree of computer science from [Hohai University](
 💡Research interests:
 {style="text-align: justify;"}
   - Multimodal Large Language Models
-  - Computer Vision and Self-supervised Learning
+  - Vision Language Learning
+  - Self-supervised Learning
   - Music Information Retrieval
 {style="text-align: justify;"}
 

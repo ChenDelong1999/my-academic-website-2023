@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text: "
-      - **2023-04-22**. Our paper _\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_ is accepted by IJCAI-23!
+      - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23! See pre-print [here](https://arxiv.org/abs/2305.00454).
       <br /><br />
 
       - **2023-03-11**. The MEP-3M dataset, previously awarded as IJCAI 2021 LTDL Best Dataset Paper, is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
@@ -159,10 +159,10 @@ sections:
               * Hydrological time-series forecasting
               * Music-motion pretraining for beat tracking
         
-        - title: Orchestra Leader and Concert master
+        - title: Orchestra Leader and Concert Master
           company: Symphony Orchestra of Hohai University (河海大学管弦乐团)
           company_url: ''
-          company_logo: ''
+          company_logo: 
           location: Nanjing
           date_start: '2019-05-01'
           date_end: '2020-09-01'
@@ -278,11 +278,11 @@ sections:
   <br /><br />
 
 - **2021-06.**	河海大学2021届本科优秀毕业设计 
-  <br /> Outstanding Graduation Thesis of Hohai University in 2021 <font color='red'>[score ranked top 1]</font>
+  <br /> Outstanding Graduation Thesis of Hohai University in 2021
   <br /><br />
 
 - **2021-06.** 河海大学2021届本科“优秀毕业生”荣誉称号 
-  <br /> 	Excellent Graduate Student of Hohai University <font color='red'>[highest honor, top 1.6%]</font>
+  <br /> 	Excellent Graduate Student of Hohai University (highest honor)
   <br /><br />
 
 - **2021-04.** 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 
@@ -290,19 +290,19 @@ sections:
   <br /><br />
 
 - **2020-05.**	“江苏省优秀共青团员”称号 
-  <br /> Excellent Communist Youth League Member of Jiangsu Province <font color='red'>[provincial level]</font>
+  <br /> Excellent Communist Youth League Member of Jiangsu Province
   <br /><br />
 
 - **2020-10.**	“2019江苏省大学生年度人物”提名奖 
-  <br /> Nomination Award for the Person of the Year in Jiangsu Province in 2019 <font color='red'>[provincial level]</font>
+  <br /> Nomination Award for the Person of the Year in Jiangsu Province in 2019
   <br /><br />
 
 - **2020-04.**	2020年河海大学“海韵风华大学生年度人物”称号 
-  <br /> Hohai University's 2019 Undergraduate Person of the Year <font color='red'>[top 0.2%]</font>
+  <br /> Hohai University's 2019 Undergraduate Person of the Year
   <br /><br />
 
 - **2019-06.**	第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖，团队负责人 
-  <br /> Third Prize of The 8th China Software Cup Competition, East China Division Finals (as team Leader)
+  <br /> Third Prize of The 8th China Software Cup Competition, East China Division Finals (team Leader)
   <br /><br />
 
 - **2017-10.**	河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号 
