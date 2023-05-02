@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text: "
-      - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23! See pre-print [here](https://arxiv.org/abs/2305.00454).
+      - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23! Our proposed model achieves SoTA few-shot classification accuracy on  CUB, n miniImageNet, tiredImageNet, and CIFAR-FS dataset. See pre-print [here](https://arxiv.org/abs/2305.00454).
       <br /><br />
 
       - **2023-03-11**. The MEP-3M dataset, previously awarded as IJCAI 2021 LTDL Best Dataset Paper, is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
