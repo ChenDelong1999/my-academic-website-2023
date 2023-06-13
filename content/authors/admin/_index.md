@@ -24,7 +24,7 @@ organizations:
   url: https://multimodality.group/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Towards Multi-modal Artificial General Intelligence
+bio: Incomming PhD Student of HKUST
 
 # Interests to show in About widget
 interests:
