@@ -8,10 +8,10 @@ last_name: Chen
 
 # Status emoji
 status:
-  icon: 😃
+  icon:
 
 # Is this the primary user of the site?
-superuser: true
+superuser: truei
 
 # Role/position/tagline
 role: Research Intern & Research Assistant
@@ -90,32 +90,24 @@ highlight_name: true
 ---
 ---
 
-Delong Chen received the BSc degree of computer science from [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. He is currently a research assistant at the [AIM Group](https://multimodality.group/) of Hohai University, and a research intern at [Xiaobing.AI](https://www.xiaoice.com/) working on multi-modal large language models. Previously he interned at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [MEGVII technology](https://en.megvii.com) and worked on several research projects related to vision-language learning. He plans to start his Ph.D. study at HKUST in 2023 fall.
+Delong Chen (陈德龙) received the BSc degree of computer science from Hohai University, Nanjing, China in 2021. He is currently a research intern at [Xiaobing.AI](https://www.xiaoice.com/) with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/), and a research assistant at the [AIM Group](https://multimodality.group/) with [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/). Previously he interned at [MEGVII technology](https://en.megvii.com) during 2021-2022. He will start his Ph.D. study under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) at HKUST in 2023 fall.
 {style="text-align: justify;"}
 
 
-💡Research interests:
+💡**Research interests**
 {style="text-align: justify;"}
-  - Multimodal Large Language Models
-  - Vision Language Learning
-  - Self-supervised Learning
+  - Mult-imodal LLMs, Vision Language Learning
+  - Self-supervised Visual Representation Learning
   - Music Information Retrieval
 {style="text-align: justify;"}
 
-🚀 Delong built open-source codebase: 
-{style="text-align: justify;"}
-- [ITRA](https://github.com/ChenDelong1999/ITRA) ([Doc](https://itra.readthedocs.io)): Image Text Representation Alignment
-- [VirtualConductor](https://github.com/ChenDelong1999/VirtualConductor): Music-driven Conducting Motion Generation
-- [HH💦Forecasting](https://github.com/ChenDelong1999/HHForecasting): Hydrological time-series forecasting
-{style="text-align: justify;"}
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.10.05)
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (2022.10)
 {style="text-align: justify;"}
 ---
 
 
-🎶 Delong is also passionate about music performance and composition. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
-He served as the head of the Hohai University Orchestra in 2019-2020. 
-He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}uploader at bilibili{{< /staticref >}} with more than 20k followers.
+🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
+He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
+He is also an "uploader" at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with more than 20k followers.
 {style="text-align: justify;"}

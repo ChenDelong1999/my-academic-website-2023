@@ -15,19 +15,23 @@ sections:
     content:
       title: News
       text: "
-      - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset. See pre-print [here](https://arxiv.org/abs/2305.00454).
+
+      - **2023-05-29**. Our paper \"*Few-shot Transfer of Multi-modal Foundational Models: A Survey*\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023!
       <br /><br />
 
-      - **2023-03-11**. The MEP-3M dataset, previously awarded as IJCAI 2021 LTDL Best Dataset Paper, is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
+      - **2023-05-26**. Our paper \"*Taming Diffusion Models for Music-driven Conducting Motion Generation*\" is accepted by [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home).
       <br /><br />
 
-      - **2023-03-08**. I joined Xiaobing.AI (previously 微软小冰), and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
+      - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset. See arxiv preprint [here](https://arxiv.org/abs/2305.00454).
       <br /><br />
 
-      - **2023-10-10**. I started my internship under the supervision of [Dr. Bei Liu](https://www.microsoft.com/en-us/research/people/libei) at MSRA. My research project is related to egocentric vision language learning.
+      - **2023-03-11**. The MEP-3M dataset, previously awarded as [IJCAI 2021 LTDL Best Dataset Paper](/publication/icjaiw2021mep/), is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
       <br /><br />
 
-      - **2022-07-08**. Our [comprehensive survey](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in _Artificial Intelligence Review_. 
+      - **2023-03-08**. I joined Xiaobing.AI (小冰) as a research intern, and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
+      <br /><br />
+
+      - **2022-07-08**. Our [survey paper](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in _Artificial Intelligence Review_. 
       <br /><br />
 
       - **2022-06-29**. My graduation thesis _\"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss\"_ [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
@@ -48,7 +52,7 @@ sections:
       - **2021-07-01**. I received my B.S. degree in computer science from [Hohai University (河海大学)](https://en.hhu.edu.cn/) in Nanjing, China, and begin to work as research assistant at the Artificial Intelligence of Multi-modality Group ([AIM Group](https://multimodality.group/)) under the supervision of [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/).
       <br /><br />
 
-      - **1999-03-19**. I was born in Shunde, Guangdong（广东，顺德）, which has a lot of delicious food."
+      - **1999-03-19**. I was born in Shunde, Guangdong（广东，顺德）, a beautiful city with a lot of delicious food."
     design:
       columns: '1'
 
@@ -119,22 +123,13 @@ sections:
           description: 
 
         - title: Research Intern
-          company: Xiaobing.AI (XiaoIce/微软小冰)
+          company: Xiaobing.AI (XiaoIce/小冰)
           company_url: 'https://www.xiaoice.com/'
           company_logo: ''
           location: Beijing
           date_start: '2023-03-01'
           date_end: ''
           description: Multi-modal Large Language Models, Conversational AI
-        
-        - title: Research Intern
-          company: Microsoft Research Asia (MSRA)
-          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
-          company_logo: ''
-          location: Beijing
-          date_start: '2022-10-01'
-          date_end: '2023-01-01'
-          description: Egocentric vision-language learning
         
         - title: Research Intern
           company: Megvii Research (旷视研究院)

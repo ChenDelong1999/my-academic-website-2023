@@ -73,6 +73,6 @@ projects: []
 ---
 
 {{% callout note %}}
-Previously, this paper won the **IJCAI 2021 LTDL Best Dataset Paper** award.
+This paper won the **IJCAI 2021 LTDL Best Dataset Paper** award.
 {{% /callout %}}
 
