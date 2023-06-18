@@ -39,7 +39,7 @@ summary: "> <font color='gray' size=3>*In this demo, we present the _VirtualCond
 tags: [Music Information Retrieval, Self-supervised Learning, Deep Learning, Multimodal Learning]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
