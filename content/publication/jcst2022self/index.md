@@ -81,5 +81,5 @@ A competition is hold with the ConductorMotion100 dataset proposed in this paper
 {{% /callout %}}
 
 {{% callout note %}}
-Delong Chen is the corresponding author.
+A Diffusion-based extension can be found [here](/publication/aaai2023diffusion/).
 {{% /callout %}}
