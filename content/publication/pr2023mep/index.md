@@ -34,7 +34,11 @@ publication_short: In *Pattern Recognition* [[DOI]](https://www.sciencedirect.co
 
 abstract: 'The product categories are vital for the E-commerce platforms due to the core applications on automatic product category assignment, personalized product recommendations, etc. In this paper, we construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which is large-scale, hierarchical-categorized, multi-modal, fine-grained, and long-tailed. Statistically, MEP-3M consists of over 3 million products, thus achieves the largest data scale in comparison to the existing E-commerce product datasets. The products in MEP-3M are represented in three modalities: image, textual description, and OCR text, and labeled with tree-like labels. The third level labels are extremely fine-grained. In addition, we exploit four novel practical tasks on this dataset, Product classification, Hierarchical Product Classification, Fine-grained Product Classification, and Product Representation Learning. For each task, we present some image-only, text-only, and multi-modal baseline performances for further researches. The MEP-3M dataset will be released at https://github.com/ChenDelong1999/MEP-3M.'
 # Summary. An optional shortened abstract.
-summary:  In this paper, we construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which consists of over 3 million products and 599 fine-grained product categories. Previsouly, this paper won IJCAI 2021 LTDL Best Dataset Paper award [[DOI]](https://www.sciencedirect.com/science/article/pii/S0031320323002194).
+summary:  "> <font color='gray' size=3>*We construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which consists of over 3 million products and 599 fine-grained product categories. Previsouly, this paper won IJCAI 2021 LTDL Best Dataset Paper award.*</font>
+
+
+[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** (joint first author), [Xiaoyu Du](https://bio.duxy.cc/), Ruizhuo Gao, [Feng Xu](https://ieeexplore.ieee.org/author/37401237800). In [*Pattern Recognition*](https://www.sciencedirect.com/science/article/pii/S0031320323002194), 2023.
+"
 
 tags: [Multimodal Learning, Computer Vision, Deep Learning]
 
@@ -44,7 +48,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: 'publication/icjaiw2021mep/MEP_3M__A_Large_scale_Multi_modal_E_Commerce_Dataset.pdf'
+url_pdf: 'publication/pr2023mep/MEP_3M__A_Large_scale_Multi_modal_E_Commerce_Dataset.pdf'
 url_code: ''
 url_dataset: 'https://github.com/ChenDelong1999/MEP-3M'
 url_poster: ''

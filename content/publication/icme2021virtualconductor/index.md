@@ -32,7 +32,10 @@ publication_short: In *IEEE International Conference on Multimedia and Expo (ICM
 abstract: In this demo, we present the _VirtualConductor_, a system that can generate conducting video from a given piece of music and a single user's image. First, a large-scale conductor motion dataset is collected and constructed. Then, we propose an Audio Motion Correspondence Network (AMCNet) and adversarial-perceptual learning to learn the cross-modal relationship and generate diverse, plausible, music-synchronized motion. Finally, we combine 3D animation rendering and a pose transfer model to synthesize conducting video from a single given user's image. Therefore, any user can become a virtual conductor through the _VirtualConductor_ system.
 
 # Summary. An optional shortened abstract.
-summary: In this demo, we present the _VirtualConductor_, a system that can generate conducting video from a given piece of music and a single user's image. This demo won the IEEE ICME 2021 Best Demo award [[ArXiv]](https://arxiv.org/abs/2108.04350).
+summary: "> <font color='gray' size=3>*In this demo, we present the _VirtualConductor_, a system that can generate conducting video from a given piece of music and a single user's image. This demo won the IEEE ICME 2021 Best Demo award.*</font>
+
+
+**<u>Delong Chen</u>**, [Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), [Zewen Li](https://zewenli.cn/index.html), [Feng Xu](https://ieeexplore.ieee.org/author/37401237800). In [*ICME 2021 (Demo Track)*](https://arxiv.org/abs/2108.04350)."
 tags: [Music Information Retrieval, Self-supervised Learning, Deep Learning, Multimodal Learning]
 
 # Display this page in the Featured widget?
