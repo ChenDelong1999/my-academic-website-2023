@@ -94,13 +94,18 @@ Delong Chen (陈德龙) received the BSc degree of computer science from Hohai U
 {style="text-align: justify;"}
 
 
-💡**Research interests**
+💡 **Research interests**
 {style="text-align: justify;"}
   - Mult-imodal LLMs, Vision Language Learning
   - Self-supervised Visual Representation Learning
   - Music Information Retrieval
 {style="text-align: justify;"}
 
+
+✍ **Academic Services**
+{style="text-align: justify;"}
+  - Reviewer: ACM MM 2023, Artificial Intelligence Review, IEEE TITS, Journal of Digital Imaging.
+{style="text-align: justify;"}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (2022.10)
 {style="text-align: justify;"}
