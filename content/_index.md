@@ -16,7 +16,12 @@ sections:
       title: News
       text: "
 
-      - **2023-05-29**. Our paper \"*Few-shot Transfer of Multi-modal Foundational Models: A Survey*\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023!
+      - **2023-06-19**. We annonce [RemoteCLIP](/publication/arxiv2023remoteclip), the first vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets. This is a team work with brilliant students at [AIM Group](http://multimodality.group/), thanks Zhangqingyun Guan (管张青云), Xiaocong Zhou (周晓聪), Jiale Zhu (朱佳乐), and Wenwen Cai (蔡雯雯)! See our arxiv preprint [here](https://arxiv.org/abs/2306.11029).
+      <br /><br />
+      
+
+
+      - **2023-05-29**. Our paper \"*Few-shot Transfer of Multi-modal Foundational Models: A Survey*\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
       <br /><br />
 
       - **2023-05-26**. Our paper \"*[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)*\" is accepted by [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home).
