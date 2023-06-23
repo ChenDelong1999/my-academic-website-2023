@@ -29,13 +29,13 @@ publishDate: "2023-05-26T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[AAAI 2023 Inaugural Summer Symposium Series](https://aaai.org/conference/summer-symposia/summer-series-2023/) - [AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)"
-publication_short: AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
+publication: "[AAAI 2023 Inaugural Summer Symposium Series](https://aaai.org/conference/summer-symposia/summer-series-2023/) - [AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home). [[arxiv]](https://arxiv.org/abs/2306.10065)"
+publication_short: AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse. [[arxiv]](https://arxiv.org/abs/2306.10065)
 
 abstract: 'Generating the motion of orchestral conductors from a given piece of symphony music is a challenging task since it requires a model to learn semantic music features and capture the underlying distribution of real conducting motion. Prior works have applied Generative Adversarial Networks (GAN) to this task, but the promising diffusion model, which recently showed its advantages in terms of both training stability and output quality, has not been exploited in this context. This paper presents Diffusion-Conductor , a novel DDIM-based approach for music-driven conducting motion generation, which integrates the diffusion model to a two-stage learning framework. We further propose a random masking strategy to improve the feature robustness, and use a pair of geometric loss functions to impose additional regularizations and increase motion diversity. We also design several novel metrics, including Frechet Gesture Distance (FGD) and Beat Consistency Score (BC) for a more comprehensive evaluation of the generated motion. Experimental results demonstrate the advantages of our model.'
 
 # Summary. An optional shortened abstract.
-summary: 'We present a comprehensive survey on Single Sample Per Person (SSPP) Face Recognition. [[DOI]](https://doi.org/10.1007/s10462-022-10240-2)'
+summary: 'This paper presents Diffusion-Conductor , a novel DDIM-based approach for music-driven conducting motion generation, which integrates the diffusion model to a two-stage learning framework.  [[arxiv]](https://arxiv.org/abs/2306.10065)'
 tags: [Music Information Retrieval, Multimodal Learning]
 
 # Display this page in the Featured widget?

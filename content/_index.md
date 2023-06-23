@@ -24,7 +24,7 @@ sections:
       - **2023-05-29**. Our paper \"*Few-shot Transfer of Multi-modal Foundational Models: A Survey*\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
       <br /><br />
 
-      - **2023-05-26**. Our paper \"*[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)*\" is accepted by [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home).
+      - **2023-05-26**. Our paper \"*[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)*\" is accepted by [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home). See arxiv preprint [here](https://arxiv.org/abs/2306.10065).
       <br /><br />
 
       - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset. See arxiv preprint [here](https://arxiv.org/abs/2305.00454).
