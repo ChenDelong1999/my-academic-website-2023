@@ -16,6 +16,9 @@ sections:
       title: News
       text: "
 
+      - **2023-07-18**. Our paper \"*[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)*\" is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)!
+      <br /><br />
+
       - **2023-06-30**. Excited to share my latest work done during my internship at Xiaobing.AI -- [*\"Visual Instruction Tuning with Polite Flamingo\"*](/publication/arxiv2023polite)
 ! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter called Polite Flamingo to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\". Thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST for advicing! See our [arxiv preprint](https://arxiv.org/abs/0000.00000) and [github repo](https://github.com/ChenDelong1999/polite_flamingo).
       <br /><br />
@@ -23,8 +26,6 @@ sections:
       - **2023-06-19**. We annonce [RemoteCLIP](/publication/arxiv2023remoteclip), the first vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets. This is a team work with brilliant students at [AIM Group](http://multimodality.group/), thanks Zhangqingyun Guan (管张青云), Xiaocong Zhou (周晓聪), Jiale Zhu (朱佳乐), and Wenwen Cai (蔡雯雯)! See our arxiv preprint [here](https://arxiv.org/abs/2306.11029).
       <br /><br />
       
-
-
       - **2023-05-29**. Our paper \"*Few-shot Transfer of Multi-modal Foundational Models: A Survey*\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
       <br /><br />
 
@@ -268,21 +269,25 @@ sections:
     content:
       title: Selected awards, prizes, and honors
       text: "
+
+- **2023-01.**	**Best Paper Award** at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
+  <br /><br />
+
 - **2022-06.**	江苏省优秀本科毕业论文一等奖 
-  <br /> First Class of Outstanding Graduation Thesis of Jiangsu Province.
+  <br /> **First Class Outstanding Graduation Thesis** of Jiangsu Province
   <br /><br />
 
-- **2021-08.**	Best Dataset Paper Award at _Long-Tailed Distribution Learning Workshop, IJCAI 2021_
+- **2021-08.**	**Best Dataset Paper Award** at Long-Tailed Distribution Learning Workshop, IJCAI 2021
   <br /><br />
 
-- **2021-07.**	Best Demo Award at _IEEE International Conference on Multimedia and Expo (ICME) 2021_
+- **2021-07.**	**Best Demo Award** at IEEE International Conference on Multimedia and Expo (ICME) 2021
   <br /><br />
 
-- **2021-07.**	Best Presentation Winner at _2021 4th International Conference on Big Data and Artificial Intelligence_
+- **2021-07.**	**Best Presentation Winner** at 2021 4th International Conference on Big Data and Artificial Intelligence
   <br /><br />
 
 - **2021-06.**	河海大学2021届本科优秀毕业设计 
-  <br /> Outstanding Graduation Thesis of Hohai University in 2021
+  <br /> **Outstanding Graduation Thesis** of Hohai University in 2021
   <br /><br />
 
 - **2021-06.** 河海大学2021届本科“优秀毕业生”荣誉称号 
