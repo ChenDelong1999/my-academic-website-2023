@@ -14,17 +14,18 @@ status:
 superuser: truei
 
 # Role/position/tagline
-role: Research Intern & Research Assistant
+role: Ph.D. Student & Research Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
+
+- name: Hong Kong University of Science and Technology (HKUST)
+  url: https://hkust.edu.hk/
 - name: Xiaobing.AI
   url: https://www.xiaoice.com/
-- name: AIM Group, Hohai University
-  url: https://multimodality.group/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Incomming PhD Student of HKUST
+bio: PhD Student at HKUST
 
 # Interests to show in About widget
 interests:
@@ -37,7 +38,7 @@ education:
   courses:
     - course: Gap year
       year: 2022-2023
-      institution: MSRA & Xiaobing.AI & Hohai University
+      institution: Xiaobing.AI & AIM Group, Hohai University
     - course: Gap year
       year: 2021-2022
       institution: MEGVII Technology & Hohai University
@@ -52,7 +53,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chendelong@hhu.edu.cn
+    link: mailto:delong.chen@connect.ust.hk
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7PW095gAAAAJ
@@ -90,9 +91,8 @@ highlight_name: true
 ---
 ---
 
-Delong Chen (陈德龙) received the BSc degree of computer science from Hohai University, Nanjing, China in 2021. He is currently a research intern at [Xiaobing.AI](https://www.xiaoice.com/) with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋), and a research assistant at the [AIM Group](https://multimodality.group/) with [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/) (刘凡). Previously he interned at [MEGVII technology](https://en.megvii.com) during 2021-2022. He will start his Ph.D. study under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) at HKUST in 2023 fall.
+Delong Chen (陈德龙) received the BSc degree of computer science from Hohai University, Nanjing, China in 2021. He is currently a research intern at [Xiaobing.AI](https://www.xiaoice.com/) with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋). Previously he interned at [MEGVII technology](https://en.megvii.com) during 2021-2022, and served as a research assistant at the [AIM Group](https://multimodality.group/) with [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/) (刘凡). He will start his Ph.D. study under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) at HKUST in 2023 fall.
 {style="text-align: justify;"}
-
 
 💡 **Research interests**
 {style="text-align: justify;"}
@@ -105,6 +105,10 @@ Delong Chen (陈德龙) received the BSc degree of computer science from Hohai U
 ✍ **Academic Services**
 {style="text-align: justify;"}
   - Reviewer: ACM MM 2023, Artificial Intelligence Review, IEEE TITS, Journal of Digital Imaging.
+{style="text-align: justify;"}
+
+
+Delong Chen recived IEEE ICME'21 Best Demo award, IJCAI'21 LTDL Best Dataset Paper award, Best Paper award in AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, Best Presentation award at IEEE BDAI 2021, and First Class Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀本科毕业论文一等奖).
 {style="text-align: justify;"}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (2022.10)
