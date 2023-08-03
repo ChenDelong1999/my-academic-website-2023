@@ -108,7 +108,7 @@ Delong Chen (陈德龙) received the BSc degree of computer science from Hohai U
 {style="text-align: justify;"}
 
 
-Delong Chen recived IEEE ICME'21 Best Demo award, IJCAI'21 LTDL Best Dataset Paper award, Best Paper award in AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, Best Presentation award at IEEE BDAI 2021, and First Class Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀本科毕业论文一等奖).
+Delong Chen recived Best Demo award at IEEE ICME'21, LTDL Best Dataset Paper award at IJCAI'21, Best Paper award in AAAI'23 Inaugural Summer Symposium Series - AI x Metaverse, Best Presentation award at IEEE BDAI'21, and First Class Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀本科毕业论文一等奖).
 {style="text-align: justify;"}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (2022.10)

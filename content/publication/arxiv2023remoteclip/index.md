@@ -50,7 +50,7 @@ featured: true
 links:
 
 url_pdf: 'publication/arxiv2023remoteclip/remoteclip.pdf'
-url_code: ''
+url_code: 'https://github.com/ChenDelong1999/RemoteCLIP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
