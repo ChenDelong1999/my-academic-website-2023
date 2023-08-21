@@ -16,23 +16,19 @@ sections:
       title: News
       text: "
 
-      - **2023-07-18**. Our paper \"*[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)*\" is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)!
+      - **2023-07-18**. Our paper \"[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)\" is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)! See [arxiv preprint](https://arxiv.org/abs/2306.10065) and [github code](https://github.com/viiika/Diffusion-Conductor).
       <br /><br />
 
-      - **2023-06-30**. Excited to share my latest work done during my internship at Xiaobing.AI -- [*\"Visual Instruction Tuning with Polite Flamingo\"*](/publication/arxiv2023polite)
-! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter called Polite Flamingo to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\". Thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST for advicing! See our [arxiv preprint](https://arxiv.org/abs/0000.00000) and [github repo](https://github.com/ChenDelong1999/polite_flamingo).
+      - **2023-06-30**. Excited to share my latest work done during my internship at Xiaobing.AI -- [\"Visual Instruction Tuning with Polite Flamingo\"](/publication/arxiv2023polite)! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter called Polite Flamingo to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\". Thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST for advicing! See our [arxiv preprint](https://arxiv.org/abs/0000.00000) and github repo: https://github.com/ChenDelong1999/polite-flamingo .
       <br /><br />
 
-      - **2023-06-19**. We annonce [RemoteCLIP](/publication/arxiv2023remoteclip), the first vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets. This is a team work with brilliant students at [AIM Group](http://multimodality.group/), thanks Zhangqingyun Guan (管张青云), Xiaocong Zhou (周晓聪), Jiale Zhu (朱佳乐), and Wenwen Cai (蔡雯雯)! See our arxiv preprint [here](https://arxiv.org/abs/2306.11029), pretrained models are released at [this repo](https://github.com/ChenDelong1999/RemoteCLIP).
+      - **2023-06-19**. We annonce [RemoteCLIP](/publication/arxiv2023remoteclip), the first vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets. This is a team work with many brilliant grad students at [AIM Group](http://multimodality.group/), thanks Zhangqingyun Guan (管张青云), Xiaocong Zhou (周晓聪), Jiale Zhu (朱佳乐), and Wenwen Cai (蔡雯雯)! See our arxiv preprint [here](https://arxiv.org/abs/2306.11029), pretrained models are released at [https://github.com/ChenDelong1999/RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP).
       <br /><br />
       
-      - **2023-05-29**. Our paper \"*Few-shot Transfer of Multi-modal Foundational Models: A Survey*\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
+      - **2023-05-29**. Our paper \"Few-shot Transfer of Multi-modal Foundational Models: A Survey\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
       <br /><br />
 
-      - **2023-05-26**. Our paper \"*[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)*\" is accepted by [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home). See arxiv preprint [here](https://arxiv.org/abs/2306.10065) and [code](https://github.com/viiika/Diffusion-Conductor).
-      <br /><br />
-
-      - **2023-04-22**. Our paper [_\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"_](publication/ijcai2023few) is accepted by IJCAI-23 as oral presentation! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset. See arxiv preprint [here](https://arxiv.org/abs/2305.00454).
+      - **2023-04-22**. Our paper [\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"](publication/ijcai2023few) is accepted by IJCAI-23 as oral presentation! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset. See arxiv preprint [here](https://arxiv.org/abs/2305.00454).
       <br /><br />
 
       - **2023-03-11**. The MEP-3M dataset, previously awarded as [IJCAI 2021 LTDL Best Dataset Paper](/publication/icjaiw2021mep/), is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
@@ -44,13 +40,13 @@ sections:
       - **2022-07-08**. Our [survey paper](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in _Artificial Intelligence Review_. 
       <br /><br />
 
-      - **2022-06-29**. My graduation thesis _\"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss\"_ [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
+      - **2022-06-29**. My graduation thesis \"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss\" [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
       <br /><br />
 
-      - **2022-06-23**. Our paper [_\"Prototypical Contrastive Language Image Pretraining\"_](publication/arxiv2022prototypical/) is finished at Megvii Technology. The [pre-print](https://arxiv.org/abs/2206.10996) and [codes](https://github.com/megvii-research/protoclip) are now available. We developed a prototype-based approach for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
+      - **2022-06-23**. Our paper [\"Prototypical Contrastive Language Image Pretraining\"](publication/arxiv2022prototypical/) is finished at Megvii Technology. The [pre-print](https://arxiv.org/abs/2206.10996) and [codes](https://github.com/megvii-research/protoclip) are now available. We developed a prototype-based approach for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
       <br /><br />
 
-      - **2022-03-10**. Our paper [_\"Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation\"_](publication/jcst2022self/) is accepted by SCI (and CCF-B) indexed journal JCST. The [ConductorMotion100](https://github.com/ChenDelong1999/VirtualConductor) dataset has been made public as a track of [The 1st Prospective Cup Meta-Intelligent Data Challenge](http://prospective.tocenet.org/)（首届国际“远见杯”元智能数据挑战大赛）hold by [Jiangsu Computer Society](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会）.
+      - **2022-03-10**. Our paper [\"Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation\"](publication/jcst2022self/) is accepted by SCI (and CCF-B) indexed journal JCST. The [ConductorMotion100](https://github.com/ChenDelong1999/VirtualConductor) dataset has been made public as a track of [The 1st Prospective Cup Meta-Intelligent Data Challenge](http://prospective.tocenet.org/)（首届国际“远见杯”元智能数据挑战大赛）hold by [Jiangsu Computer Society](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会）.
       <br /><br />
 
       - **2021-09-22**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern. My research project is related to multimodal self-supervised learning and CLIP-style vision-language pretraining.
@@ -123,14 +119,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Study (Incomming)
+        - title: Ph.D. Student
           company: Hong Kong University of Science and Technology (HKUST)
           company_url: 'https://hkust.edu.hk/'
           company_logo: ''
           location: Hong Kong
           date_start: '2023-09-01'
-          date_end: '2027-09-01'
-          description: 
+          date_end: ''
+          description: 'Supervisor: Prof. Pascale Fung'
 
         - title: Research Intern
           company: Xiaobing.AI (XiaoIce/小冰)
@@ -148,7 +144,7 @@ sections:
           location: Beijing
           date_start: '2021-09-01'
           date_end: '2022-09-01'
-          description: Large-scale vision-language pre-training
+          description: Large-scale vision-language pretraining
 
         - title: Research Assistant
           company: AIM Group, Hohai University (河海大学多模态人工智能实验室)
@@ -156,7 +152,7 @@ sections:
           company_logo: ''
           location: Nanjing (Remote)
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2023-09-01'
           description: |2-
               Lead a team of graduate students working on research projects include:
               * Vision-language learning for earth observations (satellite and UAV images)
