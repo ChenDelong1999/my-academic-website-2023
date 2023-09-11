@@ -16,51 +16,121 @@ sections:
       title: News
       text: "
 
-      - **2023-07-18**. Our paper \"[Taming Diffusion Models for Music-driven Conducting Motion Generation](/publication/aaai2023diffusion/)\" is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)! See [arxiv preprint](https://arxiv.org/abs/2306.10065) and [github code](https://github.com/viiika/Diffusion-Conductor).
-      <br /><br />
+      ## **2023**
 
-      - **2023-06-30**. Excited to share my latest work done during my internship at Xiaobing.AI -- [\"Visual Instruction Tuning with Polite Flamingo\"](/publication/arxiv2023polite)! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter called Polite Flamingo to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\". Thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST for advicing! See our [arxiv preprint](https://arxiv.org/abs/0000.00000) and github repo: https://github.com/ChenDelong1999/polite-flamingo.
-      <br /><br />
+      ---
 
-      - **2023-06-19**. We annonce [RemoteCLIP](/publication/arxiv2023remoteclip), the first vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets. This is a team work with many brilliant grad students at [AIM Group](http://multimodality.group/), thanks Zhangqingyun Guan (管张青云), Xiaocong Zhou (周晓聪), Jiale Zhu (朱佳乐), and Wenwen Cai (蔡雯雯)! See our arxiv preprint [here](https://arxiv.org/abs/2306.11029), pretrained models are released at [https://github.com/ChenDelong1999/RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP).
-      <br /><br />
+
+**[2023-09-01]**. I started my Ph.D. study at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/) at the [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/).
+<br /><br />
+
+**[2023-07-18]**. Our **`Diffusion-Conductor`** is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)! The GAN-based **`Virtual Conductor`** proposed in my bachelor thesis is now upgraded to its diffusion-based version!
+
+  > Zhuoran Zhao, Jinbin Bai, **<u>Delong Chen</u>**, Debang Wang, Yubo Pan<br /> 
+  🎶[**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)<br /> 
+  In AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, 2023 (Best Paper).  [[arxiv]](https://arxiv.org/abs/2306.10065) [[github]](https://github.com/viiika/Diffusion-Conductor) <br /> 
+
+
+**[2023-06-30]**. Excited to share my latest work done during my internship at Xiaobing.AI -- **`Polite Flamingo`**! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter to address the degeneration of response politness, which is a typical instance of the *\"multi-modal alignment tax\"*. Many thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST!
+
+  > **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang<br /> 
+  🦩[**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)<br />
+  [[arxiv]](https://arxiv.org/abs/2307.01003) [[github]](https://github.com/ChenDelong1999/polite-flamingo) [[Demo]](http://clever_flamingo.xiaoice.com/)
+  <br />
+
+
+**[2023-06-19]**. We annonce [RemoteCLIP](/publication/arxiv2023remoteclip), the first vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets. This is a team work with many brilliant grad students at [AIM Group](http://multimodality.group/), thanks Zhangqingyun Guan (管张青云), Xiaocong Zhou (周晓聪), Jiale Zhu (朱佳乐), and Wenwen Cai (蔡雯雯)!
+
+  > Fan Liu, **<u>Delong Chen</u>** (joint first author), Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou <br /> 
+  🛰️[**RemoteCLIP: Vision-Language Pretraining for Remote Sensing**](https://arxiv.org/abs/2306.11029)<br />
+  [[arxiv]](https://arxiv.org/abs/2306.11029) [[github]](https://github.com/ChenDelong1999/RemoteCLIP)<br />
       
-      - **2023-05-29**. Our paper \"Few-shot Transfer of Multi-modal Foundational Models: A Survey\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
+
+**[2023-05-29]**. Our paper \"Few-shot Transfer of Multi-modal Foundational Models: A Survey\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
+
+  > 张天舒, 刘凡, <u>**陈德龙**</u> (✉), 管张青云, 蔡雯雯, 周晓聪<br />
+  📗**多模态大模型小样本迁移方法研究进展综述**<br />
+  2023中国多媒体大会 <br />
+
+
+**[2023-04-22]**. Our paper of Ensemble Learning with Multi-Order Statistics (**`ELMOS`**) is accepted by IJCAI-23 as oral presentation! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset.
+      
+  > Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou<br />
+  🔍[**Few-shot Classification via Ensemble Learning with Multi-Order Statistics**](https://www.ijcai.org/proceedings/2023/0181.pdf)<br />
+  In Proceedings of the 32nd IJCAI, 2023 (oral). [[arxiv]](https://arxiv.org/abs/2305.00454) <br />
+      
+
+**[2023-03-11]**. Our works on the Multi-modal E-Commerce Products (MEP-3M) dataset, previously awarded as [IJCAI 2021 LTDL Best Dataset Paper](/publication/icjaiw2021mep/), is now extended and published at [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
+
+  > Fan Liu, **<u>Delong Chen</u>** (joint first author), Xiaoyu Du, Ruizhuo Gao, Feng Xu<br />
+  🎁[**MEP-3M: A large-scale multi-modal E-commerce product dataset**](https://www.sciencedirect.com/science/article/pii/S0031320323002194)<br />
+  Pattern Recognition, 2023.<br />
+
+
+**[2023-03-08]**. I joined Xiaobing.AI (小冰) as a research intern, and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
       <br /><br />
 
-      - **2023-04-22**. Our paper [\"Few-shot Classification via Ensemble Learning with Multi-Order Statistics\"](publication/ijcai2023few) is accepted by IJCAI-23 as oral presentation! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset. See arxiv preprint [here](https://arxiv.org/abs/2305.00454).
-      <br /><br />
+## **2022**
+      
+      ---
 
-      - **2023-03-11**. The MEP-3M dataset, previously awarded as [IJCAI 2021 LTDL Best Dataset Paper](/publication/icjaiw2021mep/), is now extended and published at _Pattern Recognition_. See details [here](publication/pr2023mep).
-      <br /><br />
+**[2022-07-08]**. Our survey paper on Deep Learning Based Single Sample Per Person (SSPP) face recognition is now published in [Artificial Intelligence Review](https://www.springer.com/journal/10462) (IF=12.0). 
+      
+  > Fan Liu, **<u>Delong Chen</u>** (joint first author), Fei Wang, Zewen Li, Feng Xu<br />
+  🤖[**Deep learning based single sample face recognition: a survey**](https://link.springer.com/article/10.1007/s10462-022-10240-2)<br />
+  Artificial Intelligence Review, 2022
 
-      - **2023-03-08**. I joined Xiaobing.AI (小冰) as a research intern, and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
-      <br /><br />
 
-      - **2022-07-08**. Our [survey paper](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in _Artificial Intelligence Review_. 
-      <br /><br />
+**[2022-06-29]**. My graduation thesis \"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss\" [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
 
-      - **2022-06-29**. My graduation thesis \"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss\" [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
-      <br /><br />
 
-      - **2022-06-23**. Our paper [\"Prototypical Contrastive Language Image Pretraining\"](publication/arxiv2022prototypical/) is finished at Megvii Technology. The [pre-print](https://arxiv.org/abs/2206.10996) and [codes](https://github.com/megvii-research/protoclip) are now available. We developed a prototype-based approach for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
-      <br /><br />
+**[2022-06-23]**. Our work on **`ProtoCILP`** is done at Megvii Technology. We developed a prototype-based approach for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
+      
+      
+  > **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Yixiang Huang, Yiping Bao, Erjin Zhou<br />
+  📍[**ProtoCILP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996)<br />
+  arXiv preprint, 2022. [[arxiv]](https://arxiv.org/abs/2206.10996) [[github]](https://github.com/megvii-research/protoclip)<br />
+      
 
-      - **2022-03-10**. Our paper [\"Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation\"](publication/jcst2022self/) is accepted by SCI (and CCF-B) indexed journal JCST. The [ConductorMotion100](https://github.com/ChenDelong1999/VirtualConductor) dataset has been made public as a track of [The 1st Prospective Cup Meta-Intelligent Data Challenge](http://prospective.tocenet.org/)（首届国际“远见杯”元智能数据挑战大赛）hold by [Jiangsu Computer Society](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会）.
-      <br /><br />
+**[2022-03-10]**. Our paper on Music-Driven Conducting Motion Generation is accepted by CCF-B journal [JCST](https://jcst.ict.ac.cn/). The [ConductorMotion100](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup) dataset has been made public as a track of [The 1st Prospective Cup Meta-Intelligent Data Challenge](http://prospective.tocenet.org/)（首届国际“远见杯”元智能数据挑战大赛）hold by [Jiangsu Computer Society](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会）.
 
-      - **2021-09-22**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern. My research project is related to multimodal self-supervised learning and CLIP-style vision-language pretraining.
-      <br /><br />
+  > Fan Liu, <u>**Delong Chen**</u> (✉), Ruizhi Zhou, Sai Yang, Feng Xu <br /> 
+  🎵[**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](https://link.springer.com/article/10.1007/s11390-022-2030-z) <br />
+  In Journal of Computer Science and Technology (JCST), 2022. [[github]](https://github.com/ChenDelong1999/VirtualConductor) [[video]](https://www.youtube.com/watch?v=8lr5Q2qg58w)
 
-      - **2021-08-21**. I received a Best Demo Award from [IEEE ICME\'21](http://2021.ieeeicme.org/2021.ieeeicme.org/best_demo_awards.html), a Best Dataset Paper Award from [IJCAI\'21 LTDL workshop](https://ltdl-ijcai21.github.io/submission.html), and a Best Presentation Award from [IEEE BDAI\'21](http://www.bdai.net/2021.html).
-      <br /><br />
+## **2021**
 
-      - **2021-07-01**. I received my B.S. degree in computer science from [Hohai University (河海大学)](https://en.hhu.edu.cn/) in Nanjing, China, and begin to work as research assistant at the Artificial Intelligence of Multi-modality Group ([AIM Group](https://multimodality.group/)) under the supervision of [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/).
-      <br /><br />
+      ---
 
-      - **1999-03-19**. I was born in Shunde, Guangdong（广东，顺德）, a beautiful city with a lot of delicious food."
+
+**[2021-09-22]**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern. My research project is related to multi-modal self-supervised learning and CLIP-style vision-language pretraining.
+
+
+
+**[2021-08-21]**. I received a Best Demo Award from [IEEE ICME\'21](http://2021.ieeeicme.org/2021.ieeeicme.org/best_demo_awards.html), a Best Dataset Paper Award from [IJCAI\'21 LTDL workshop](https://ltdl-ijcai21.github.io/submission.html), and a Best Presentation Award from [IEEE BDAI\'21](http://www.bdai.net/2021.html).
+      
+  > <u>**Delong Chen**</u>, Fan Liu, Zewen Li, Feng Xu <br /> 
+  🎵[**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350) <br />
+  In IEEE International Conference on Multimedia and Expo (ICME) 2021 (Best Demo Award). [[arxiv]](https://arxiv.org/abs/2108.04350) [[video]](https://www.bilibili.com/video/BV1aX4y1g7wh) <br />
+  <br />
+  <u>**Delong Chen**</u>, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu<br /> 
+  🎁[**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://multimodality.group/publication/icjaiw2021mep/MEP_3M__A_Large_scale_Multi_modal_E_Commerce_Dataset.pdf)<br /> 
+  In IJCAI 2021 Workshop on Long-Tailed Distribution Learning (LTDL@IJCAI'21) (Best Dataset Paper Award).<br />
+  <br />
+  <u>**Delong Chen**</u>, Fan Liu, Zheqi Zhang, Xiaomin Lu, Zewen Li <br /> 
+  🌊[**Significant Wave Height Prediction based on Wavelet Graph Neural Network**](https://ieeexplore.ieee.org/document/9515293/)<br />
+  In 2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI) (Best Presentation Award). [[arxiv]](https://arxiv.org/abs/2107.09483)<br />
+      
+      
+
+
+**[2021-07-01]**. I received my B.S. degree in computer science from [Hohai University (河海大学)](https://en.hhu.edu.cn/) in Nanjing, China, and begin to work as research assistant at the Artificial Intelligence of Multi-modality Group ([AIM Group](https://multimodality.group/)) under the supervision of [Prof. Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/).
+
+
+
+**[1999-03-19]**. I was born in Shunde, Guangdong（广东，顺德）, a beautiful city with a lot of delicious food."
     design:
-      columns: '1'
+      columns: '2'
 
   # - block: features
   #   content:

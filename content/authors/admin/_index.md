@@ -95,9 +95,9 @@ Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Center for Art
 
 💡 **Research interests**
 {style="text-align: justify;"}
-  - Multi-modal LLMs, Vision Language Learning
-  - Self-supervised Visual Representation Learning
-  - Music Information Retrieval
+  - Multi-modal LLMs, vision language learning
+  - Self-supervised visual representation learning
+  - Music information retrieval
 {style="text-align: justify;"}
 
 
