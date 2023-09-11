@@ -19,8 +19,8 @@ main:
   - name: Awards
     url: '#awards'
     weight: 45
-  - name: Projects
-    url: '#projects'
+  - name: Music
+    url: '#music'
     weight: 50
   - name: Gallery
     url: '#gallery'

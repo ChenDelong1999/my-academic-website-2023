@@ -149,10 +149,14 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
   - block: collection
-    id: featured
+    id: publications
     content:
       count: 100
-      title: Featured Papers
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        See full publication in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate) or discover relevant content by filtering publications [here](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -160,22 +164,22 @@ sections:
     design:
       columns: '1'
       view: 5
-  - block: collection
-    id: publications
-    content:
-      count: 100
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: 4
+  # - block: collection
+  #   id: publications
+  #   content:
+  #     count: 100
+  #     title: Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     columns: '2'
+  #     view: 2
   - block: experience
     id: experience
     content:
@@ -389,9 +393,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: music
     content:
-      title: Projects
+      title: Music🎻
       filters:
         folders:
           - project
@@ -412,7 +416,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: 0
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
