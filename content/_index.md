@@ -429,10 +429,9 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo">}}
+        {{< gallery album="demo" order="desc">}}
     design:
       columns: '1'
-
   # - block: collection
   #   id: talks
   #   content:
