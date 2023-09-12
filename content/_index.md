@@ -28,7 +28,7 @@ sections:
 
   > <font size=2>[Zhuoran Zhao](https://alicezrzhao.github.io/), [Jinbin Bai](https://noyii.github.io/), **<u>Delong Chen</u>**, Debang Wang, Yubo Pan<br /> 
   🎶 [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)<br /> 
-  In AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, 2023 (Best Paper).  [[arxiv]](https://arxiv.org/abs/2306.10065) [[github]](https://github.com/viiika/Diffusion-Conductor) <br /></font>
+  In AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, 2023 <font color='red'>**(Best Paper)**</font>.  [[arxiv]](https://arxiv.org/abs/2306.10065) [[github]](https://github.com/viiika/Diffusion-Conductor) <br /></font>
 
 
 **[2023-06-30]**. Excited to share my latest work done during my internship at Xiaobing.AI -- **`Polite Flamingo`**! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter to address the degeneration of response politness, which is a typical instance of the *\"multi-modal alignment tax\"*. Many thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST!
@@ -57,7 +57,7 @@ sections:
       
   > <font size=2>Sai Yang, [Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>**, [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou)<br />
   🔍 [**Few-shot Classification via Ensemble Learning with Multi-Order Statistics**](https://www.ijcai.org/proceedings/2023/0181.pdf)<br />
-  In Proceedings of the 32nd IJCAI, 2023 (oral). [[arxiv]](https://arxiv.org/abs/2305.00454) <br /></font>
+  In Proceedings of the 32nd IJCAI, 2023 <font color='red'>**(oral)**</font>. [[arxiv]](https://arxiv.org/abs/2305.00454) <br /></font>
       
 
 **[2023-03-11]**. Our works on the Multi-modal E-Commerce Products (**`MEP-3M`**) dataset, previously awarded as [IJCAI 2021 LTDL Best Dataset Paper](/publication/icjaiw2021mep/), is now extended and published at [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
@@ -111,15 +111,15 @@ sections:
       
   > <font size=2><u>**Delong Chen**</u>, [Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), [Zewen Li](https://zewenli.cn/), [Feng Xu](https://www.hhu.edu.cn/2021/0915/c15750a227946/page.htm) <br /> 
   🎵 [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350) <br />
-  In IEEE International Conference on Multimedia and Expo (ICME) 2021 (Best Demo Award). [[arxiv]](https://arxiv.org/abs/2108.04350) [[video]](https://www.bilibili.com/video/BV1aX4y1g7wh) <br />
+  In IEEE International Conference on Multimedia and Expo (ICME) 2021 <font color='red'>**(Best Demo Award)**</font>. [[arxiv]](https://arxiv.org/abs/2108.04350) [[video]](https://www.bilibili.com/video/BV1aX4y1g7wh) <br />
   <br />
   <u>**Delong Chen**</u>, [Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), [Xiaoyu Du](https://bio.duxy.cc/), Ruizhuo Gao, [Feng Xu](https://www.hhu.edu.cn/2021/0915/c15750a227946/page.htm)<br /> 
   🎁 [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://multimodality.group/publication/icjaiw2021mep/MEP_3M__A_Large_scale_Multi_modal_E_Commerce_Dataset.pdf)<br /> 
-  In IJCAI 2021 Workshop on Long-Tailed Distribution Learning (LTDL@IJCAI'21) (Best Dataset Paper Award).<br />
+  In IJCAI 2021 Workshop on Long-Tailed Distribution Learning (LTDL@IJCAI'21) <font color='red'>**(Best Dataset Paper Award)**</font>.<br />
   <br />
   <u>**Delong Chen**</u>, [Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), Zheqi Zhang, Xiaomin Lu, [Zewen Li](https://zewenli.cn/) <br /> 
   🌊 [**Significant Wave Height Prediction based on Wavelet Graph Neural Network**](https://ieeexplore.ieee.org/document/9515293/)<br />
-  In 2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI) (Best Presentation Award). [[arxiv]](https://arxiv.org/abs/2107.09483)<br /></font>
+  In 2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI) <font color='red'>**(Best Presentation Award)**</font>. [[arxiv]](https://arxiv.org/abs/2107.09483)<br /></font>
       
       
 
