@@ -119,7 +119,7 @@ sections:
   <br />
   <u>**Delong Chen**</u>, [Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), Zheqi Zhang, Xiaomin Lu, [Zewen Li](https://zewenli.cn/) <br /> 
   🌊 [**Significant Wave Height Prediction based on Wavelet Graph Neural Network**](https://ieeexplore.ieee.org/document/9515293/)<br />
-  In 2021 IEEE 4th International Conference on Big Data and Artificial Intelligence <font color='red'>**(Best Presentation Award)**</font>. [[arxiv]](https://arxiv.org/abs/2107.09483)<br /></font>
+  In 2021 IEEE 4th International Conference on Big Data and Artificial Intelligence <font color='red'>**(Best Presentation)**</font>. [[arxiv]](https://arxiv.org/abs/2107.09483)<br /></font>
       
       
 
