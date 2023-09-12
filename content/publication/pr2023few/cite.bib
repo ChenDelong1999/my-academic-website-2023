@@ -1,0 +1,13 @@
+@article{LIU2024109904,
+title = {Few-shot classification guided by generalization error bound},
+journal = {Pattern Recognition},
+volume = {145},
+pages = {109904},
+year = {2024},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109904},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323006027},
+author = {Fan Liu and Sai Yang and Delong Chen and Huaxi Huang and Jun Zhou},
+keywords = {Few-shot classification, Generalization error bound, Self-supervised learning, Knowledge distillation},
+abstract = {Recently, transfer learning has generated promising performance in few-shot classification by pre-training a backbone network on base classes and then applying it to novel classes. Nevertheless, there lacks a theoretical analysis on how to reduce the generalization error during the learning process. To fill this gap, we prove that the classification error bound on novel classes is mainly determined by the base-class generalization error, given the base-novel domain divergence and the novel-class generalization error produced by an incremental learner using novel samples. The novel-class generalization error is further decided by the base-class empirical error and the VC-dimension of the hypothesis space. Based on this theoretical analysis, we propose a Born-Again Networks under Self-supervised Label Augmentation (BANs-SLA) method to improve the generalization capability of classifiers. In this method, cross-entropy and supervised contrastive losses are simultaneously used to minimize the base-class empirical error in the expanded space with SLA. Afterward, BANs are adopted to transfer the knowledge sequentially across generations, which acts as an effective regularizer to trade-off the VC-dimension. Extensive experimental results have verified the effectiveness of our method, which establishes the new state-of-the-art performance on popular few-shot classification benchmark datasets.}
+}

@@ -156,7 +156,7 @@ sections:
       subtitle: ''
       text: |-
         {{% callout note %}}
-        See full publication in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate) or discover relevant content by filtering publications [here](./publication/).
+        See full publication list in [**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate) or [**this page**](./publication/).
         {{% /callout %}}
       filters:
         folders:
