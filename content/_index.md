@@ -13,7 +13,7 @@ sections:
   - block: markdown
     id: news
     content:
-      title: News
+      title: News 🚀
       text: "
 
       ## **2023**
@@ -21,7 +21,7 @@ sections:
       ---
 
 
-**[2023-09-01]**. 🎓 I started my Ph.D.  study at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/) at the [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/).
+**[2023-09-01]**. 🎓 I started my Ph.D. study at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/) at the [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/).
 <br /><br />
 
 **[2023-07-18]**. Our **`Diffusion-Conductor`** is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)! The GAN-based **`Virtual Conductor`** proposed in my bachelor thesis is now upgraded to its diffusion-based version!
@@ -152,7 +152,7 @@ sections:
     id: publications
     content:
       count: 100
-      title: Publications
+      title: Publications ✍
       subtitle: ''
       text: |-
         {{% callout note %}}
@@ -184,7 +184,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: Experience 🎓
       subtitle: ''
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -198,48 +198,109 @@ sections:
         - title: Ph.D. Student
           company: Hong Kong University of Science and Technology (HKUST)
           company_url: 'https://hkust.edu.hk/'
-          company_logo: ''
+          company_logo: 'hkust'
           location: Hong Kong
           date_start: '2023-09-01'
           date_end: ''
-          description: 'Supervisor: Prof. Pascale Fung'
+          description: '
+          - [Department of Electronic & Computer Engineering (ECE)](https://ece.hkust.edu.hk/) and [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/)
+
+          ---
+
+          Supervisor: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) (冯雁)
+          '
 
         - title: Research Intern
           company: Xiaobing.AI (XiaoIce/小冰)
           company_url: 'https://www.xiaoice.com/'
           company_logo: ''
-          location: Beijing
+          location: 'Beijing'
           date_start: '2023-03-01'
-          date_end: ''
-          description: Multi-modal Large Language Models, Conversational AI
+          date_end: '2023-09-01'
+          description: '
+          Research Projects:
+          
+          - [Visual Instruction Tuning with Polite Flamingo](https://arxiv.org/abs/2307.01003). arXiv Preprint.
+          
+          - [Instruct Flamingo: Codebase and Fondation Models for Visual Instruction Tuning](https://github.com/ChenDelong1999/instruct-flamingo). Open Source Project.
+
+          - [Taming Diffusion Models for Music-driven Conducting Motion Generation](https://arxiv.org/abs/2306.10065). AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse (Best Paper).
+
+          ---
+
+          Mentors: [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元), [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) 
+          '
         
         - title: Research Intern
           company: Megvii Research (旷视研究院)
           company_url: 'https://en.megvii.com/'
-          company_logo: ''
+          company_logo: 'megvii'
           location: Beijing
           date_start: '2021-09-01'
           date_end: '2022-09-01'
-          description: Large-scale vision-language pretraining
+          description: '
+          Research Project:
+
+          - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996)
+
+
+          ---
+
+          Mentors: [Yiping Bao](https://scholar.google.com/citations?hl=zh-CN&user=EB9_W4kAAAAJ) (鲍一平), [Zhao Wu](https://scholar.google.com/citations?hl=zh-CN&user=rhIsGusAAAAJ) (吴曌) 
+          '
 
         - title: Research Assistant
           company: AIM Group, Hohai University (河海大学多模态人工智能实验室)
           company_url: 'https://multimodality.group'
-          company_logo: ''
+          company_logo: 'hhu'
           location: Nanjing (Remote)
           date_start: '2021-09-01'
           date_end: '2023-09-01'
-          description: |2-
-              Lead a team of graduate students working on research projects include:
-              * Vision-language learning for earth observations (satellite and UAV images)
-              * Few-shot learning for visual recognition
-              * Hydrological time-series forecasting
-              * Music-motion pretraining for beat tracking
-        
+          description: '
+          
+          
+          Vision-language Learning:
+            
+            - [RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/pdf/2306.11029). arXiv Preprint.
+            
+            - [MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset](https://www.sciencedirect.com/science/article/pii/S0031320323002194). Pattern Recognition.
+
+
+          <br/>          
+          Few-shot Learning:
+
+            - [Few-shot classification guided by generalization error bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027). Pattern Recognition.
+
+            - [Few-shot Classification via Ensemble Learning with Multi-Order Statistics](https://arxiv.org/pdf/2305.00454). IJCAI-23 (oral).
+
+
+
+          <br/>          
+          AI for Hydro-Science:
+
+            - [A Simple Baseline for Adversarial Domain Adaptation-based Unsupervised Flood Forecasting](https://arxiv.org/pdf/2206.08105). arXiv Preprint.
+
+            - [Asymmetric exponential loss function for crack segmentation](https://link.springer.com/article/10.1007/s00530-022-00944-4). Multimedia Systems.
+
+            - [Significant Wave Height Prediction based on Wavelet Graph Neural Network](https://ieeexplore.ieee.org/iel7/9515196/9515201/09515293.pdf). IEEE BDAI 2021.
+          
+
+          <br/>          
+          Face Recogniztion and Analysis:
+          
+            - [Deep Learning based Single Sample Face Recognition: a Survey](https://link.springer.com/article/10.1007/s10462-022-10240-2). Artificial Intelligence Review.
+
+            - [A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0952197622003967). Engineering Applications of Artificial Intelligence.
+          
+
+          ---
+
+          Supervisor: [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/)(刘凡) 
+        '
         - title: Orchestra Leader and Concert Master
           company: Symphony Orchestra of Hohai University (河海大学管弦乐团)
           company_url: ''
-          company_logo: 
+          company_logo: hhu
           location: Nanjing
           date_start: '2019-05-01'
           date_end: '2020-09-01'
@@ -248,26 +309,33 @@ sections:
         - title: Summer Program
           company: The University of British Columbia (UBC)
           company_url: 'https://www.ubc.ca/'
-          company_logo: ''
+          company_logo: 'ubc'
           location: Vancuver, Canada
           date_start: '2018-07-15'
           date_end: '2021-08-15'
           description: |2-
-              Two Courses Taken
+              Courses：
               * Computation for Natural Language Processing (scored 97/100)
               * Linguistics for Natural Language Processing (scored 85/100)
 
-        - title: Undergraduate Study
+        - title: Undergraduate Study (Computer Science)
           company: Hohai University (河海大学)
           company_url: 'https://en.hhu.edu.cn/'
-          company_logo: ''
+          company_logo: 'hhu'
           location: Nanjing
           date_start: '2017-09-01'
           date_end: '2021-06-01'
-          description: |2-
-            * Bachelor of Science degree in Computer Science
-            * Excellent Graduate Student
-            * First-class Outstanding Graduation Thesis of Jiangsu Province
+          description: '          
+
+            Thesis Research: 
+
+            - [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf). 河海大学优秀毕业论文, 江苏省优秀本科毕业论文一等奖. (Outstanding Graduation Thesis of HHU, First-class Outstanding Graduation Thesis of Jiangsu Province)
+
+            - [VirtualConductor: Music-driven Conducting Video Generation System](https://arxiv.org/abs/2108.04350). ICME 2021 (Best Demo Award).
+
+            - [Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation](https://link.springer.com/content/pdf/10.1007/s11390-022-2030-z.pdf). Journal of Computer Science and Technology.
+
+            '
     design:
       columns: '2'
   # - block: accomplishments
@@ -339,66 +407,45 @@ sections:
   - block: markdown
     id: awards
     content:
-      title: Selected awards, prizes, and honors
+      title: Awards ✨
       subtitle: ''
-      text: "
+      text: '
 
-- **2023-01.**	**Best Paper Award** at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
-  <br /><br />
+- **2023-01**.  **Best Paper Award** at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
 
-- **2022-06.**	江苏省优秀本科毕业论文一等奖 
-  <br /> **First Class Outstanding Graduation Thesis** of Jiangsu Province
-  <br /><br />
+- **2022-06**.  **江苏省优秀本科毕业论文一等奖** First Class Outstanding Graduation Thesis of Jiangsu Province
 
-- **2021-08.**	**Best Dataset Paper Award** at Long-Tailed Distribution Learning Workshop, IJCAI 2021
-  <br /><br />
+- **2021-08**. 	**Best Dataset Paper Award** at Long-Tailed Distribution Learning Workshop, IJCAI 2021
 
-- **2021-07.**	**Best Demo Award** at IEEE International Conference on Multimedia and Expo (ICME) 2021
-  <br /><br />
+- **2021-07**. 	**Best Demo Award**  at IEEE International Conference on Multimedia and Expo (ICME) 2021
 
-- **2021-07.**	**Best Presentation Winner** at 2021 4th International Conference on Big Data and Artificial Intelligence
-  <br /><br />
+- **2021-07**. 	**Best Presentation Winner**  at 2021 4th International Conference on Big Data and Artificial Intelligence
 
-- **2021-06.**	河海大学2021届本科优秀毕业设计 
-  <br /> **Outstanding Graduation Thesis** of Hohai University in 2021
-  <br /><br />
+- **2021-06**. 	**河海大学2021届本科优秀毕业设计** Outstanding Graduation Thesis of Hohai University in 2021
 
-- **2021-06.** 河海大学2021届本科“优秀毕业生”荣誉称号 
-  <br /> 	Excellent Graduate Student of Hohai University (highest honor)
-  <br /><br />
+- **2021-06**.  **河海大学2021届本科“优秀毕业生”荣誉称号** Excellent Graduate Student of Hohai University (highest honor)
 
-- **2021-04.** 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 
-  <br /> 	First Prize in 2020 Campus Music Competition of Jiangsu Province
-  <br /><br />
+- **2021-04**.  **2020江苏省大学生网络文化节校园歌曲作品征集一等奖** First Prize in 2020 Campus Music Competition of Jiangsu Province
 
-- **2020-05.**	“江苏省优秀共青团员”称号 
-  <br /> Excellent Communist Youth League Member of Jiangsu Province
-  <br /><br />
+- **2020-05**. 	**“江苏省优秀共青团员”称号** Excellent Communist Youth League Member of Jiangsu Province
 
-- **2020-10.**	“2019江苏省大学生年度人物”提名奖 
-  <br /> Nomination Award for the Person of the Year in Jiangsu Province in 2019
-  <br /><br />
+- **2020-10**. 	**“2019江苏省大学生年度人物”提名奖** Nomination Award for the Person of the Year in Jiangsu Province in 2019
 
-- **2020-04.**	2020年河海大学“海韵风华大学生年度人物”称号 
-  <br /> Hohai University's 2019 Undergraduate Person of the Year
-  <br /><br />
+- **2020-04**. 	**2020年河海大学“海韵风华大学生年度人物”称号** Hohai University 2019 Undergraduate Person of the Year
 
-- **2019-06.**	第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖，团队负责人 
-  <br /> Third Prize of The 8th China Software Cup Competition, East China Division Finals (team Leader)
-  <br /><br />
+- **2019-06**. 	**第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖** （团队负责人） Third Prize of The 8th China Software Cup (East China Division Finals)
 
-- **2017-10.**	河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号 
-  <br /> Best Debater in the 2017 Freshman Cup Debate Competition of the School of Computer and Information, Hohai University	Aug. 2021
-  <br /><br />
-"
+- **2017-10**. 	**河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号** Best Debater in the 2017 Freshman Cup Debate Competition at Hohai University
+
+'
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      view: 4
+      columns: '1'
   - block: portfolio
     id: music
     content:
-      title: Music🎻
+      title: Music 🎻
       subtitle: ''
       filters:
         folders:
@@ -426,7 +473,7 @@ sections:
   - block: markdown
     id: gallery
     content:
-      title: Gallery
+      title: Gallery 📸
       subtitle: ''
       text: |-
         {{< gallery album="demo" order="desc">}}
