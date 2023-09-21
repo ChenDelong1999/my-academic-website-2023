@@ -20,6 +20,12 @@ sections:
 
       ---
 
+**[2023-09-21]**. Happy share the latest work colaborated with Xinyu Zhou (周欣宇) <font color='red'>❤</font>. We study the potential of building unified spoken-dialogue system based on large language models, thus enable AI chatbots to “think how to respond” and “think how to speak” at the same time!
+
+  > <font size=2>[Xinyu Zhou](https://www.linkedin.com/in/xinyu-zhou2000/), **<u>Delong Chen</u>**, [Yudong Chen](https://rwxy.cuc.edu.cn/2019/0730/c5134a133504/pagem.htm)<br /> 
+  🎙 [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)<br /> 
+  YFRSW at Interspeech 2023, and AMLaP Asia at CUHK. [[arxiv]](https://arxiv.org/abs/2309.11000) [[github]](https://github.com/XinyuZhou2000/Spoken_Dialogue) <br /></font>
+
 
 **[2023-09-01]**. 🎓 I started my Ph.D. study at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/) at the [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/).
 <br /><br />
