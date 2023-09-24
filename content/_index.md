@@ -158,7 +158,7 @@ sections:
     id: publications
     content:
       count: 100
-      title: Publications ✍
+      title: Selected Publications ⭐
       subtitle: ''
       text: |-
         {{% callout note %}}
