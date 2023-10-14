@@ -27,8 +27,9 @@ sections:
   YFRSW at Interspeech 2023, and AMLaP Asia at CUHK. [[arxiv]](https://arxiv.org/abs/2309.11000) [[github]](https://github.com/XinyuZhou2000/Spoken_Dialogue) <br /></font>
 
 
-**[2023-09-01]**. 🎓 I started my Ph.D. study at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/) at the [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/).
-<br /><br />
+{{% callout note %}}
+**[2023-09-01]**.  I started my Ph.D. study at Hong Kong University of Science and Technology (HKUST) supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/).
+{{% /callout %}}
 
 **[2023-07-18]**. Our **`Diffusion-Conductor`** is awarded as Best Paper in [AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse](https://sites.google.com/view/aaai23-ai-x-metaverse/home)! The GAN-based **`Virtual Conductor`** proposed in my bachelor thesis is now upgraded to its diffusion-based version!
 
@@ -37,7 +38,7 @@ sections:
   In AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, 2023 <font color='red'>**(Best Paper)**</font>.  [[arxiv]](https://arxiv.org/abs/2306.10065) [[github]](https://github.com/viiika/Diffusion-Conductor) <br /></font>
 
 
-**[2023-06-30]**. Excited to share my latest work done during my internship at Xiaobing.AI -- **`Polite Flamingo`**! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter to address the degeneration of response politness, which is a typical instance of the *\"multi-modal alignment tax\"*. Many thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and thanks [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST!
+**[2023-06-30]**. Excited to share my latest work done during my internship at Xiaobing.AI -- **`Polite Flamingo`**! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\". Many thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST!
 
   > <font size=2>**<u>Delong Chen</u>**, [Jianfeng Liu]((https://www.linkedin.com/in/jianfeng-liu-9539897b/)), [Wenliang Dai](https://wenliangdai.github.io/), [Baoyuan Wang](https://sites.google.com/site/zjuwby/)<br /> 
   🦩 [**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)<br />
@@ -52,11 +53,11 @@ sections:
   [[arxiv]](https://arxiv.org/abs/2306.11029) [[github]](https://github.com/ChenDelong1999/RemoteCLIP)<br /></font>
       
 
-**[2023-05-29]**. Our paper \"Few-shot Transfer of Multi-modal Foundational Models: A Survey\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
+<!-- **[2023-05-29]**. Our paper \"Few-shot Transfer of Multi-modal Foundational Models: A Survey\" (多模态大模型小样本迁移方法研究进展综述) is accepted by ChinaMM (中国多媒体大会) 2023.
 
   > <font size=2>张天舒, 刘凡, <u>**陈德龙**</u> (✉), 管张青云, 蔡雯雯, 周晓聪<br />
   📗 **多模态大模型小样本迁移方法研究进展综述**<br />
-  2023中国多媒体大会 <br /></font>
+  2023中国多媒体大会 <br /></font> -->
 
 
 **[2023-04-22]**. Our paper of Ensemble Learning with Multi-Order Statistics (**`ELMOS`**) is accepted by IJCAI-23 as oral presentation! Our proposed model achieves SoTA few-shot classification accuracy on  CUB dataset, miniImageNet, tiredImageNet, and CIFAR-FS dataset.
@@ -73,8 +74,9 @@ sections:
   Pattern Recognition, 2023.<br /></font>
 
 
+{{% callout note %}}
 **[2023-03-08]**. I joined Xiaobing.AI (小冰) as a research intern, and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
-      <br /><br />
+{{% /callout %}}
 
 ## **2022**
       
@@ -109,9 +111,9 @@ sections:
       ---
 
 
-**[2021-09-22]**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern. My research project is related to multi-modal self-supervised learning and CLIP-style vision-language pretraining.
-
-
+{{% callout note %}}
+**[2021-09-22]**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern with [Yiping Bao](https://scholar.google.com/citations?hl=zh-CN&user=EB9_W4kAAAAJ) (鲍一平) and [Zhao Wu](https://scholar.google.com/citations?hl=zh-CN&user=rhIsGusAAAAJ) (吴曌).
+{{% /callout %}}
 
 **[2021-08-21]**. I received a Best Demo Award from [IEEE ICME\'21](http://2021.ieeeicme.org/2021.ieeeicme.org/best_demo_awards.html), a Best Dataset Paper Award from [IJCAI\'21 LTDL workshop](https://ltdl-ijcai21.github.io/submission.html), and a Best Presentation Award from [IEEE BDAI\'21](http://www.bdai.net/2021.html).
       
@@ -129,9 +131,9 @@ sections:
       
       
 
-
-**[2021-07-01]**. I received my B.S. degree in computer science from [Hohai University (河海大学)](https://en.hhu.edu.cn/) in Nanjing, China, and begin to work as research assistant at the Artificial Intelligence of Multi-modality Group ([AIM Group](https://multimodality.group/)) under the supervision of [Prof. Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/).
-
+{{% callout note %}}
+**[2021-07-01]**. I received my Bachelor degree in computer science from [Hohai University (河海大学)](https://en.hhu.edu.cn/) in Nanjing, China, and begin to work as research assistant at the Artificial Intelligence of Multi-modality Group ([AIM Group](https://multimodality.group/)) under the supervision of [Prof. Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/).
+{{% /callout %}}
 
 
 **[1999-03-19]**. I was born in Shunde, Guangdong（广东，顺德）, a beautiful city with a lot of delicious food."
@@ -161,8 +163,8 @@ sections:
       title: Selected Publications ⭐
       subtitle: ''
       text: |-
-        {{% callout note %}}
-        See full publication list in [**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate) or [**this page**](./publication/).
+        {{% callout %}}
+        See full publication list in [**this page**](./publication/) or in [**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate).
         {{% /callout %}}
       filters:
         folders:
@@ -202,7 +204,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ph.D. Student
-          company: Hong Kong University of Science and Technology (HKUST)
+          company: "**Hong Kong University of Science and Technology (HKUST)**"
           company_url: 'https://hkust.edu.hk/'
           company_logo: 'hkust'
           location: Hong Kong
@@ -217,7 +219,7 @@ sections:
           '
 
         - title: Research Intern
-          company: Xiaobing.AI (XiaoIce/小冰)
+          company: "**Xiaobing.AI (XiaoIce/小冰)**"
           company_url: 'https://www.xiaoice.com/'
           company_logo: ''
           location: 'Beijing'
@@ -238,7 +240,7 @@ sections:
           '
         
         - title: Research Intern
-          company: Megvii Research (旷视研究院)
+          company: "**Megvii Research (旷视研究院)**"
           company_url: 'https://en.megvii.com/'
           company_logo: 'megvii'
           location: Beijing
@@ -247,7 +249,7 @@ sections:
           description: '
           Research Project:
 
-          - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996)
+          - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996). arXiv Preprint.
 
 
           ---
@@ -256,7 +258,7 @@ sections:
           '
 
         - title: Research Assistant
-          company: AIM Group, Hohai University (河海大学多模态人工智能实验室)
+          company: "**AIM Group, Hohai University (河海大学多模态人工智能实验室)**"
           company_url: 'https://multimodality.group'
           company_logo: 'hhu'
           location: Nanjing (Remote)
@@ -304,7 +306,7 @@ sections:
           Supervisor: [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/)(刘凡) 
         '
         - title: Orchestra Leader and Concert Master
-          company: Symphony Orchestra of Hohai University (河海大学管弦乐团)
+          company: "**Symphony Orchestra of Hohai University (河海大学管弦乐团)**"
           company_url: ''
           company_logo: hhu
           location: Nanjing
@@ -313,7 +315,7 @@ sections:
           description: 
 
         - title: Summer Program
-          company: The University of British Columbia (UBC)
+          company: "**The University of British Columbia (UBC)**"
           company_url: 'https://www.ubc.ca/'
           company_logo: 'ubc'
           location: Vancuver, Canada
@@ -325,7 +327,7 @@ sections:
               * Linguistics for Natural Language Processing (scored 85/100)
 
         - title: Undergraduate Study (Computer Science)
-          company: Hohai University (河海大学)
+          company: "**Hohai University (河海大学)**"
           company_url: 'https://en.hhu.edu.cn/'
           company_logo: 'hhu'
           location: Nanjing
@@ -333,7 +335,7 @@ sections:
           date_end: '2021-06-01'
           description: '          
 
-            Thesis Research: 
+            Thesis Project: 
 
             - [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf). 河海大学优秀毕业论文, 江苏省优秀本科毕业论文一等奖. (Outstanding Graduation Thesis of HHU, First-class Outstanding Graduation Thesis of Jiangsu Province)
 
@@ -413,7 +415,7 @@ sections:
   - block: markdown
     id: awards
     content:
-      title: Awards ✨
+      title: Awards✨ 
       subtitle: ''
       text: '
 
