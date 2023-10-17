@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Delong Chen
-date: 2022-10-24
+date: 2023-10-17
 type: landing
 
 sections:
@@ -16,9 +16,16 @@ sections:
       title: News 🚀
       text: "
 
-      ## **2023**
+ 
+
+<div id='title-2023' style='width:auto;height:auto;background-color: transparent;' onclick='onTileClick_2023 ()'>
+<h2>&#9660 2023</h2>
+</div>
+<div id='news-2023' style='width:auto;overflow: hidden;height:auto;background-color: transparent;transition: height 1.0s;'>
+
 
       ---
+
 
 **[2023-09-21]**. Happy to share the latest work collaborated with Xinyu Zhou (周欣宇) <font color='red'>❤</font>. We study the potential of building a unified spoken-dialogue system based on large language models, thus enabling AI chatbots to “think how to respond” and “think how to speak” at the same time!
 
@@ -36,6 +43,7 @@ sections:
   > <font size=2>[Zhuoran Zhao](https://alicezrzhao.github.io/), [Jinbin Bai](https://noyii.github.io/), **<u>Delong Chen</u>**, Debang Wang, Yubo Pan<br /> 
   🎶 [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)<br /> 
   In AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse, 2023 <font color='red'>**(Best Paper)**</font>.  [[arxiv]](https://arxiv.org/abs/2306.10065) [[github]](https://github.com/viiika/Diffusion-Conductor) <br /></font>
+
 
 
 **[2023-06-30]**. Excited to share my latest work done during my internship at Xiaobing.AI -- **`Polite Flamingo`**! During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\". Many thanks my great mentors [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) at Xiaobing.AI, and [Wenliang Dai](https://wenliangdai.github.io/) (戴文亮) at HKUST!
@@ -78,9 +86,33 @@ sections:
 **[2023-03-08]**. I joined Xiaobing.AI (小冰) as a research intern, and started to work on multi-modal large language models with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/).
 {{% /callout %}}
 
-## **2022**
-      
+
+
+</div>
+
+<script type='text/javascript'>
+var content_2023 = document.getElementById('news-2023');
+var title_2023 = document.getElementById('title-2023');
+function onTileClick_2023() {
+    if (content_2023.style.height === '0px') {
+        content_2023.style.height = 'auto';
+        title_2023.innerHTML = '<h2>&#9660; 2023</h2>';
+    } else {
+        content_2023.style.height = '0px';
+        title_2023.innerHTML = '<h2>&#9654; 2023</h2>';
+    }
+}
+</script>
+
+ 
+<div id='title-2022' style='width:auto;height:auto;background-color: transparent;' onclick='onTileClick_2022 ()'>
+<h2>▶ 2022</h2>
+</div>
+<div id='news-2022' style='width:auto;overflow: hidden;height:0;background-color: transparent;transition: height 1.0s;'>
+
+
       ---
+
 
 **[2022-07-08]**. Our survey paper on Deep Learning Based Single Sample Per Person (SSPP) face recognition is now published in [Artificial Intelligence Review](https://www.springer.com/journal/10462) (IF=12.0). 
       
@@ -106,14 +138,34 @@ sections:
   🎵 [**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](https://link.springer.com/article/10.1007/s11390-022-2030-z) <br />
   In Journal of Computer Science and Technology (JCST), 2022. [[github]](https://github.com/ChenDelong1999/VirtualConductor) [[video]](https://www.youtube.com/watch?v=8lr5Q2qg58w)</font>
 
-## **2021**
+</div>
+
+<script type='text/javascript'>
+var content_2022 = document.getElementById('news-2022');
+var title_2022 = document.getElementById('title-2022');
+function onTileClick_2022() {
+    if (content_2022.style.height === '0px') {
+        content_2022.style.height = 'auto';
+        title_2022.innerHTML = '<h2>&#9660; 2022</h2>';
+    } else {
+        content_2022.style.height = '0px';
+        title_2022.innerHTML = '<h2>&#9654; 2022</h2>';
+    }
+}
+</script>
+ 
+
+ 
+<div id='title-2021' style='width:auto;height:auto;background-color: transparent;' onclick='onTileClick_2021 ()'>
+<h2>&#9654; 2021</h2>
+</div>
+<div id='news-2021' style='width:auto;overflow: hidden;height:0;background-color: transparent;transition: height 1.0s;'>
+
 
       ---
 
-
-{{% callout note %}}
 **[2021-09-22]**. I begin to work at [MEGVII Technology](https://megvii.com/) (旷视研究院) as a research intern with [Yiping Bao](https://scholar.google.com/citations?hl=zh-CN&user=EB9_W4kAAAAJ) (鲍一平) and [Zhao Wu](https://scholar.google.com/citations?hl=zh-CN&user=rhIsGusAAAAJ) (吴曌).
-{{% /callout %}}
+
 
 **[2021-08-21]**. I received a Best Demo Award from [IEEE ICME\'21](http://2021.ieeeicme.org/2021.ieeeicme.org/best_demo_awards.html), a Best Dataset Paper Award from [IJCAI\'21 LTDL workshop](https://ltdl-ijcai21.github.io/submission.html), and a Best Presentation Award from [IEEE BDAI\'21](http://www.bdai.net/2021.html).
       
@@ -136,7 +188,27 @@ sections:
 {{% /callout %}}
 
 
-**[1999-03-19]**. I was born in Shunde, Guangdong（广东，顺德）, a beautiful city with a lot of delicious food."
+
+**[1999-03-19]**. I was born in Shunde, Guangdong（广东，顺德）, a beautiful city with a lot of delicious food.
+
+
+</div>
+
+<script type='text/javascript'>
+var content_2021 = document.getElementById('news-2021');
+var title_2021 = document.getElementById('title-2021');
+function onTileClick_2021() {
+    if (content_2021.style.height === '0px') {
+        content_2021.style.height = 'auto';
+        title_2021.innerHTML = '<h2>&#9660; 2021</h2>';
+    } else {
+        content_2021.style.height = '0px';
+        title_2021.innerHTML = '<h2>&#9654; 2021</h2>';
+    }
+}
+</script>
+
+"
     design:
       columns: '2'
 
