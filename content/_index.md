@@ -31,7 +31,7 @@ sections:
 
   > <font size=2>[Xinyu Zhou](https://www.linkedin.com/in/xinyu-zhou2000/), **<u>Delong Chen</u>**, [Yudong Chen](https://rwxy.cuc.edu.cn/2019/0730/c5134a133504/pagem.htm)<br /> 
   🎙 [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)<br /> 
-  YFRSW at Interspeech 2023, and AMLaP Asia at CUHK. [[arxiv]](https://arxiv.org/abs/2309.11000) [[github]](https://github.com/XinyuZhou2000/Spoken_Dialogue) <br /></font>
+  International Conference on Natural Language and Speech Processing (ICNLSP) 2023. [[arxiv]](https://arxiv.org/abs/2309.11000) [[github]](https://github.com/XinyuZhou2000/Spoken_Dialogue) <br /></font>
 
 
 {{% callout note %}}
