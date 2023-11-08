@@ -37,7 +37,7 @@ abstract: 'The product categories are vital for the E-commerce platforms due to 
 summary:  "> <font color='gray' size=3>We construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which consists of over 3 million products and 599 fine-grained product categories. Previsouly, the [conference version](/publication/icjaiw2021mep/) of this paper won IJCAI 2021 LTDL Best Dataset Paper award.</font>
 
 
-[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** (joint first author), [Xiaoyu Du](https://bio.duxy.cc/), Ruizhuo Gao, [Feng Xu](https://ieeexplore.ieee.org/author/37401237800). In [*Pattern Recognition*](https://www.sciencedirect.com/science/article/pii/S0031320323002194), 2023.
+[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** <font color='gray' size=2>(joint first author)</font>, [Xiaoyu Du](https://bio.duxy.cc/), et al. \"[**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.sciencedirect.com/science/article/pii/S0031320323002194)\". In Pattern Recognition (2023).
 "
 
 tags: [Multimodal Learning, Computer Vision, Deep Learning]

@@ -38,7 +38,7 @@ abstract: 'General-purpose foundation models have become increasingly important 
 summary:  "> <font color='gray' size=3> We introduced RemoteCLIP, the first general-purpose vision-language foundation model for remote sensing. RemoteCLIP outperform previous image-text retrieval SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP baseline by up to 6.39% average accuracy on 12 downstream datasets.</font>
 
 
-[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** (joint first author), Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou). *[Arxiv Preprint](https://arxiv.org/abs/2306.11029)* 2023.
+[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** <font color='gray' size=2>(joint first author)</font>, Qingyunguan Zhang et al. \"[**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**](https://arxiv.org/abs/2306.11029)\". Arxiv Preprint (2023).
 "
 
 tags: [Multimodal Learning, Computer Vision, Deep Learning]
@@ -49,7 +49,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: 'publication/arxiv2023remoteclip/remoteclip.pdf'
+url_pdf: 'https://arxiv.org/abs/2306.11029'
 url_code: 'https://github.com/ChenDelong1999/RemoteCLIP'
 url_dataset: ''
 url_poster: ''

@@ -283,11 +283,10 @@ function onTileClick_2021() {
           date_start: '2023-09-01'
           date_end: ''
           description: '
-          - [Department of Electronic & Computer Engineering (ECE)](https://ece.hkust.edu.hk/) and [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/)
+          - In [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/). Supervisor: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) (冯雁)
 
           ---
 
-          Supervisor: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) (冯雁)
           '
 
         - title: Research Intern
@@ -321,7 +320,7 @@ function onTileClick_2021() {
           description: '
           Research Project:
 
-          - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996). arXiv Preprint.
+          - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996). IEEE TNNLS.
 
 
           ---

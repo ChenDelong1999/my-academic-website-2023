@@ -36,7 +36,7 @@ abstract: 'The correlation between music and human motion has attracted widespre
 summary: "> <font color='gray' size=3>This paper proposed the first deep-learning based music-driven conducting motion generation method, and presented a large-scale music motion dataset ConductorMotion100 with unprecedented 100 hours length. The [associated demo paper](/publication/icme2021virtualconductor/) won the Best Demo Award in IEEE ICME 2021. My [graduation thesis](/uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf) at HHU on this project was awarded as \"First Class of Outstanding Graduation Thesis of Jiangsu Province\" (江苏省优秀本科毕业论文一等奖).</font>
 
 
-[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** (corresponding author), Ruizhi Zhou, Sai Yang, [Feng Xu](https://ieeexplore.ieee.org/author/37401237800). In [*Journal of Computer Science Technology*](https://doi.org/10.1007/s11390-022-2030-z), 2022."
+[Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/), **<u>Delong Chen</u>** <font color='gray' size=2>(corresponding author)</font>, et al. \"[**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](https://doi.org/10.1007/s11390-022-2030-z)\". In Journal of Computer Science Technology, JCST (2022)."
 tags: [Music Information Retrieval, Self-supervised Learning, Deep Learning, Multimodal Learning]
 
 # Display this page in the Featured widget?
