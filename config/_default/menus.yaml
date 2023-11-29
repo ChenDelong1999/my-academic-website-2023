@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: News
-    url: '#news'
+  - name: Awards
+    url: '#awards'
     weight: 20
   - name: Publications
     url: '#publications'
@@ -16,8 +16,8 @@ main:
   - name: Experience
     url: '#experience'
     weight: 40
-  - name: Awards
-    url: '#awards'
+  - name: News
+    url: '#news'
     weight: 45
   - name: Music
     url: '#music'
