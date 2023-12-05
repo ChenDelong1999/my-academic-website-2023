@@ -17,31 +17,31 @@ sections:
       subtitle: ''
       text: '
 
-- **2023-06**.  **Best Paper Award**<br>at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
+- 2023-06.  **Best Paper**<br>at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
 
-- **2022-06**.  **江苏省优秀本科毕业论文一等奖**<br>First Class Outstanding Graduation Thesis of Jiangsu Province
+- 2022-06.  **江苏省优秀本科毕业论文一等奖**<br>First Class Outstanding Graduation Thesis of Jiangsu Province
 
-- **2021-08**. 	**Best Dataset Paper Award**<br>at Long-Tailed Distribution Learning Workshop, IJCAI 2021
+- 2021-08. 	**Best Dataset Paper**<br>at Long-Tailed Distribution Learning Workshop, IJCAI 2021
 
-- **2021-07**. 	**Best Demo Award** <br>at IEEE International Conference on Multimedia and Expo (ICME) 2021
+- 2021-07. 	**Best Demo** <br>at IEEE International Conference on Multimedia and Expo (ICME) 2021
 
-- **2021-07**. 	**Best Presentation Winner**<br>at 2021 4th International Conference on Big Data and Artificial Intelligence
+- 2021-07. 	**Best Presentation Winner**<br>at 2021 4th International Conference on Big Data and Artificial Intelligence
 
-- **2021-06**. 	**河海大学2021届本科优秀毕业设计**<br>Outstanding Graduation Thesis of Hohai University in 2021
+- 2021-06. 	**河海大学2021届本科优秀毕业设计**<br>Outstanding Graduation Thesis of Hohai University in 2021
 
-- **2021-06**.  **河海大学2021届本科“优秀毕业生”荣誉称号**<br>Excellent Graduate Student of Hohai University (highest honor)
+- 2021-06.  **河海大学2021届本科“优秀毕业生”荣誉称号**<br>Excellent Graduate Student of Hohai University (highest honor)
 
-- **2021-04**.  **2020江苏省大学生网络文化节校园歌曲作品征集一等奖**<br>First Prize in 2020 Campus Music Competition of Jiangsu Province
+- 2021-04.  **2020江苏省大学生网络文化节校园歌曲作品征集一等奖**<br>First Prize in 2020 Campus Music Competition of Jiangsu Province
 
-- **2020-05**. 	**“江苏省优秀共青团员”称号**<br>Excellent Communist Youth League Member of Jiangsu Province
+- 2020-05. 	**“江苏省优秀共青团员”称号**<br>Excellent Communist Youth League Member of Jiangsu Province
 
-- **2020-10**. 	**“2019江苏省大学生年度人物”提名奖**<br>Nomination Award for the Person of the Year in Jiangsu Province in 2019
+- 2020-10. 	**“2019江苏省大学生年度人物”提名奖**<br>Nomination Award for the Person of the Year in Jiangsu Province in 2019
 
-- **2020-04**. 	**2020年河海大学“海韵风华大学生年度人物”称号**<br>Hohai University 2019 Undergraduate Person of the Year
+- 2020-04. 	**2020年河海大学“海韵风华大学生年度人物”称号**<br>Hohai University 2019 Undergraduate Person of the Year
 
-- **2019-06**. 	**第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖** （团队负责人）<br>Third Prize of The 8th China Software Cup (East China Division Finals)
+- 2019-06. 	**第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖** （团队负责人）<br>Third Prize of The 8th China Software Cup, East China Division Finals
 
-- **2017-10**. 	**河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号**<br>Best Debater in the 2017 Freshman Cup Debate Competition at Hohai University
+- 2017-10. 	**河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号**<br>Best Debater in the 2017 Freshman Cup Debate Competition at Hohai University
 
 '
     design:
