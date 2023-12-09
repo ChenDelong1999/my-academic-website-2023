@@ -36,7 +36,7 @@ abstract: 'During visual instruction tuning of multi-modal LLM, we introduced a 
 summary:  "> <font color='gray' size=3> During visual instruction tuning of multi-modal LLM, we introduced a multi-modal response rewriter called \"Polite Flamingo\" to address the degeneration of response politness, which is a typical instance of the \"multi-modal alignment tax\".</font>
 
 
-**<u>Delong Chen</u>**, [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/), [Wenliang Dai](https://wenliangdai.github.io/), [Baoyuan Wang](https://sites.google.com/site/zjuwby/). \"[**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)\". Arxiv Preprint  (2023).
+**<u>Delong Chen</u>**, [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/), [Wenliang Dai](https://wenliangdai.github.io/), [Baoyuan Wang](https://sites.google.com/site/zjuwby/). \"[**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)\". In AAAI (2024).
 "
 
 tags: [Multimodal Learning, Computer Vision, Deep Learning]
