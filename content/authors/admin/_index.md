@@ -116,7 +116,7 @@ Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Art
 ---
 
 
-🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
+🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
 He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
 He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
 {style="text-align: justify;"}
