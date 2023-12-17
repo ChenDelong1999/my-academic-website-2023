@@ -59,6 +59,7 @@ sections:
 
 
 ###  🚀 Vision-language Learning and Large Multimodal Models
+<br><br>
 
 - **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
   <br>
@@ -103,6 +104,7 @@ sections:
   ---
   
 ### 🎵 Music and Motion of Orchestral Conducting 
+<br><br>
 
 - **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
   <br>
@@ -137,6 +139,7 @@ sections:
   ---
 
 ### 🔎 Sample-efficient Visual Recognition
+<br><br>
 
 - Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
   <br>
@@ -351,7 +354,7 @@ sections:
     id: music
     content:
       title: Music 🎻
-      subtitle: '<br>Delong is passionate about music.
+      subtitle: '<br>Delong is passionate about music！
       <br>
       He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
       <br>He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
