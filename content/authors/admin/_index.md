@@ -90,8 +90,10 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/) of Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science from Hohai University (河海大学) in 2021, where he was advised by [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/) (刘凡) at the [Artificial Intelligence of Multi-modality Group (AIM Group)](https://multimodality.group/). Afterwards, he have two gap years (2021-2023) doing internships at [MEGVII technology](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs.
+Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/) of Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science from Hohai University (河海大学) in 2021, where he was advised by [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/) (刘凡) at the [Artificial Intelligence of Multi-modality Group (AIM Group)](https://multimodality.group/). Afterwards, he have two gap years (2021-2023) doing internships at [MEGVII Research](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs. 
 {style="text-align: justify;"}
+
+
  <!-- with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋). -->
 
 💡 **Research interests**
@@ -99,24 +101,23 @@ Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Art
   - Multi-modal LLMs, vision language learning
   - Self-supervised visual representation learning
   - Music information retrieval
-{style="text-align: justify;"}
-
-
-<!-- ✍ **Academic Services**
-{style="text-align: justify;"}
-  - Reviewer: ACM MM 2023, Artificial Intelligence Review, IEEE TITS, Journal of Digital Imaging, etc.
 {style="text-align: justify;"} -->
 
+
+✍ **Academic Services**
+{style="text-align: justify;"}
+  - Reviewer: ACM MM 2023, Artificial Intelligence Review, IEEE TITS, Journal of Digital Imaging, etc.
+{style="text-align: justify;"}
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Delong-Chen-CV-2023.pdf" "newtab" >}}CV{{< /staticref >}} (2023.12)
+{style="text-align: justify;"}
 
 <!-- Delong Chen recived **Best Demo** award at IEEE ICME'21, **LTDL Best Dataset Paper** award at IJCAI'21, **Best Paper** award in AAAI'23 Inaugural Summer Symposium Series (AI×Metaverse), **Best Presentation** award at IEEE BDAI'21, and **First Class Outstanding Thesis** of Jiangsu Province (江苏省优秀本科毕业论文一等奖). -->
 <!-- {style="text-align: justify;"} -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Delong-Chen-CV-2023.pdf" "newtab" >}}CV{{< /staticref >}} (2023.12)
-{style="text-align: justify;"}
----
+<!-- {style="text-align: justify;"} -->
 
-
-🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
+<!-- 🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
 He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
 He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
-{style="text-align: justify;"}
+{style="text-align: justify;"} -->

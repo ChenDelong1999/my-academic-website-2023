@@ -13,7 +13,7 @@ sections:
   - block: markdown
     id: awards
     content:
-      title: 'Honors & Awards'
+      title: 'Awards'
       subtitle: ''
       text: '
 
@@ -48,185 +48,315 @@ sections:
       # Choose a layout view
       view: 4
       columns: '2'
-  - block: collection
+
+  - block: markdown
     id: publications
     content:
-      count: 100
-      title: Selected Publications
+      title: 'Publications'
       subtitle: ''
-      text: |-
-        {{% callout %}}
-        See full publication list in [**this page**](./publication/) or in [**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      text: '
+
+
+
+###  🚀 Vision-language Learning and Large Multimodal Models
+
+- **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
+  <br>
+  **Visual Instruction Tuning with Polite Flamingo**
+  <br>
+  *Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.* [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)]
+
+<br><br>
+
+- **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
+  <br>
+  **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
+  <br>
+  *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.* [[github](https://github.com/megvii-research/protoclip)] [[arxiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+
+<br><br>
+
+- Fan Liu*, **<u>Delong Chen</u>***, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
+  <br>
+  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
+  <br>
+  *ArXiv Technical Report, 2023.* [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)]
+
+<br><br>
+
+- **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
+  <br>
+  **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
+  <br>
+  *Workshop Version: IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021.* [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
+  <br>
+  *Journal Version: Pattern Recognition, 2023.* [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
+
+<br><br>
+
+- Xinyu Zhou*, **<u>Delong Chen</u>***, Yudong Chen
+  <br>
+  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  <br>
+  *The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023.* [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
+
+  ---
+  
+### 🎵 Music and Motion of Orchestral Conducting 
+
+- **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
+  <br>
+  **VirtualConductor: Music-driven Conducting Video Generation System**
+  <br>
+  *IEEE International Conference on Multimedia & Expo (ICME) 2021.* [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
+
+<br><br>
+
+- Fan Liu, **<u>Delong Chen</u>✉**,Ruizhi Zhou, Sai Yang, Feng Xu
+  <br>
+  **Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**
+  <br>
+  *Journal of Computer Science and Technology (JCST)*, 2022 [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)] [[doi](http://dx.doi.org/10.1007/s11390-022-2030-z)]
+
+<br><br>
+
+- Zhuoran Zhao, Jinbin Bai, **<u>Delong Chen</u>**, Debang Wang, Yubo Pan
+  <br>
+  **Taming Diffusion Models for Music-driven Conducting Motion Generation**
+  <br>
+  *AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse.* [[github](https://github.com/viiika/Diffusion-Conductor)] [[arxiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
+
+<br><br>
+
+- **<u>Delong Chen</u>** (Advisor: Fan Liu)
+  <br>
+  **Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss**
+  <br>
+  *Bachelor Degree Thesis, 2021.* [[pdf](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf)] <span style="color:red">(First-class Outstanding Thesis of Jiangsu Province) </span>
+
+  ---
+
+### 🔎 Sample-efficient Visual Recognition
+
+- Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
+  <br>
+  **Deep Learning based Single Sample Face Recognition: A Survey**
+  <br>
+  *Artificial Intelligence Review, 2022.* [[arxiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
+
+<br><br>
+
+- Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
+  <br>
+  **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
+  <br>
+  *Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023.* [[arxiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral)</span>
+
+<br><br>
+
+- Fan Liu, Sai Yang, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
+  <br>
+  **Few-shot Classification Guided by Generalization Error Bound**
+  <br>
+  *Pattern Recognition, 2023.* [[doi](https://doi.org/10.1016/j.patcog.2023.109904)]
+
+<br><br>
+
+- Liang Yao, Fan Liu, Zhiquan Ou, Fei Wang, **<u>Delong Chen</u>**
+  <br>
+  **Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation**
+  <br>
+  *The 17th Chinese Conference on Biometric Recognition, Biometric Recognition (CCBR), 2023.* [[doi](https://doi.org/10.1007/978-981-99-8565-4_21)]
+
+'
     design:
+      # Choose a layout view
+      view: 4
       columns: '1'
-      view: 5
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      subtitle: ''
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Ph.D. Student
-          company: "**Hong Kong University of Science and Technology (HKUST)**"
-          company_url: 'https://hkust.edu.hk/'
-          company_logo: 'hkust'
-          location: Hong Kong
-          date_start: '2023-09-01'
-          date_end: ''
-          description: '
-          - In [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/). Supervisor: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) (冯雁)
+  # - block: collection
+    # id: publications
+    # content:
+      # count: 100
+      # title: Selected Publications
+      # subtitle: ''
+      # text: |-
+        # {{% callout %}}
+        # See full publication list in [**this page**](./publication/) or in [**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate).
+        # {{% /callout %}}
+      # filters:
+        # folders:
+          # - publication
+        # featured_only: true
+    # design:
+      # columns: '1'
+      # view: 5
+  # - block: experience
+  #   id: experience
+  #   content:
+  #     title: Experience
+  #     subtitle: ''
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Ph.D. Student
+  #         company: "**Hong Kong University of Science and Technology (HKUST)**"
+  #         company_url: 'https://hkust.edu.hk/'
+  #         company_logo: 'hkust'
+  #         location: Hong Kong
+  #         date_start: '2023-09-01'
+  #         date_end: ''
+  #         description: '
+  #         - In [Center for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/). Supervisor: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html) (冯雁)
 
-          ---
+  #         ---
 
-          '
+  #         '
 
-        - title: Research Intern
-          company: "**Xiaobing.AI (XiaoIce/小冰)**"
-          company_url: 'https://www.xiaoice.com/'
-          company_logo: ''
-          location: 'Beijing'
-          date_start: '2023-03-01'
-          date_end: '2023-09-01'
-          description: '
-          Research Projects:
+  #       - title: Research Intern
+  #         company: "**Xiaobing.AI (XiaoIce/小冰)**"
+  #         company_url: 'https://www.xiaoice.com/'
+  #         company_logo: ''
+  #         location: 'Beijing'
+  #         date_start: '2023-03-01'
+  #         date_end: '2023-09-01'
+  #         description: '
+  #         Research Projects:
           
-          - [Visual Instruction Tuning with Polite Flamingo](https://arxiv.org/abs/2307.01003). arXiv Preprint.
+  #         - [Visual Instruction Tuning with Polite Flamingo](https://arxiv.org/abs/2307.01003). arXiv Preprint.
           
-          - [Instruct Flamingo: Codebase and Fondation Models for Visual Instruction Tuning](https://github.com/ChenDelong1999/instruct-flamingo). Open Source Project.
+  #         - [Instruct Flamingo: Codebase and Fondation Models for Visual Instruction Tuning](https://github.com/ChenDelong1999/instruct-flamingo). Open Source Project.
 
-          - [Taming Diffusion Models for Music-driven Conducting Motion Generation](https://arxiv.org/abs/2306.10065). AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse (Best Paper).
+  #         - [Taming Diffusion Models for Music-driven Conducting Motion Generation](https://arxiv.org/abs/2306.10065). AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse (Best Paper).
 
-          ---
+  #         ---
 
-          Mentors: [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元), [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) 
-          '
+  #         Mentors: [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元), [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋) 
+  #         '
         
-        - title: Research Intern
-          company: "**Megvii Research (旷视研究院)**"
-          company_url: 'https://en.megvii.com/'
-          company_logo: 'megvii'
-          location: Beijing
-          date_start: '2021-09-01'
-          date_end: '2022-09-01'
-          description: '
-          Research Project:
+  #       - title: Research Intern
+  #         company: "**Megvii Research (旷视研究院)**"
+  #         company_url: 'https://en.megvii.com/'
+  #         company_logo: 'megvii'
+  #         location: Beijing
+  #         date_start: '2021-09-01'
+  #         date_end: '2022-09-01'
+  #         description: '
+  #         Research Project:
 
-          - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996). IEEE TNNLS.
+  #         - [ProtoCILP: Prototypical Contrastive Language Image Pretraining](https://arxiv.org/abs/2206.10996). IEEE TNNLS.
 
 
-          ---
+  #         ---
 
-          Mentors: [Yiping Bao](https://scholar.google.com/citations?hl=zh-CN&user=EB9_W4kAAAAJ) (鲍一平), [Zhao Wu](https://scholar.google.com/citations?hl=zh-CN&user=rhIsGusAAAAJ) (吴曌) 
-          '
+  #         Mentors: [Yiping Bao](https://scholar.google.com/citations?hl=zh-CN&user=EB9_W4kAAAAJ) (鲍一平), [Zhao Wu](https://scholar.google.com/citations?hl=zh-CN&user=rhIsGusAAAAJ) (吴曌) 
+  #         '
 
-        - title: Research Assistant
-          company: "**AIM Group, Hohai University (河海大学多模态人工智能实验室)**"
-          company_url: 'https://multimodality.group'
-          company_logo: 'hhu'
-          location: Nanjing (Remote)
-          date_start: '2021-09-01'
-          date_end: '2023-09-01'
-          description: '
+  #       - title: Research Assistant
+  #         company: "**AIM Group, Hohai University (河海大学多模态人工智能实验室)**"
+  #         company_url: 'https://multimodality.group'
+  #         company_logo: 'hhu'
+  #         location: Nanjing (Remote)
+  #         date_start: '2021-09-01'
+  #         date_end: '2023-09-01'
+  #         description: '
           
           
-          Vision-language Learning:
+  #         Vision-language Learning:
             
-            - [RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/pdf/2306.11029). arXiv Preprint.
+  #           - [RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/pdf/2306.11029). arXiv Preprint.
             
-            - [MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset](https://www.sciencedirect.com/science/article/pii/S0031320323002194). Pattern Recognition.
+  #           - [MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset](https://www.sciencedirect.com/science/article/pii/S0031320323002194). Pattern Recognition.
 
 
-          <br/>          
-          Few-shot Learning:
+  #         <br/>          
+  #         Few-shot Learning:
 
-            - [Few-shot classification guided by generalization error bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027). Pattern Recognition.
+  #           - [Few-shot classification guided by generalization error bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027). Pattern Recognition.
 
-            - [Few-shot Classification via Ensemble Learning with Multi-Order Statistics](https://arxiv.org/pdf/2305.00454). IJCAI-23 (oral).
+  #           - [Few-shot Classification via Ensemble Learning with Multi-Order Statistics](https://arxiv.org/pdf/2305.00454). IJCAI-23 (oral).
 
 
 
-          <br/>          
-          AI for Hydro-Science:
+  #         <br/>          
+  #         AI for Hydro-Science:
 
-            - [A Simple Baseline for Adversarial Domain Adaptation-based Unsupervised Flood Forecasting](https://arxiv.org/pdf/2206.08105). arXiv Preprint.
+  #           - [A Simple Baseline for Adversarial Domain Adaptation-based Unsupervised Flood Forecasting](https://arxiv.org/pdf/2206.08105). arXiv Preprint.
 
-            - [Asymmetric exponential loss function for crack segmentation](https://link.springer.com/article/10.1007/s00530-022-00944-4). Multimedia Systems.
+  #           - [Asymmetric exponential loss function for crack segmentation](https://link.springer.com/article/10.1007/s00530-022-00944-4). Multimedia Systems.
 
-            - [Significant Wave Height Prediction based on Wavelet Graph Neural Network](https://ieeexplore.ieee.org/iel7/9515196/9515201/09515293.pdf). IEEE BDAI 2021.
+  #           - [Significant Wave Height Prediction based on Wavelet Graph Neural Network](https://ieeexplore.ieee.org/iel7/9515196/9515201/09515293.pdf). IEEE BDAI 2021.
           
 
-          <br/>          
-          Face Recogniztion and Analysis:
+  #         <br/>          
+  #         Face Recogniztion and Analysis:
           
-            - [Deep Learning based Single Sample Face Recognition: a Survey](https://link.springer.com/article/10.1007/s10462-022-10240-2). Artificial Intelligence Review.
+  #           - [Deep Learning based Single Sample Face Recognition: a Survey](https://link.springer.com/article/10.1007/s10462-022-10240-2). Artificial Intelligence Review.
 
-            - [A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0952197622003967). Engineering Applications of Artificial Intelligence.
+  #           - [A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning](https://www.sciencedirect.com/science/article/pii/S0952197622003967). Engineering Applications of Artificial Intelligence.
           
 
-          ---
+  #         ---
 
-          Supervisor: [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/)(刘凡) 
-        '
-        - title: Orchestra Leader and Concert Master
-          company: "**Symphony Orchestra of Hohai University (河海大学管弦乐团)**"
-          company_url: ''
-          company_logo: hhu
-          location: Nanjing
-          date_start: '2019-05-01'
-          date_end: '2020-09-01'
-          description: 
+  #         Supervisor: [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/)(刘凡) 
+  #       '
+  #       - title: Orchestra Leader and Concert Master
+  #         company: "**Symphony Orchestra of Hohai University (河海大学管弦乐团)**"
+  #         company_url: ''
+  #         company_logo: hhu
+  #         location: Nanjing
+  #         date_start: '2019-05-01'
+  #         date_end: '2020-09-01'
+  #         description: 
 
-        - title: Summer Program
-          company: "**The University of British Columbia (UBC)**"
-          company_url: 'https://www.ubc.ca/'
-          company_logo: 'ubc'
-          location: Vancuver, Canada
-          date_start: '2018-07-15'
-          date_end: '2021-08-15'
-          description: |2-
-              Courses：
-              * Computation for Natural Language Processing (scored 97/100)
-              * Linguistics for Natural Language Processing (scored 85/100)
+  #       - title: Summer Program
+  #         company: "**The University of British Columbia (UBC)**"
+  #         company_url: 'https://www.ubc.ca/'
+  #         company_logo: 'ubc'
+  #         location: Vancuver, Canada
+  #         date_start: '2018-07-15'
+  #         date_end: '2021-08-15'
+  #         description: |2-
+  #             Courses：
+  #             * Computation for Natural Language Processing (scored 97/100)
+  #             * Linguistics for Natural Language Processing (scored 85/100)
 
-        - title: Undergraduate Study (Computer Science)
-          company: "**Hohai University (河海大学)**"
-          company_url: 'https://en.hhu.edu.cn/'
-          company_logo: 'hhu'
-          location: Nanjing
-          date_start: '2017-09-01'
-          date_end: '2021-06-01'
-          description: '          
+  #       - title: Undergraduate Study (Computer Science)
+  #         company: "**Hohai University (河海大学)**"
+  #         company_url: 'https://en.hhu.edu.cn/'
+  #         company_logo: 'hhu'
+  #         location: Nanjing
+  #         date_start: '2017-09-01'
+  #         date_end: '2021-06-01'
+  #         description: '          
 
-            Thesis Project: 
+  #           Thesis Project: 
 
-            - [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf). 河海大学优秀毕业论文, 江苏省优秀本科毕业论文一等奖. (Outstanding Graduation Thesis of HHU, First-class Outstanding Graduation Thesis of Jiangsu Province)
+  #           - [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf). 河海大学优秀毕业论文, 江苏省优秀本科毕业论文一等奖. (Outstanding Graduation Thesis of HHU, First-class Outstanding Graduation Thesis of Jiangsu Province)
 
-            - [VirtualConductor: Music-driven Conducting Video Generation System](https://arxiv.org/abs/2108.04350). ICME 2021 (Best Demo Award).
+  #           - [VirtualConductor: Music-driven Conducting Video Generation System](https://arxiv.org/abs/2108.04350). ICME 2021 (Best Demo Award).
 
-            - [Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation](https://link.springer.com/content/pdf/10.1007/s11390-022-2030-z.pdf). Journal of Computer Science and Technology.
+  #           - [Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation](https://link.springer.com/content/pdf/10.1007/s11390-022-2030-z.pdf). Journal of Computer Science and Technology.
 
-            '
-    design:
-      columns: '2'
+  #           '
+  #   design:
+  #     columns: '2'
 
   - block: portfolio
     id: music
     content:
       title: Music 🎻
-      subtitle: ''
+      subtitle: '<br>Delong is passionate about music.
+      <br>
+      He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
+      <br>He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
+      <br>He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
+      <br><br>'
       filters:
         folders:
           - project
@@ -254,7 +384,7 @@ sections:
     id: gallery
     content:
       title: Gallery 📸
-      subtitle: ''
+      subtitle: '<br><br>'
       text: |-
         {{< gallery album="demo" order="desc">}}
     design:
