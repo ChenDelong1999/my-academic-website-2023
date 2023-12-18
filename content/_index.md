@@ -387,7 +387,7 @@ sections:
     id: gallery
     content:
       title: Gallery 📸
-      subtitle: '<br><br>'
+      subtitle: '<br>An overview of Delong through the time aixs<br><br>'
       text: |-
         {{< gallery album="demo" order="desc">}}
     design:
