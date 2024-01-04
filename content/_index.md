@@ -65,7 +65,7 @@ sections:
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
   <br>
-  *Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.* [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)]
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)]
 
 <br><br>
 
@@ -73,7 +73,7 @@ sections:
   <br>
   **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
   <br>
-  *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.* [[github](https://github.com/megvii-research/protoclip)] [[arxiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arxiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
 
 <br><br>
 
@@ -81,7 +81,7 @@ sections:
   <br>
   **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
   <br>
-  *ArXiv Technical Report, 2023.* [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)]
+  ArXiv Technical Report, 2023. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)]
 
 <br><br>
 
@@ -91,7 +91,7 @@ sections:
   <br>
   *Workshop Version: IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021.* [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
   <br>
-  *Journal Version: Pattern Recognition, 2023.* [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
+  Journal Version: Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
 <br><br>
 
@@ -99,7 +99,7 @@ sections:
   <br>
   **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
   <br>
-  *The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023.* [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
 
   ---
   
@@ -110,7 +110,7 @@ sections:
   <br>
   **VirtualConductor: Music-driven Conducting Video Generation System**
   <br>
-  *IEEE International Conference on Multimedia & Expo (ICME) 2021.* [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
+  IEEE International Conference on Multimedia & Expo (ICME) 2021. [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
 
 <br><br>
 
@@ -118,7 +118,7 @@ sections:
   <br>
   **Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**
   <br>
-  *Journal of Computer Science and Technology (JCST)*, 2022 [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)] [[doi](http://dx.doi.org/10.1007/s11390-022-2030-z)]
+  Journal of Computer Science and Technology (JCST), 2022 [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)] [[doi](http://dx.doi.org/10.1007/s11390-022-2030-z)]
 
 <br><br>
 
@@ -126,26 +126,28 @@ sections:
   <br>
   **Taming Diffusion Models for Music-driven Conducting Motion Generation**
   <br>
-  *AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse.* [[github](https://github.com/viiika/Diffusion-Conductor)] [[arxiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
+  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arxiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
 
 <br><br>
 
 - **<u>Delong Chen</u>** (Advisor: Fan Liu)
   <br>
-  **Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss**
+  **基于动态频域分解与自监督跨模态感知的乐队指挥动作生成**
   <br>
-  *Bachelor Degree Thesis, 2021.* [[pdf](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf)] <span style="color:red">(First-class Outstanding Thesis of Jiangsu Province) </span>
+  (Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss)
+  <br>
+  Bachelor Degree Thesis, 2021. [[pdf](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf)] <span style="color:red">(First-class Outstanding Thesis of Jiangsu Province) </span>
 
   ---
 
 ### 🔎 Sample-efficient Visual Recognition
 <br><br>
 
-- Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
+- Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
-  **Deep Learning based Single Sample Face Recognition: A Survey**
+  **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
   <br>
-  *Artificial Intelligence Review, 2022.* [[arxiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
+  ArXiv Technical Report, 2024. [[arxiv](https://arxiv.org/abs/2401.01736)]
 
 <br><br>
 
@@ -153,7 +155,7 @@ sections:
   <br>
   **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
   <br>
-  *Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023.* [[arxiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral)</span>
+  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arxiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral)</span>
 
 <br><br>
 
@@ -161,17 +163,24 @@ sections:
   <br>
   **Few-shot Classification Guided by Generalization Error Bound**
   <br>
-  *Pattern Recognition, 2023.* [[doi](https://doi.org/10.1016/j.patcog.2023.109904)]
+  Pattern Recognition, 2023. [[doi](https://doi.org/10.1016/j.patcog.2023.109904)]
 
 <br><br>
 
-- Liang Yao, Fan Liu, Zhiquan Ou, Fei Wang, **<u>Delong Chen</u>**
+- Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
   <br>
-  **Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation**
+  **Deep Learning based Single Sample Face Recognition: A Survey**
   <br>
-  *The 17th Chinese Conference on Biometric Recognition, Biometric Recognition (CCBR), 2023.* [[doi](https://doi.org/10.1007/978-981-99-8565-4_21)]
-
+  Artificial Intelligence Review, 2022. [[arxiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
 '
+# <br><br>
+
+# - Liang Yao, Fan Liu, Zhiquan Ou, Fei Wang, **<u>Delong Chen</u>**
+#   <br>
+#   **Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation**
+#   <br>
+#   The 17th Chinese Conference on Biometric Recognition, Biometric Recognition (CCBR), 2023. [[doi](https://doi.org/10.1007/978-981-99-8565-4_21)]
+
     design:
       # Choose a layout view
       view: 4
