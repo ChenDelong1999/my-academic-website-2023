@@ -109,7 +109,7 @@ Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Art
   - Reviewer: ACM Multimedia, Artificial Intelligence Review, IEEE Transactions on Intelligent Transportation Systems, Journal of Digital Imaging, etc.
 {style="text-align: justify;"}
 
-📄 Download my {{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}} (2023.12)
+📄 Download my **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on 2023.12)
 {style="text-align: justify;"}
 
 <!-- Delong Chen recived **Best Demo** award at IEEE ICME'21, **LTDL Best Dataset Paper** award at IJCAI'21, **Best Paper** award in AAAI'23 Inaugural Summer Symposium Series (AI×Metaverse), **Best Presentation** award at IEEE BDAI'21, and **First Class Outstanding Thesis** of Jiangsu Province (江苏省优秀本科毕业论文一等奖). -->
