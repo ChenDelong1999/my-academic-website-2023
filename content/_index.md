@@ -65,7 +65,7 @@ sections:
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
   <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)]
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)] <span style="color:red">(Oral)</span>
 
 <br><br>
 
