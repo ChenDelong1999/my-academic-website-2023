@@ -106,7 +106,7 @@ Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Art
 
 ✍ **Academic Services**
 {style="text-align: justify;"}
-  - Reviewer: ACM Multimedia, Artificial Intelligence Review, IEEE Transactions on Intelligent Transportation Systems, Journal of Digital Imaging, etc.
+  - Reviewer: ACM Multimedia, Artificial Intelligence Review, IEEE Transactions on Intelligent Transportation Systems, Journal of Digital Imaging
 {style="text-align: justify;"}
 
 📄 Download my **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on 2023.12)
