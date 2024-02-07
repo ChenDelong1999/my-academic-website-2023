@@ -16,10 +16,10 @@ sections:
       title: 'Publications'
       subtitle: ''
       text: '
+> \* Joint First Authors, ✉ Corresponding Author
 
 
-
-###  🚀 Vision-language Learning and Large Multimodal Models
+###  🚀 Large Language Models and Large Multimodal Models
 <br><br>
 
 - **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
@@ -30,6 +30,16 @@ sections:
 
 <br><br>
 
+- Xinyu Zhou*, **<u>Delong Chen</u>***, Yudong Chen
+  <br>
+  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  <br>
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
+
+
+###  📚 Vision-language Pretraining
+<br><br>
+
 - **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
   <br>
   **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
@@ -38,7 +48,7 @@ sections:
 
 <br><br>
 
-- Fan Liu*, **<u>Delong Chen</u>***, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
+- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
   <br>
   **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
   <br>
@@ -50,17 +60,10 @@ sections:
   <br>
   **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
   <br>
-  *Workshop Version: IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021.* [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
+  Workshop: IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
   <br>
-  Journal Version: Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
+  Journal: Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
-<br><br>
-
-- Xinyu Zhou*, **<u>Delong Chen</u>***, Yudong Chen
-  <br>
-  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
-  <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
 
   
 ### 🎵 Music and Motion of Orchestral Conducting 
@@ -131,6 +134,7 @@ sections:
   **Deep Learning based Single Sample Face Recognition: A Survey**
   <br>
   Artificial Intelligence Review, 2022. [[arxiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
+
 '
 # <br><br>
 
@@ -364,7 +368,7 @@ sections:
       subtitle: '<br>Delong is passionate about music！
       <br>
       He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
-      <br>He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
+      <br>He served as the leader of the Hohai University Symphony Orchestra (河海大学管弦乐团) during 2019-2020. 
       <br>He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
       <br><br>'
       filters:
