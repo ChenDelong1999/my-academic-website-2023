@@ -36,6 +36,13 @@ sections:
   <br>
   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
 
+<br><br>
+
+- Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
+  <br>
+  **Survey of Hallucination in Natural Language Generation**
+  <br>
+  ArXiv Technical Report, 2024. [[arxiv](https://arxiv.org/abs/2202.03629)]
 
 ###  📚 Vision-language Pretraining
 <br><br>
