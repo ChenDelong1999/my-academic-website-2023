@@ -22,6 +22,14 @@ sections:
 ###  🚀 Large Language Models and Large Multimodal Models
 <br><br>
 
+- **<u>Delong Chen</u>**, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung
+  <br>
+  **Subobject-level Image Tokenization**
+  <br>
+  ArXiv Technical Report, 2024. [[github](https://github.com/ChenDelong1999/subobjects)] [[arxiv](https://arxiv.org/abs/2402.14327)]
+
+<br><br>
+
 - **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
