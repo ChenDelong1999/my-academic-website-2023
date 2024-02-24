@@ -38,7 +38,7 @@ sections:
 
 <br><br>
 
-- Xinyu Zhou*, **<u>Delong Chen</u>***, Yudong Chen
+- Xinyu Zhou🌹*, **<u>Delong Chen</u>***, Yudong Chen
   <br>
   **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
   <br>
