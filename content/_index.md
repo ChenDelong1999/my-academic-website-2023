@@ -13,7 +13,7 @@ sections:
   - block: markdown
     id: publications
     content:
-      title: 'Publications'
+      title: 'Publications & Preprints'
       subtitle: ''
       text: '
 > \* Joint First Authors, ✉ Corresponding Author
