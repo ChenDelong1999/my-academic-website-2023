@@ -90,23 +90,24 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is now a first-year Ph.D. student at the [Centre for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/) of Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science from Hohai University (河海大学) in 2021, where he was advised by [Prof. Fan Liu](https://multimodality.group/author/%E5%88%98%E5%87%A1/) (刘凡) at the [Artificial Intelligence of Multi-modality Group (AIM Group)](https://multimodality.group/). Afterwards, he took two gap years (2021-2023) doing internships at [MEGVII Research](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs. 
+Delong Chen (陈德龙) is now a first-year Ph.D. student at Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science from Hohai University (河海大学) in 2021, where he was advised by [Prof. Fan Liu](https://multimodality.group/) (刘凡). Afterwards, he took two gap years doing internships at [MEGVII Research](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs. 
 {style="text-align: justify;"}
 
 
  <!-- with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋). -->
 
-💡 **Research interests**
+💡 **Research interests**: 
 {style="text-align: justify;"}
-  - Multi-modal LLMs, vision language learning
-  - Self-supervised visual representation learning
-  - Music information retrieval
-{style="text-align: justify;"} -->
-
+  - Multimodal (vision-language) learning
+  - Self-supervised representation learning (SSL)
+  - Music Information Retrieval (MIR)
+{style="text-align: justify;"}
 
 ✍ **Academic Services**
 {style="text-align: justify;"}
-  - Reviewer: ACM Multimedia, Artificial Intelligence Review, IEEE Transactions on Intelligent Transportation Systems, Journal of Digital Imaging
+  - Reviewer: ACM Multimedia, Artificial Intelligence Review, IEEE TITS
+  - Teaching Assistant: A System View of Communications (2024 Spring, HKUST)
+  - Volunteer: AAAI-24
 {style="text-align: justify;"}
 
 📄 Download my **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on 2023.12)
