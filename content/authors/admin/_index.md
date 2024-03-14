@@ -105,7 +105,7 @@ Delong Chen (陈德龙) is now a first-year Ph.D. student at Hong Kong Universit
 
 ✍ **Academic Services**
 {style="text-align: justify;"}
-  - Reviewer: ACM Multimedia, Artificial Intelligence Review, IEEE TITS
+  - Reviewer: ACM Multimedia, ACM TIST, Artificial Intelligence Review, IEEE TITS
   - Teaching Assistant: A System View of Communications (2024 Spring, HKUST)
   - Volunteer: AAAI-24
 {style="text-align: justify;"}
