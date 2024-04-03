@@ -56,7 +56,7 @@ social:
     link: mailto:delong.chen@connect.ust.hk
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ&view_op=list_works&sortby=pubdate
+    link: https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ChenDelong1999
@@ -90,33 +90,23 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is now a first-year Ph.D. student at Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science from Hohai University (河海大学) in 2021, where he was advised by [Prof. Fan Liu](https://multimodality.group/) (刘凡). Afterwards, he took two gap years doing internships at [MEGVII Research](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs. 
+Delong Chen (陈德龙) is a first-year Ph.D. student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science in 2021 from Hohai University (河海大学), where he was advised by [Prof. Fan Liu](https://multimodality.group/) (刘凡). Afterwards, he took two gap years doing internships at [MEGVII](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing](https://www.xiaoice.com/). He is now working on multimodal (vision-language) learning and self-supervised representation learning (SSL).
 {style="text-align: justify;"}
 
+<!-- {style="text-align: justify;"}
+Delong Chen recived Best Demo award at IEEE ICME'21, Best Dataset Paper award at LTDL@IJCAI'21, Best Paper award in AAAI'23 Inaugural Summer Symposium Series (AI×Metaverse), and First Class Outstanding Thesis of Jiangsu Province (江苏省优秀本科毕业论文一等奖).
+{style="text-align: justify;"} -->
 
- <!-- with [Baoyuan Wang](https://sites.google.com/site/zjuwby/) (王宝元) and [Jianfeng Liu](https://www.linkedin.com/in/jianfeng-liu-9539897b/) (刘剑锋). -->
 
-💡 **Research interests**: 
+Academic Services
 {style="text-align: justify;"}
-  - Multimodal (vision-language) learning
-  - Self-supervised representation learning (SSL)
-  - Music Information Retrieval (MIR)
-{style="text-align: justify;"}
-
-✍ **Academic Services**
-{style="text-align: justify;"}
-  - Reviewer: ACM MM'23, ACL'24, ACM TIST, Artificial Intelligence Review, IEEE TITS
-  - TA: A System View of Communications (2024 Spring, HKUST)
-  - Volunteer: AAAI-24
+  - Reviewer: ACL'24, ACM Multimedia'23, ACM Transactions on Intelligent Systems and Technology, Artificial Intelligence Review, IEEE Transactions on Intelligent Transportation Systems.
+  - Student Volunteer: AAAI-24
+  - Teaching Assistant: A System View of Communications (2024 Spring, HKUST)
 {style="text-align: justify;"}
 
 📄 Download my **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on March 2024)
 {style="text-align: justify;"}
-
-<!-- Delong Chen recived **Best Demo** award at IEEE ICME'21, **LTDL Best Dataset Paper** award at IJCAI'21, **Best Paper** award in AAAI'23 Inaugural Summer Symposium Series (AI×Metaverse), **Best Presentation** award at IEEE BDAI'21, and **First Class Outstanding Thesis** of Jiangsu Province (江苏省优秀本科毕业论文一等奖). -->
-<!-- {style="text-align: justify;"} -->
-
-<!-- {style="text-align: justify;"} -->
 
 <!-- 🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
 He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 

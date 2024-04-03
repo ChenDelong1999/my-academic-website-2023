@@ -16,17 +16,15 @@ sections:
       title: 'Publications & Preprints'
       subtitle: ''
       text: '
-> \* Joint First Authors, ✉ Corresponding Author
 
-
-###  🚀 Large Language Models and Large Multimodal Models
+###  🚀 Vision and language
 <br><br>
 
 - **<u>Delong Chen</u>**, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung
   <br>
   **Subobject-level Image Tokenization**
   <br>
-  ArXiv Technical Report, 2024. [[github](https://github.com/ChenDelong1999/subobjects)] [[arxiv](https://arxiv.org/abs/2402.14327)]
+  ArXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/subobjects)] [[arxiv](https://arxiv.org/abs/2402.14327)]
 
 <br><br>
 
@@ -38,21 +36,12 @@ sections:
 
 <br><br>
 
-- Xinyu Zhou🌹*, **<u>Delong Chen</u>***, Yudong Chen
+- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
   <br>
-  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
   <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)]
 
-<br><br>
-
-- Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
-  <br>
-  **Survey of Hallucination in Natural Language Generation**
-  <br>
-  ArXiv Technical Report, 2024. [[arxiv](https://arxiv.org/abs/2202.03629)]
-
-###  📚 Vision-language Pretraining
 <br><br>
 
 - **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
@@ -63,24 +52,39 @@ sections:
 
 <br><br>
 
-- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
-  <br>
-  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
-  <br>
-  ArXiv Technical Report, 2023. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)]
-
-<br><br>
-
 - **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
   <br>
   **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
   <br>
-  Workshop: IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
+  (Workshop version) IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
   <br>
-  Journal: Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
+  (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
+###  🤖 Large Language Models
+<br><br>
 
+- Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
+  <br>
+  **Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**
+  <br>
+  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2403.18932)]
+
+<br><br>
+
+- Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
+  <br>
+  **Survey of Hallucination in Natural Language Generation**
+  <br>
+  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2202.03629)]
   
+<br><br>
+
+- Xinyu Zhou🌹*, **<u>Delong Chen</u>***, Yudong Chen
+  <br>
+  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  <br>
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
+
 ### 🎵 Music and Motion of Orchestral Conducting 
 <br><br>
 
@@ -106,16 +110,6 @@ sections:
   <br>
   AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arxiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
 
-<br><br>
-
-- **<u>Delong Chen</u>** (Advisor: Fan Liu)
-  <br>
-  **基于动态频域分解与自监督跨模态感知的乐队指挥动作生成**
-  <br>
-  (Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss)
-  <br>
-  Bachelor Degree Thesis, 2021. [[pdf](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf)] <span style="color:red">(First-class Outstanding Thesis of Jiangsu Province) </span>
-
 
 ### 🔎 Sample-efficient Visual Recognition
 <br><br>
@@ -124,7 +118,7 @@ sections:
   <br>
   **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
   <br>
-  ArXiv Technical Report, 2024. [[arxiv](https://arxiv.org/abs/2401.01736)]
+  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2401.01736)]
 
 <br><br>
 
@@ -150,7 +144,23 @@ sections:
   <br>
   Artificial Intelligence Review, 2022. [[arxiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
 
+<br><br>
+\* Joint First Authors
+<br>
+✉ Corresponding Authors
 '
+
+
+# <br><br>
+
+# - **<u>Delong Chen</u>** (Advisor: Fan Liu)
+#   <br>
+#   **基于动态频域分解与自监督跨模态感知的乐队指挥动作生成**
+#   <br>
+#   (Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss)
+#   <br>
+#   Bachelor Degree Thesis, 2021. [[pdf](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf)] <span style="color:red">(First-class Outstanding Thesis of Jiangsu Province) </span>
+
 # <br><br>
 
 # - Liang Yao, Fan Liu, Zhiquan Ou, Fei Wang, **<u>Delong Chen</u>**
@@ -194,7 +204,7 @@ sections:
 
 - 2019-06. 	**第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖** （团队负责人）<br>Third Prize of The 8th China Software Cup, East China Division Finals
 
-- 2017-10. 	**河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”称号**<br>Best Debater in the 2017 Freshman Cup Debate Competition at Hohai University
+- 2017-10. 	**河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”**<br>Best Debater in the 2017 Freshman Cup Debate Competition at Hohai University
 
 '
     design:
@@ -381,11 +391,11 @@ sections:
     content:
       title: Music 🎻
       subtitle: '<br>Delong is passionate about music！
-      <br>
-      He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
+      <br>He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
       <br>He served as the leader of the Hohai University Symphony Orchestra (河海大学管弦乐团) during 2019-2020. 
       <br>He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
-      <br><br>'
+      <br><br>
+      '
       filters:
         folders:
           - project
@@ -413,7 +423,7 @@ sections:
     id: gallery
     content:
       title: Gallery 📸
-      subtitle: '<br>An overview of Delong through the time aixs<br><br>'
+      subtitle: '<br>'
       text: |-
         {{< gallery album="demo" order="desc">}}
     design:
