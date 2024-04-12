@@ -63,6 +63,14 @@ sections:
 ###  🤖 Large Language Models
 <br><br>
 
+- Samuel Cahyawijaya\*, **<u>Delong Chen</u>\***, Yejin Bang\*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung\*
+  <br>
+  **High-Dimension Human Value Representation in Large Language Models**
+  <br>
+  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2404.07900)]
+
+<br><br>
+
 - Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
   <br>
   **Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**
