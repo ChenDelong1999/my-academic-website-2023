@@ -56,7 +56,7 @@ sections:
   <br>
   **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
   <br>
-  (Workshop version) IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
+  IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
   <br>
   (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 

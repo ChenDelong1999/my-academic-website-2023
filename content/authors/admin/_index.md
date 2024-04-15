@@ -90,7 +90,7 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is a first-year Ph.D. student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science in 2021 from Hohai University (河海大学), where he was advised by [Prof. Fan Liu](https://multimodality.group/) (刘凡). Afterwards, he took two gap years doing internships at [MEGVII](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing](https://www.xiaoice.com/). He is now working on multimodal (vision-language) learning and self-supervised representation learning (SSL).
+Delong Chen (陈德龙) is a first-year Ph.D. student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science in 2021 from Hohai University (河海大学), where he was advised by [Prof. Fan Liu](https://multimodality.group/) (刘凡). Afterwards, he took two gap years doing internships at MEGVII Research, MSRA and Xiaobing.AI. He is now working on vision-language and representation learning.
 {style="text-align: justify;"}
 
 <!-- {style="text-align: justify;"}
@@ -100,9 +100,8 @@ Delong Chen recived Best Demo award at IEEE ICME'21, Best Dataset Paper award at
 
 Academic Services
 {style="text-align: justify;"}
-  - Reviewer: ACL'24, ACM Multimedia'23, ACM Transactions on Intelligent Systems and Technology, Artificial Intelligence Review, IEEE Transactions on Intelligent Transportation Systems.
-  - Student Volunteer: AAAI-24
-  - Teaching Assistant: A System View of Communications (2024 Spring, HKUST)
+  - Reviewer: ACL'24, ACM Multimedia'23, ACM Transactions on Intelligent Systems and Technology (TIST), Artificial Intelligence Review (AIRE), IEEE Transactions on Intelligent Transportation Systems (TITS).
+  - TA: A System View of Communications (2024 Spring, HKUST)
 {style="text-align: justify;"}
 
 📄 Download my **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on March 2024)
