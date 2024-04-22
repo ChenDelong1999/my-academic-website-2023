@@ -32,7 +32,7 @@ sections:
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
   <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)] <span style="color:red">(Oral)</span>
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral)</span>
 
 <br><br>
 
@@ -40,7 +40,7 @@ sections:
   <br>
   **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
   <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)]
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
 
 <br><br>
 
