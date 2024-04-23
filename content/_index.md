@@ -24,7 +24,7 @@ sections:
   <br>
   **Subobject-level Image Tokenization**
   <br>
-  ArXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/subobjects)] [[arxiv](https://arxiv.org/abs/2402.14327)]
+  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/subobjects)] [[arXiv](https://arxiv.org/abs/2402.14327)]
 
 <br><br>
 
@@ -32,7 +32,7 @@ sections:
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
   <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arxiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral)</span>
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arXiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral)</span>
 
 <br><br>
 
@@ -40,7 +40,7 @@ sections:
   <br>
   **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
   <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arxiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
 
 <br><br>
 
@@ -48,7 +48,7 @@ sections:
   <br>
   **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
   <br>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arxiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
 
 <br><br>
 
@@ -67,7 +67,7 @@ sections:
   <br>
   **High-Dimension Human Value Representation in Large Language Models**
   <br>
-  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2404.07900)]
+  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2404.07900)]
 
 <br><br>
 
@@ -75,7 +75,7 @@ sections:
   <br>
   **Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**
   <br>
-  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2403.18932)]
+  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2403.18932)]
 
 <br><br>
 
@@ -83,7 +83,7 @@ sections:
   <br>
   **Survey of Hallucination in Natural Language Generation**
   <br>
-  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2202.03629)]
+  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2202.03629)]
   
 <br><br>
 
@@ -91,7 +91,7 @@ sections:
   <br>
   **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
   <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arxiv](https://arxiv.org/abs/2309.11000)]
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
 
 ### 🎵 Music and Motion of Orchestral Conducting 
 <br><br>
@@ -100,7 +100,7 @@ sections:
   <br>
   **VirtualConductor: Music-driven Conducting Video Generation System**
   <br>
-  IEEE International Conference on Multimedia & Expo (ICME) 2021. [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
+  IEEE International Conference on Multimedia & Expo (ICME) 2021. [[arXiv](https://github.com/ChenDelong1999/VirtualConductor)][[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
 
 <br><br>
 
@@ -116,7 +116,7 @@ sections:
   <br>
   **Taming Diffusion Models for Music-driven Conducting Motion Generation**
   <br>
-  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arxiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
+  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arXiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
 
 
 ### 🔎 Sample-efficient Visual Recognition
@@ -126,7 +126,7 @@ sections:
   <br>
   **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
   <br>
-  ArXiv Preprint, 2024. [[arxiv](https://arxiv.org/abs/2401.01736)]
+  ArXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2401.01736)]
 
 <br><br>
 
@@ -134,7 +134,7 @@ sections:
   <br>
   **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
   <br>
-  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arxiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral)</span>
+  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arXiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral)</span>
 
 <br><br>
 
@@ -150,7 +150,7 @@ sections:
   <br>
   **Deep Learning based Single Sample Face Recognition: A Survey**
   <br>
-  Artificial Intelligence Review, 2022. [[arxiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
+  Artificial Intelligence Review, 2022. [[arXiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
 
 <br><br>
 \* Joint First Authors
