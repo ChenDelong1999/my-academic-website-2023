@@ -28,6 +28,14 @@ sections:
 
 <br><br>
 
+- **<u>Delong Chen</u>**, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung
+  <br>
+  **The Pyramid of Captions**
+  <br>
+  arXiv Preprint, 2024. [[PDF](uploads/PoCa.pdf)]
+
+<br><br>
+
 - **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
