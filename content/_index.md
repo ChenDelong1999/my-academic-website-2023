@@ -44,19 +44,19 @@ sections:
 
 <br><br>
 
-- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
-  <br>
-  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
-  <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
-
-<br><br>
-
 - **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
   <br>
   **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
   <br>
   IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+
+<br><br>
+
+- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
+  <br>
+  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
+  <br>
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
 
 <br><br>
 

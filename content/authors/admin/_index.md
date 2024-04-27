@@ -14,12 +14,12 @@ status:
 superuser: truei
 
 # Role/position/tagline
-role: Ph.D. Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 
-- name: Hong Kong University of Science and Technology (HKUST)
+- name: HKUST
   url: https://hkust.edu.hk/
 # - name: Xiaobing.AI
 #   url: https://www.xiaoice.com/
@@ -90,21 +90,22 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is a first-year Ph.D. student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree of computer science in 2021 from Hohai University (河海大学), where he was advised by [Prof. Fan Liu](https://multimodality.group/) (刘凡). Afterwards, he took two gap years doing internships at MEGVII Research, MSRA and Xiaobing.AI. He is now working on vision-language and representation learning.
+Delong Chen (陈德龙) is a first-year PhD student at Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). He is now working on **vision-language** and **representation learning**. He received the B.Eng degree of computer science in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). Afterwards, he took two gap years doing internships at MEGVII (Face++) Research, MSRA and Xiaobing.AI (Xiaoice). 
 {style="text-align: justify;"}
 
-<!-- {style="text-align: justify;"}
-Delong Chen recived Best Demo award at IEEE ICME'21, Best Dataset Paper award at LTDL@IJCAI'21, Best Paper award in AAAI'23 Inaugural Summer Symposium Series (AI×Metaverse), and First Class Outstanding Thesis of Jiangsu Province (江苏省优秀本科毕业论文一等奖).
+He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21, Best Paper in AAAI'23 Inaugural Summer Symposium Series, and First Class Outstanding Thesis of Jiangsu Province. He served as a reviewer for ARR Feb/Apr 2024, ACM MM 2023/2024, ACM TIST, IEEE TITS, Artificial Intelligence Review, etc.
+{style="text-align: justify;"}
+
+{style="text-align: justify;"}
+
+
+<!-- Academic Services
+{style="text-align: justify;"}
+  - Reviewer: ACL Rolling Review (ARR) Feb/Apr 2024, ACM Multimedia (MM) 2023/2024, ACM Transactions on Intelligent Systems and Technology (TIST), Artificial Intelligence Review (AIRE), IEEE Transactions on Intelligent Transportation Systems (TITS).
+  - TA: A System View of Communications (2024 Spring, HKUST)
 {style="text-align: justify;"} -->
 
-
-Academic Services
-{style="text-align: justify;"}
-  - Reviewer: ACL'24, ACM Multimedia'23, ACM Transactions on Intelligent Systems and Technology (TIST), Artificial Intelligence Review (AIRE), IEEE Transactions on Intelligent Transportation Systems (TITS).
-  - TA: A System View of Communications (2024 Spring, HKUST)
-{style="text-align: justify;"}
-
-📄 Download my **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on March 2024)
+📄 Download **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on March 2024)
 {style="text-align: justify;"}
 
 <!-- 🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
