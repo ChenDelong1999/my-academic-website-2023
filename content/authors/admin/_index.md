@@ -105,7 +105,7 @@ He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21,
   - TA: A System View of Communications (2024 Spring, HKUST)
 {style="text-align: justify;"} -->
 
-📄 Download **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on March 2024)
+📄 Download **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on May 2024)
 {style="text-align: justify;"}
 
 <!-- 🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
