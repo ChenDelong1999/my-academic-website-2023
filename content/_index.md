@@ -32,7 +32,7 @@ sections:
   <br>
   **The Pyramid of Captions**
   <br>
-  arXiv Preprint, 2024. [[PDF](uploads/PoCa.pdf)]
+  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2405.00485)]
 
 <br><br>
 
