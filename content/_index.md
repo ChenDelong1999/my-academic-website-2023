@@ -44,6 +44,17 @@ sections:
 
 <br><br>
 
+- **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
+  <br>
+  **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
+  <br>
+  IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
+  <br>
+  (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
+
+
+### 🌏Representation Learning
+
 - **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
   <br>
   **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
@@ -60,30 +71,20 @@ sections:
 
 <br><br>
 
-- **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
-  <br>
-  **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
-  <br>
-  IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
-  <br>
-  (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
-
-###  🤖 Large Language Models
-<br><br>
-
 - Samuel Cahyawijaya\*, **<u>Delong Chen</u>\***, Yejin Bang\*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung\*
   <br>
   **High-Dimension Human Value Representation in Large Language Models**
   <br>
   arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2404.07900)]
 
-<br><br>
+
+###  🤖 Large Language Models
 
 - Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
   <br>
   **Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**
   <br>
-  ACL 2024 (Main). [[arXiv](https://arxiv.org/abs/2403.18932)]
+  ACL 2024. [[arXiv](https://arxiv.org/abs/2403.18932)]
 
 <br><br>
 
@@ -101,7 +102,7 @@ sections:
   <br>
   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
 
-### 🎵 Music and Motion of Orchestral Conducting 
+### 🎵 Music-driven Motion Generation
 <br><br>
 
 - **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
@@ -127,7 +128,7 @@ sections:
   AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arXiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
 
 
-### 🔎 Sample-efficient Visual Recognition
+### 🔎 Few-shot Visual Recognition
 <br><br>
 
 - Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
