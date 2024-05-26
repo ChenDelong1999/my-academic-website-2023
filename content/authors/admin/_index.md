@@ -62,7 +62,7 @@ social:
     link: https://github.com/ChenDelong1999
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E5%BE%B7%E9%BE%99-%E9%99%88-39685615b
+    link: https://www.linkedin.com/in/chendelong/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Delong0_0
