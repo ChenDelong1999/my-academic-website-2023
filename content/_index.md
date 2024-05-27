@@ -18,7 +18,6 @@ sections:
       text: '
 
 ###  🚀 Vision and language
-<br><br>
 
 - **<u>Delong Chen</u>**, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung
   <br>
@@ -103,7 +102,6 @@ sections:
   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
 
 ### 🎵 Music-driven Motion Generation
-<br><br>
 
 - **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
   <br>
@@ -129,7 +127,6 @@ sections:
 
 
 ### 🔎 Few-shot Visual Recognition
-<br><br>
 
 - Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
