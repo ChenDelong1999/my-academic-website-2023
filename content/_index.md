@@ -74,7 +74,7 @@ sections:
   <br>
   **High-Dimension Human Value Representation in Large Language Models**
   <br>
-  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2404.07900)]
+  arXiv Preprint, 2024. [[github]](https://github.com/HLTCHKUST/UniVaR) [[arXiv](https://arxiv.org/abs/2404.07900)]
 
 
 ###  🤖 Large Language Models
