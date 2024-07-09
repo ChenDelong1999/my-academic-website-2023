@@ -39,7 +39,7 @@ sections:
   <br>
   **Visual Instruction Tuning with Polite Flamingo**
   <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arXiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral)</span>
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arXiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral Presentation)</span>
 
 <br><br>
 
@@ -52,7 +52,7 @@ sections:
   (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
 
-### 🌏Representation Learning
+### 🌏 Representation Learning
 
 - **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
   <br>
@@ -140,7 +140,7 @@ sections:
   <br>
   **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
   <br>
-  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arXiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral)</span>
+  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arXiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral Presentation)</span>
 
 <br><br>
 
@@ -332,7 +332,7 @@ sections:
 
   #           - [Few-shot classification guided by generalization error bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027). Pattern Recognition.
 
-  #           - [Few-shot Classification via Ensemble Learning with Multi-Order Statistics](https://arxiv.org/pdf/2305.00454). IJCAI-23 (oral).
+  #           - [Few-shot Classification via Ensemble Learning with Multi-Order Statistics](https://arxiv.org/pdf/2305.00454). IJCAI-23 (Oral Presentation).
 
 
 
