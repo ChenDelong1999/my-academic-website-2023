@@ -169,7 +169,7 @@ sections:
 
 <br><br>
 
-\* Joint First Authors
+\* Joint First Authors / Equal Contribution
 <br>
 ✉ Corresponding Authors
 '
