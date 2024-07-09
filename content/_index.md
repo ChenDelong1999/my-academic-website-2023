@@ -43,6 +43,22 @@ sections:
 
 <br><br>
 
+- **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
+  <br>
+  **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
+  <br>
+  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+
+<br><br>
+
+- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
+  <br>
+  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
+  <br>
+  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
+
+<br><br>
+
 - **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
   <br>
   **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
@@ -52,23 +68,7 @@ sections:
   (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
 
-### 🌏 Representation Learning
-
-- **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
-  <br>
-  **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
-  <br>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
-
-<br><br>
-
-- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
-  <br>
-  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
-  <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
-
-<br><br>
+###  🤖 Large Language Models
 
 - Samuel Cahyawijaya\*, **<u>Delong Chen</u>\***, Yejin Bang\*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung\*
   <br>
@@ -76,8 +76,7 @@ sections:
   <br>
   arXiv Preprint, 2024. [[github]](https://github.com/HLTCHKUST/UniVaR) [[arXiv](https://arxiv.org/abs/2404.07900)]
 
-
-###  🤖 Large Language Models
+<br><br>
 
 - Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
   <br>
@@ -87,19 +86,27 @@ sections:
 
 <br><br>
 
+- Ziwei Ji, **<u>Delong Chen</u>**, Etsuko Ishii, Samuel Cahyawijaya, Yejin Bang, Bryan Wilie, Pascale Fung
+  <br>
+  **LLM Internal States Reveal Hallucination Risk Faced With a Query**
+  <br>
+  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2407.03282)]
+  
+<br><br>
+
+- Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
+  <br>
+  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  <br>
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
+
+<br><br>
+
 - Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
   <br>
   **Survey of Hallucination in Natural Language Generation**
   <br>
   arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2202.03629)]
-  
-<br><br>
-
-- Xinyu Zhou🌹*, **<u>Delong Chen</u>***, Yudong Chen
-  <br>
-  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
-  <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
 
 ### 🎵 Music-driven Motion Generation
 
@@ -128,13 +135,6 @@ sections:
 
 ### 🔎 Few-shot Visual Recognition
 
-- Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
-  <br>
-  **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
-  <br>
-  ArXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2401.01736)]
-
-<br><br>
 
 - Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
   <br>
@@ -159,6 +159,16 @@ sections:
   Artificial Intelligence Review, 2022. [[arXiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
 
 <br><br>
+
+
+- Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
+  <br>
+  **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
+  <br>
+  ArXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2401.01736)]
+
+<br><br>
+
 \* Joint First Authors
 <br>
 ✉ Corresponding Authors

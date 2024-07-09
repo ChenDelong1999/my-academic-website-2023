@@ -93,7 +93,7 @@ highlight_name: true
 Delong Chen (陈德龙) is a PhD student (2023-) at Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). He is now working on **vision-language** and **representation learning**. He received the B.Eng degree of computer science in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). Afterwards, he took two gap years doing internships at MEGVII (Face++) Research, MSRA and Xiaobing.AI (Xiaoice). 
 {style="text-align: justify;"}
 
-He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21, Best Paper in AAAI'23 Inaugural Summer Symposium Series, and First Class Outstanding Thesis of Jiangsu Province. He served as a reviewer for NeurIPS 2024, ARR Feb/Apr 2024, ACM MM 2023/2024, ACM TIST, IEEE TITS, Artificial Intelligence Review, etc.
+He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21, Best Paper in AAAI'23 Inaugural Summer Symposium Series, and First Class Outstanding Thesis of Jiangsu Province. He served as a reviewer for NeurIPS'24, ACL ARR (ACL'24, EMNLP'24), ACM Multimedia'23/24, ACM TIST, IEEE TITS, Artificial Intelligence Review, etc.
 {style="text-align: justify;"}
 
 {style="text-align: justify;"}
