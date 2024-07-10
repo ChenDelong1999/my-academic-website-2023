@@ -17,7 +17,7 @@ sections:
       subtitle: ''
       text: '
 
-###   Vision-language learning & Large Vision Language Models
+###   Vision-language Learning & Large Vision Language Models
 
 - **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
   <br>
@@ -124,6 +124,7 @@ sections:
   <br>
   AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arXiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
 
+<br><br>
 
 - Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
   <br>
@@ -131,7 +132,6 @@ sections:
   <br>
   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
 
-<br><br>
 
 
 ### Few-shot Visual Recognition
