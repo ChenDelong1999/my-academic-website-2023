@@ -17,7 +17,31 @@ sections:
       subtitle: ''
       text: '
 
-###  🚀 Vision and language
+###   Vision-language learning & Large Vision Language Models
+
+- **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
+  <br>
+  **Visual Instruction Tuning with Polite Flamingo**
+  <br>
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arXiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral Presentation)</span>
+
+<br><br>
+
+- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
+  <br>
+  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
+  <br>
+  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
+
+<br><br>
+
+- **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
+  <br>
+  **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
+  <br>
+  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+
+<br><br>
 
 - **<u>Delong Chen</u>**, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung
   <br>
@@ -35,30 +59,6 @@ sections:
 
 <br><br>
 
-- **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
-  <br>
-  **Visual Instruction Tuning with Polite Flamingo**
-  <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arXiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral Presentation)</span>
-
-<br><br>
-
-- **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
-  <br>
-  **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
-  <br>
-  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
-
-<br><br>
-
-- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
-  <br>
-  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
-  <br>
-  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
-
-<br><br>
-
 - **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
   <br>
   **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
@@ -68,7 +68,7 @@ sections:
   (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
 
-###  🤖 Large Language Models
+###  Large Language Models, Hallucination, Alignmnet
 
 - Samuel Cahyawijaya\*, **<u>Delong Chen</u>\***, Yejin Bang\*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung\*
   <br>
@@ -94,21 +94,13 @@ sections:
   
 <br><br>
 
-- Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
-  <br>
-  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
-  <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
-
-<br><br>
-
 - Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
   <br>
   **Survey of Hallucination in Natural Language Generation**
   <br>
   arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2202.03629)]
 
-### 🎵 Music-driven Motion Generation
+### Music Understanding & Speech Processing
 
 - **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
   <br>
@@ -133,7 +125,16 @@ sections:
   AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arXiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
 
 
-### 🔎 Few-shot Visual Recognition
+- Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
+  <br>
+  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  <br>
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
+
+<br><br>
+
+
+### Few-shot Visual Recognition
 
 
 - Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
