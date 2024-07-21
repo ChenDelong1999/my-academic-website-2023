@@ -31,7 +31,7 @@ sections:
   <br>
   **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
   <br>
-  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
 
 <br><br>
 
@@ -39,7 +39,7 @@ sections:
   <br>
   **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
   <br>
-  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
 
 <br><br>
 
@@ -142,6 +142,14 @@ sections:
   **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
   <br>
   Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arXiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral Presentation)</span>
+
+<br><br>
+
+- Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
+  <br>
+  **Few-shot Classification Model Compression via School Learning**
+  <br>
+  To Appear in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
 
 <br><br>
 
