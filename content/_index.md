@@ -100,7 +100,8 @@ sections:
   <br>
   arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2202.03629)]
 
-### Music Understanding & Speech Processing
+
+### Music & Audio Understanding
 
 - **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
   <br>
@@ -137,6 +138,14 @@ sections:
 ### Few-shot Visual Recognition
 
 
+- Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
+  <br>
+  **Deep Learning based Single Sample Face Recognition: A Survey**
+  <br>
+  Artificial Intelligence Review, 2022. [[arXiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
+
+<br><br>
+
 - Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
   <br>
   **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
@@ -149,7 +158,7 @@ sections:
   <br>
   **Few-shot Classification Model Compression via School Learning**
   <br>
-  To Appear in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[doi](https://doi.org/10.1109/TCSVT.2024.3432596)]
 
 <br><br>
 
@@ -161,22 +170,15 @@ sections:
 
 <br><br>
 
-- Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
-  <br>
-  **Deep Learning based Single Sample Face Recognition: A Survey**
-  <br>
-  Artificial Intelligence Review, 2022. [[arXiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
-
-<br><br>
-
-
 - Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
   **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
   <br>
   ArXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2401.01736)]
 
+
 <br><br>
+
 
 \* Joint First Authors / Equal Contribution
 <br>
