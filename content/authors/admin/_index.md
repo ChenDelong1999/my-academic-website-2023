@@ -90,7 +90,7 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). He is working on the intersection between **Computer Vision (CV)** and **Natural Language Processing (NLP)**. He received the B.Eng degree of computer science and technology in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). 
+Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). He received the B.Eng degree of computer science and technology in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). He is working on the intersection between **Computer Vision (CV)** and **Natural Language Processing (NLP)**. 
 {style="text-align: justify;"}
 
 He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21, Best Paper in AAAI'23 Inaugural Summer Symposium Series, and First Class Outstanding Thesis of Jiangsu Province. 
