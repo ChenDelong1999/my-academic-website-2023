@@ -19,7 +19,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 
-- name: HKUST
+- name: Hong Kong University of Science and Technology (HKUST)
   url: https://hkust.edu.hk/
 # - name: Xiaobing.AI
 #   url: https://www.xiaoice.com/
@@ -90,10 +90,13 @@ email: 'delong.chen@connect.ust.hk'
 highlight_name: true
 ---
 
-Delong Chen (陈德龙) is a PhD student (2023-) at Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). He is now working on **vision-language** and **representation learning**. He received the B.Eng degree of computer science in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). Afterwards, he took two gap years doing internships at MEGVII (Face++) Research, MSRA and Xiaobing.AI (Xiaoice). 
+Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). He is working on the intersection between **Computer Vision (CV)** and **Natural Language Processing (NLP)**. He received the B.Eng degree of computer science and technology in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). 
 {style="text-align: justify;"}
 
-He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21, Best Paper in AAAI'23 Inaugural Summer Symposium Series, and First Class Outstanding Thesis of Jiangsu Province. He served as a reviewer for NeurIPS'24, ACL ARR (ACL'24, EMNLP'24), ACM Multimedia'23/24, ACM TIST, IEEE TITS, Artificial Intelligence Review, etc, and volunteered at AAAI-24 and ACL'24.
+He recived Best Demo award at IEEE ICME'21, Best Dataset Paper at LTDL@IJCAI'21, Best Paper in AAAI'23 Inaugural Summer Symposium Series, and First Class Outstanding Thesis of Jiangsu Province. 
+{style="text-align: justify;"}
+
+He served as a reviewer for NeurIPS'24, ACL ARR (ACL'24, EMNLP'24), ACM Multimedia'23/24, ACM TIST, IEEE TITS, Artificial Intelligence Review, etc, and volunteered at AAAI-24 and ACL'24.
 {style="text-align: justify;"}
 
 {style="text-align: justify;"}
