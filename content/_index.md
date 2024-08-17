@@ -170,7 +170,7 @@ sections:
 
 <br><br>
 
-- Fan Liu, Tianshu Zhang, Wenwen Dai, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
+- Fan Liu, Tianshu Zhang, Wenwen Dai, Chuanyi Zhang, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
   **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
   <br>
