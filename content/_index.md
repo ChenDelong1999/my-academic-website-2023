@@ -170,6 +170,13 @@ sections:
 
 <br><br>
 
+- Fan Liu, Wenwen Cai, Jian Huo, Chuanyi Zhang, **<u>Delong Chen</u>**, Jun Zhou 
+  <br>
+  **Making Large Vision Language Models to be Good Few-shot Learners**
+  <br>
+  arXiv Preprint. [[arXiv](https://arxiv.org/abs/2408.11297)]
+<br><br>
+
 - Fan Liu, Tianshu Zhang, Wenwen Dai, Chuanyi Zhang, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
   **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
