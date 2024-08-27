@@ -181,7 +181,7 @@ sections:
   <br>
   **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
   <br>
-  To appear in Artificial Intelligence Review. [[arXiv](https://arxiv.org/abs/2401.01736)]
+  Artificial Intelligence Review, 2024. [[arXiv](https://arxiv.org/abs/2401.01736)[[doi](https://doi.org/10.1007/s10462-024-10915-y)]
 
 
 <br><br>
