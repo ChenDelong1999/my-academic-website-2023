@@ -108,8 +108,8 @@ He served as a reviewer for NeurIPS'24, ACL ARR (ACL'24, EMNLP'24), ACM Multimed
   - TA: A System View of Communications (2024 Spring, HKUST)
 {style="text-align: justify;"} -->
 
-📄 Download **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on May 2024)
-{style="text-align: justify;"}
+<!-- 📄 Download **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on May 2024)
+{style="text-align: justify;"} -->
 
 <!-- 🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
 He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
