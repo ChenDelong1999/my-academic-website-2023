@@ -78,6 +78,14 @@ sections:
 
 <br><br>
 
+- Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai
+  <br>
+  **Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**
+  <br>
+  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/Linguistic-Similarity)] [[arXiv](https://arxiv.org/abs/2409.12435)]
+  
+<br><br>
+
 - Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
   <br>
   **Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**
@@ -131,7 +139,7 @@ sections:
   <br>
   **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
   <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue/blob/main/doc/YFRSW_Poster.pdf)] [[arXiv](https://arxiv.org/abs/2309.11000)]
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue)] [[arXiv](https://arxiv.org/abs/2309.11000)]
 
 
 
