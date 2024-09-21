@@ -98,7 +98,7 @@ sections:
   <br>
   **LLM Internal States Reveal Hallucination Risk Faced With a Query**
   <br>
-  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2407.03282)]
+  EMNLP 2024 Workshop on analyzing and interpreting neural networks for NLP (BlackboxNLP). [[arXiv](https://arxiv.org/abs/2407.03282)]
   
 <br><br>
 
