@@ -23,7 +23,7 @@ sections:
   <br>
   [**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)
   <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral Presentation)</span>
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. <span style="color:red">(Oral Presentation)</span> [[code](https://github.com/ChenDelong1999/polite-flamingo)] 
 
 <br><br>
 
@@ -31,7 +31,7 @@ sections:
   <br>
   [**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**](https://arxiv.org/abs/2306.11029)
   <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[code](https://github.com/ChenDelong1999/RemoteCLIP)]
 
 <br><br>
 
@@ -39,7 +39,7 @@ sections:
   <br>
   [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996)
   <br>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[code](https://github.com/megvii-research/protoclip)]
 
 <br><br>
 
@@ -47,7 +47,7 @@ sections:
   <br>
   [**Subobject-level Image Tokenization**](https://arxiv.org/abs/2402.14327)
   <br>
-  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/subobjects)]
+  arXiv Preprint, 2024. [[code](https://github.com/ChenDelong1999/subobjects)]
 
 <br><br>
 
@@ -65,7 +65,7 @@ sections:
   <br>
   IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021.</span>
   <br>
-  (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
+  (Journal version) Pattern Recognition, 2023. [[code](https://github.com/ChenDelong1999/MEP-3M)]
 
 
 ##  Large Language Models
@@ -74,7 +74,7 @@ sections:
   <br>
   [**High-Dimension Human Value Representation in Large Language Models**](https://arxiv.org/abs/2404.07900)
   <br>
-  arXiv Preprint, 2024. [[github]](https://github.com/HLTCHKUST/UniVaR)
+  arXiv Preprint, 2024. [[code]](https://github.com/HLTCHKUST/UniVaR)
 
 <br><br>
 
@@ -82,7 +82,7 @@ sections:
   <br>
   [**Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**](https://arxiv.org/abs/2409.12435)
   <br>
-  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/Linguistic-Similarity)]
+  arXiv Preprint, 2024. [[code](https://github.com/ChenDelong1999/Linguistic-Similarity)]
   
 <br><br>
 
@@ -90,7 +90,7 @@ sections:
   <br>
   [**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**](https://arxiv.org/abs/2403.18932)
   <br>
-  ACL 2024. [[doi](https://aclanthology.org/2024.acl-long.600)]
+  ACL 2024.
 
 <br><br>
 
@@ -115,7 +115,7 @@ sections:
   <br>
   [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350)
   <br>
-  IEEE International Conference on Multimedia & Expo (ICME) 2021. [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
+  IEEE International Conference on Multimedia & Expo (ICME) 2021. <span style="color:red">(Best Demo)</span> [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)]
 
 <br><br>
 
@@ -123,7 +123,7 @@ sections:
   <br>
   [**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](http://dx.doi.org/10.1007/s11390-022-2030-z)
   <br>
-  Journal of Computer Science and Technology (JCST), 2022 [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)] [[doi](http://dx.doi.org/10.1007/s11390-022-2030-z)]
+  Journal of Computer Science and Technology (JCST), 2022 [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)]
 
 <br><br>
 
@@ -131,7 +131,7 @@ sections:
   <br>
   [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)
   <br>
-  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] <span style="color:red">(Best Paper)</span>
+  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. <span style="color:red">(Best Paper)</span> [[code](https://github.com/viiika/Diffusion-Conductor)] 
 
 <br><br>
 
@@ -139,18 +139,17 @@ sections:
   <br>
   [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)
   <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[code](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
 
 
 ## Few-shot Visual Recognition
-
 
 - Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
   <br>
   [**Deep Learning based Single Sample Face Recognition: A Survey**](https://arxiv.org/abs/2006.11395)
   <br>
-  Artificial Intelligence Review, 2022. [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
-
+  Artificial Intelligence Review, 2022.
+  
 <br><br>
 
 - Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
@@ -165,30 +164,30 @@ sections:
   <br>
   [**Few-shot Classification Model Compression via School Learning**](https://doi.org/10.1109/TCSVT.2024.3432596)
   <br>
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[doi](https://doi.org/10.1109/TCSVT.2024.3432596)]
-
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. 
+  
 <br><br>
 
 - Fan Liu, Sai Yang, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
   <br>
   [**Few-shot Classification Guided by Generalization Error Bound**](https://doi.org/10.1016/j.patcog.2023.109904)
   <br>
-  Pattern Recognition, 2023. [[doi](https://doi.org/10.1016/j.patcog.2023.109904)]
-
+  Pattern Recognition, 2023.
+  
 <br><br>
 
 - Fan Liu, Wenwen Cai, Jian Huo, Chuanyi Zhang, **<u>Delong Chen</u>**, Jun Zhou 
   <br>
   [**Making Large Vision Language Models to be Good Few-shot Learners**](https://arxiv.org/abs/2408.11297)
   <br>
-  arXiv Preprint.
+  arXiv Preprint, 2024.
 <br><br>
 
 - Fan Liu, Tianshu Zhang, Wenwen Dai, Chuanyi Zhang, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
   [**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**](https://arxiv.org/abs/2401.01736)
   <br>
-  Artificial Intelligence Review, 2024. [[doi](https://doi.org/10.1007/s10462-024-10915-y)]
+  Artificial Intelligence Review, 2024.
 
 
 <br><br>
@@ -441,7 +440,7 @@ sections:
       title: Music 🎻
       subtitle: '<br>Delong is passionate about music！
       <br>He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
-      <br>He served as the leader of the Hohai University Symphony Orchestra (河海大学管弦乐团) during 2019-2020. 
+      <br>He served as the concertmaster of the Hohai University Symphony Orchestra during 2019-2020. 
       <br>He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
       <br><br>
       '
