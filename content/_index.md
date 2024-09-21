@@ -13,115 +13,115 @@ sections:
   - block: markdown
     id: publications
     content:
-      title: 'Publications & Preprints'
+      title: 'Publications'
       subtitle: ''
       text: '
 
-###   Vision-language Learning & Large Vision Language Models
+##   Vision-language Learning
 
 - **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
   <br>
-  **Visual Instruction Tuning with Polite Flamingo**
+  [**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)
   <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[arXiv](https://arxiv.org/abs/2307.01003)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral Presentation)</span>
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. [[github](https://github.com/ChenDelong1999/polite-flamingo)] [[doi](https://doi.org/10.1609/aaai.v38i16.29727)] <span style="color:red">(Oral Presentation)</span>
 
 <br><br>
 
 - Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
   <br>
-  **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
+  [**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**](https://arxiv.org/abs/2306.11029)
   <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[arXiv](https://arxiv.org/abs/2306.11029)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[github](https://github.com/ChenDelong1999/RemoteCLIP)] [[doi](https://doi.org/10.1109/TGRS.2024.3390838)]
 
 <br><br>
 
 - **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
   <br>
-  **ProtoCLIP: Prototypical Contrastive Language Image Pretraining**
+  [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996)
   <br>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[arXiv](https://arxiv.org/abs/2206.10996)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[github](https://github.com/megvii-research/protoclip)] [[doi](https://doi.org/10.1109/TNNLS.2023.3335859)]
 
 <br><br>
 
 - **<u>Delong Chen</u>**, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung
   <br>
-  **Subobject-level Image Tokenization**
+  [**Subobject-level Image Tokenization**](https://arxiv.org/abs/2402.14327)
   <br>
-  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/subobjects)] [[arXiv](https://arxiv.org/abs/2402.14327)]
+  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/subobjects)]
 
 <br><br>
 
 - **<u>Delong Chen</u>**, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung
   <br>
-  **The Pyramid of Captions**
+  [**The Pyramid of Captions**](https://arxiv.org/abs/2405.00485)
   <br>
-  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2405.00485)]
+  arXiv Preprint, 2024. 
 
 <br><br>
 
 - **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
   <br>
-  **MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**
+  [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)
   <br>
-  IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. [[paper](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)] <span style="color:red">(Best Dataset Paper)</span>
+  IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021.</span>
   <br>
   (Journal version) Pattern Recognition, 2023. [[github](https://github.com/ChenDelong1999/MEP-3M)] [[doi](https://doi.org/10.1016/j.patcog.2023.109519)]
 
 
-###  Large Language Models, Hallucination, Alignmnet
+##  Large Language Models
 
 - Samuel Cahyawijaya\*, **<u>Delong Chen</u>\***, Yejin Bang\*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung\*
   <br>
-  **High-Dimension Human Value Representation in Large Language Models**
+  [**High-Dimension Human Value Representation in Large Language Models**](https://arxiv.org/abs/2404.07900)
   <br>
-  arXiv Preprint, 2024. [[github]](https://github.com/HLTCHKUST/UniVaR) [[arXiv](https://arxiv.org/abs/2404.07900)]
+  arXiv Preprint, 2024. [[github]](https://github.com/HLTCHKUST/UniVaR)
 
 <br><br>
 
 - Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai
   <br>
-  **Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**
+  [**Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**](https://arxiv.org/abs/2409.12435)
   <br>
-  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/Linguistic-Similarity)] [[arXiv](https://arxiv.org/abs/2409.12435)]
+  arXiv Preprint, 2024. [[github](https://github.com/ChenDelong1999/Linguistic-Similarity)]
   
 <br><br>
 
 - Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
   <br>
-  **Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**
+  [**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**](https://arxiv.org/abs/2403.18932)
   <br>
-  ACL 2024. [[arXiv](https://arxiv.org/abs/2403.18932)]
+  ACL 2024. [[doi](https://aclanthology.org/2024.acl-long.600)]
 
 <br><br>
 
 - Ziwei Ji, **<u>Delong Chen</u>**, Etsuko Ishii, Samuel Cahyawijaya, Yejin Bang, Bryan Wilie, Pascale Fung
   <br>
-  **LLM Internal States Reveal Hallucination Risk Faced With a Query**
+  [**LLM Internal States Reveal Hallucination Risk Faced With a Query**](https://arxiv.org/abs/2407.03282)
   <br>
-  EMNLP 2024 Workshop on analyzing and interpreting neural networks for NLP (BlackboxNLP). [[arXiv](https://arxiv.org/abs/2407.03282)]
+  EMNLP 2024 Workshop on analyzing and interpreting neural networks for NLP (BlackboxNLP).
   
 <br><br>
 
 - Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
   <br>
-  **Survey of Hallucination in Natural Language Generation**
+  [**Survey of Hallucination in Natural Language Generation**](https://arxiv.org/abs/2202.03629)
   <br>
-  arXiv Preprint, 2024. [[arXiv](https://arxiv.org/abs/2202.03629)]
+  arXiv Preprint, 2024.
 
 
-### Music & Audio Understanding
+## Music & Audio Understanding
 
 - **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
   <br>
-  **VirtualConductor: Music-driven Conducting Video Generation System**
+  [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350)
   <br>
-  IEEE International Conference on Multimedia & Expo (ICME) 2021. [[arXiv](https://github.com/ChenDelong1999/VirtualConductor)][[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
+  IEEE International Conference on Multimedia & Expo (ICME) 2021. [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)] <span style="color:red">(Best Demo)</span>
 
 <br><br>
 
 - Fan Liu, **<u>Delong Chen</u>✉**,Ruizhi Zhou, Sai Yang, Feng Xu
   <br>
-  **Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**
+  [**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](http://dx.doi.org/10.1007/s11390-022-2030-z)
   <br>
   Journal of Computer Science and Technology (JCST), 2022 [[github](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)] [[doi](http://dx.doi.org/10.1007/s11390-022-2030-z)]
 
@@ -129,42 +129,41 @@ sections:
 
 - Zhuoran Zhao, Jinbin Bai, **<u>Delong Chen</u>**, Debang Wang, Yubo Pan
   <br>
-  **Taming Diffusion Models for Music-driven Conducting Motion Generation**
+  [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)
   <br>
-  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] [[arXiv](https://arxiv.org/abs/2306.10065)] <span style="color:red">(Best Paper)</span>
+  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. [[github](https://github.com/viiika/Diffusion-Conductor)] <span style="color:red">(Best Paper)</span>
 
 <br><br>
 
 - Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
   <br>
-  **Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**
+  [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)
   <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue)] [[arXiv](https://arxiv.org/abs/2309.11000)]
+  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[github](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
 
 
-
-### Few-shot Visual Recognition
+## Few-shot Visual Recognition
 
 
 - Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
   <br>
-  **Deep Learning based Single Sample Face Recognition: A Survey**
+  [**Deep Learning based Single Sample Face Recognition: A Survey**](https://arxiv.org/abs/2006.11395)
   <br>
-  Artificial Intelligence Review, 2022. [[arXiv](https://arxiv.org/abs/2006.11395)] [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
+  Artificial Intelligence Review, 2022. [[doi](https://doi.org/10.1007/s10462-022-10240-2)]
 
 <br><br>
 
 - Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
   <br>
-  **Few-shot Classification via Ensemble Learning with Multi-Order Statistics**
+  [**Few-shot Classification via Ensemble Learning with Multi-Order Statistics**](https://arxiv.org/abs/2305.00454)
   <br>
-  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. [[arXiv](https://arxiv.org/abs/2305.00454)] <span style="color:red">(Oral Presentation)</span>
+  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. <span style="color:red">(Oral Presentation)</span>
 
 <br><br>
 
 - Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
   <br>
-  **Few-shot Classification Model Compression via School Learning**
+  [**Few-shot Classification Model Compression via School Learning**](https://doi.org/10.1109/TCSVT.2024.3432596)
   <br>
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[doi](https://doi.org/10.1109/TCSVT.2024.3432596)]
 
@@ -172,7 +171,7 @@ sections:
 
 - Fan Liu, Sai Yang, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
   <br>
-  **Few-shot Classification Guided by Generalization Error Bound**
+  [**Few-shot Classification Guided by Generalization Error Bound**](https://doi.org/10.1016/j.patcog.2023.109904)
   <br>
   Pattern Recognition, 2023. [[doi](https://doi.org/10.1016/j.patcog.2023.109904)]
 
@@ -180,16 +179,16 @@ sections:
 
 - Fan Liu, Wenwen Cai, Jian Huo, Chuanyi Zhang, **<u>Delong Chen</u>**, Jun Zhou 
   <br>
-  **Making Large Vision Language Models to be Good Few-shot Learners**
+  [**Making Large Vision Language Models to be Good Few-shot Learners**](https://arxiv.org/abs/2408.11297)
   <br>
-  arXiv Preprint. [[arXiv](https://arxiv.org/abs/2408.11297)]
+  arXiv Preprint.
 <br><br>
 
 - Fan Liu, Tianshu Zhang, Wenwen Dai, Chuanyi Zhang, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
   <br>
-  **Few-shot Adaptation of Multi-modal Foundation Models: A Survey**
+  [**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**](https://arxiv.org/abs/2401.01736)
   <br>
-  Artificial Intelligence Review, 2024. [[arXiv](https://arxiv.org/abs/2401.01736)] [[doi](https://doi.org/10.1007/s10462-024-10915-y)]
+  Artificial Intelligence Review, 2024. [[doi](https://doi.org/10.1007/s10462-024-10915-y)]
 
 
 <br><br>
