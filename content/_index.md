@@ -87,13 +87,8 @@ sections:
   IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. <span style="color:red">(Best Dataset Paper)</span>
   <br>
   (Journal version) Pattern Recognition, 2023. [[code](https://github.com/ChenDelong1999/MEP-3M)]
-'
-  - block: markdown
-    id: publications
-    content:
-      title: ''
-      subtitle: ''
-      text: '
+
+
 ### Large Language Models
 <br><br>
 
@@ -135,13 +130,7 @@ sections:
   <br>
   arXiv Preprint, 2024.
 
-'
-  - block: markdown
-    id: publications
-    content:
-      title: ''
-      subtitle: ''
-      text: '
+
 ### Music & Audio Understanding
 <br><br>
 
@@ -175,13 +164,7 @@ sections:
   <br>
   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[code](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
 
-'
-  - block: markdown
-    id: publications
-    content:
-      title: ''
-      subtitle: ''
-      text: '
+
 ### Few-shot Visual Recognition
 <br><br>
 
