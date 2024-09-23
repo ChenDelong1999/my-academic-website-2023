@@ -158,12 +158,6 @@ sections:
 
 <br><br>
 
-- Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
-  <br>
-  [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)
-  <br>
-  The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[code](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
-
 
 ### Few-shot Visual Recognition
 <br><br>
@@ -221,6 +215,13 @@ sections:
 <br>
 ✉ Corresponding Authors
 '
+
+
+# - Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
+#   <br>
+#   [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)
+#   <br>
+#   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[code](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
 
 
 # <br><br>
