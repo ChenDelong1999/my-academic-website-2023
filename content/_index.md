@@ -131,33 +131,6 @@ sections:
   arXiv Preprint, 2024.
 
 
-### Music & Audio Understanding
-<br><br>
-
-- **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
-  <br>
-  [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350)
-  <br>
-  IEEE International Conference on Multimedia & Expo (ICME) 2021. <span style="color:red">(Best Demo)</span> [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)]
-
-<br><br>
-
-- Fan Liu, **<u>Delong Chen</u>✉**,Ruizhi Zhou, Sai Yang, Feng Xu
-  <br>
-  [**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](http://dx.doi.org/10.1007/s11390-022-2030-z)
-  <br>
-  Journal of Computer Science and Technology (JCST), 2022 [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)]
-
-<br><br>
-
-- Zhuoran Zhao, Jinbin Bai, **<u>Delong Chen</u>**, Debang Wang, Yubo Pan
-  <br>
-  [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)
-  <br>
-  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. <span style="color:red">(Best Paper)</span> [[code](https://github.com/viiika/Diffusion-Conductor)] 
-
-<br><br>
-
 
 ### Few-shot Visual Recognition
 <br><br>
@@ -207,6 +180,31 @@ sections:
   <br>
   Artificial Intelligence Review, 2024.
 
+
+### Music-Driven Conducting Motion Generation
+<br><br>
+
+- **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
+  <br>
+  [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350)
+  <br>
+  IEEE International Conference on Multimedia & Expo (ICME) 2021. <span style="color:red">(Best Demo)</span> [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)]
+
+<br><br>
+
+- Fan Liu, **<u>Delong Chen</u>✉**,Ruizhi Zhou, Sai Yang, Feng Xu
+  <br>
+  [**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](http://dx.doi.org/10.1007/s11390-022-2030-z)
+  <br>
+  Journal of Computer Science and Technology (JCST), 2022 [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)]
+
+<br><br>
+
+- Zhuoran Zhao, Jinbin Bai, **<u>Delong Chen</u>**, Debang Wang, Yubo Pan
+  <br>
+  [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)
+  <br>
+  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. <span style="color:red">(Best Paper)</span> [[code](https://github.com/viiika/Diffusion-Conductor)] 
 
 <br><br>
 
