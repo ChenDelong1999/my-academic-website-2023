@@ -112,7 +112,7 @@ sections:
   <br>
   [**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**](https://arxiv.org/abs/2403.18932)
   <br>
-  ACL 2024.
+  ACL 2024 Main.
 
 <br><br>
 
