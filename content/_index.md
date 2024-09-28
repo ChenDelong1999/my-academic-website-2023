@@ -74,7 +74,7 @@ sections:
 
 - **<u>Delong Chen</u>**, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung
   <br>
-  [**The Pyramid of Captions**](https://arxiv.org/abs/2405.00485)
+  [**What Makes for Good Image Captions?**](https://arxiv.org/abs/2405.00485)
   <br>
   arXiv Preprint, 2024. 
 
