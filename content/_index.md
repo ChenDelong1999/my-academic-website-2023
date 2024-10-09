@@ -104,7 +104,7 @@ sections:
   <br>
   [**Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**](https://arxiv.org/abs/2409.12435)
   <br>
-  arXiv Preprint, 2024. [[code](https://github.com/ChenDelong1999/Linguistic-Similarity)]
+  NeurIPS 2024 Workshop on Foundation Model Interventions (MINT). [[code](https://github.com/ChenDelong1999/Linguistic-Similarity)]
   
 <br><br>
 
