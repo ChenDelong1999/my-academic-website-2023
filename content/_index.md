@@ -76,7 +76,7 @@ sections:
   <br>
   [**What Makes for Good Image Captions?**](https://arxiv.org/abs/2405.00485)
   <br>
-  arXiv Preprint, 2024. 
+  NeurIPS 2024 Workshop on Machine Learning and Compression. 
 
 <br><br>
 
