@@ -80,6 +80,14 @@ sections:
 
 <br><br>
 
+- Shiyu Miao*, **<u>Delong Chen</u>**\*, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou
+  <br>
+  [**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**](https://arxiv.org/abs/2410.06194)
+  <br>
+  arXiv Preprint, 2024. [[code](https://github.com/StevenMsy/DirectSAM-RS)]
+
+<br><br>
+
 - **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
   <br>
   [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)
