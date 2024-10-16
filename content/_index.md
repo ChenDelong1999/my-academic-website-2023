@@ -27,7 +27,62 @@ sections:
   #       featured_only: true
   #   design:
   #     columns: '1'
-  #     view: 5
+      # view: 5
+  - block: markdown
+    id: awards
+    content:
+      title: ''
+      subtitle: ''
+      text: '
+
+<div style="display: flex; justify-content: space-between;">
+  <!-- 左边的 "Awards & Honors" 列 -->
+  <div style="flex: 1; padding-right: 20px;">
+    <strong>Awards & Honors</strong>
+    <ul>
+      <li><strong>Best Paper</strong> at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse</li>
+      <li><strong>Best Dataset Paper</strong> at Long-Tailed Distribution Learning Workshop, IJCAI 2021</li>
+      <li><strong>Best Demo</strong> at IEEE ICME 2021</li>
+      <li><strong>Best Presentation</strong> at 2021 IEEE International Conference on Big Data and Artificial Intelligence</li>
+      <li> 江苏省优秀本科毕业论文一等奖 </li>
+      <li> 河海大学2021届本科“优秀毕业生”荣誉称号</li>
+      <li> 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 </li>
+      <li> “江苏省优秀共青团员”称号</li>
+      <li> “2019江苏省大学生年度人物”提名奖</li>
+      <li> 2020年河海大学“海韵风华大学生年度人物”称号</li>
+    </ul>
+  </div>
+
+  <!-- 右边的 "Professional Services" 列 -->
+  <div style="flex: 1; padding-left: 20px;">
+    <strong>Reviewer</strong>
+    
+    <ul>
+      <li> ICLR 2024
+      <li> NeurIPS 2024
+      <li> ACL Rolling Review (ARR): ACL 2024, EMNLP 2024
+      <li> ACM Multimedia 2023, 2024
+      <li> ACM Transactions on Intelligent Systems and Technology
+      <li> Artificial Intelligence Review
+    </ul>
+    
+    <strong>Volunteer</strong>
+    <ul>
+      <li> AAAI-24
+      <li> ACL&apos;24
+    </ul>
+
+    <strong>Teaching Assistant</strong>
+    <ul>
+      <li> ELEC 1200 A System View of Communications (2024 Spring, HKUST)
+    </ul>
+  </div>
+</div>
+'
+    design:
+      # Choose a layout view
+      view: 4
+      columns: '1'
 
   - block: markdown
     id: publications
@@ -35,261 +90,95 @@ sections:
       title: 'Publications'
       subtitle: ''
       text: '
-### Vision-language Learning
-<br><br>
+<i class="fas fa-graduation-cap"></i> See full list of papers in [**Google Scholar**](https://scholar.google.com/citations?user=7PW095gAAAAJ).
 
+<br>
 
-- **<u>Delong Chen</u>**, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung
-  <br>
-  [**Subobject-level Image Tokenization**](https://arxiv.org/abs/2402.14327)
-  <br>
-  arXiv Preprint, 2024. [[code](https://github.com/ChenDelong1999/subobjects)]
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2402.14327"><strong>Subobject-level Image Tokenization</strong></a></span>
+    <br><span>arXiv Preprint, 2024. <a href="https://github.com/ChenDelong1999/subobjects"> [<i class="fab fa-github"></i> code]</a></span>
+  </div>
+  <img src="figures/subobject.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
-<br><br>
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2405.00485"><strong>What Makes for Good Image Captions?</strong></a></span>
+    <br>
+    <span>NeurIPS 2024 Workshop on Machine Learning and Compression.</span>
+  </div>
+  <img src="figures/good_image_captions.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
+    <br>
+    <span>arXiv Preprint, 2024. <a href="https://github.com/HLTCHKUST/UniVaR">[<i class="fab fa-github"></i> code]</a></span>
+  </div>
+  <img src="figures/human_value_representation.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
-- Fan Liu*✉, **<u>Delong Chen</u>**\*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
-  <br>
-  [**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**](https://arxiv.org/abs/2306.11029)
-  <br>
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. [[code](https://github.com/ChenDelong1999/RemoteCLIP)]
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span>Fan Liu*✉, <strong><u>Delong Chen</u></strong>*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2306.11029"><strong>RemoteCLIP: A Vision Language Foundation Model for Remote Sensing</strong></a></span>
+    <br>
+    <span>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. <a href="https://github.com/ChenDelong1999/RemoteCLIP">[<i class="fab fa-github"></i> code]</a></span>
+  </div>
+  <img src="figures/remoteclip.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
-<br><br>
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span><strong><u>Delong Chen</u></strong>, Jianfeng Liu, Wenliang Dai, Baoyuan Wang</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2307.01003"><strong>Visual Instruction Tuning with Polite Flamingo</strong></a></span>
+    <br>
+    <span>Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. <span style="color:red">(Oral Presentation)</span> <a href="https://github.com/ChenDelong1999/polite-flamingo">[<i class="fab fa-github"></i> code]</a></span>
+  </div>
+  <img src="figures/polite_flamingo.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
-- **<u>Delong Chen</u>**, Jianfeng Liu, Wenliang Dai, Baoyuan Wang.
-  <br>
-  [**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003)
-  <br>
-  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. <span style="color:red">(Oral Presentation)</span> [[code](https://github.com/ChenDelong1999/polite-flamingo)] 
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span><strong><u>Delong Chen</u></strong>, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2206.10996"><strong>ProtoCLIP: Prototypical Contrastive Language Image Pretraining</strong></a></span>
+    <br>
+    <span>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <a href="https://github.com/megvii-research/protoclip">[<i class="fab fa-github"></i> code]</a></span>
+  </div>
+  <img src="figures/protoclip.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
-<br><br>
-
-- **<u>Delong Chen</u>**, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou.
-  <br>
-  [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996)
-  <br>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. [[code](https://github.com/megvii-research/protoclip)]
-
-<br><br>
-
-- **<u>Delong Chen</u>**, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung
-  <br>
-  [**What Makes for Good Image Captions?**](https://arxiv.org/abs/2405.00485)
-  <br>
-  NeurIPS 2024 Workshop on Machine Learning and Compression. 
-
-<br><br>
-
-- Shiyu Miao*, **<u>Delong Chen</u>**\*, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou
-  <br>
-  [**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**](https://arxiv.org/abs/2410.06194)
-  <br>
-  arXiv Preprint, 2024. [[code](https://github.com/StevenMsy/DirectSAM-RS)]
-
-<br><br>
-
-- **<u>Delong Chen</u>**, Fan Liu, Xiaoyu Du, Ruizhuo Gao, Feng Xu.
-  <br>
-  [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset)
-  <br>
-  IJCAI-21 Workshop on Long-Tailed Distribution Learning, 2021. <span style="color:red">(Best Dataset Paper)</span>
-  <br>
-  (Journal version) Pattern Recognition, 2023. [[code](https://github.com/ChenDelong1999/MEP-3M)]
-
-
-### Large Language Models
-<br><br>
-
-- Samuel Cahyawijaya\*, **<u>Delong Chen</u>\***, Yejin Bang\*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung\*
-  <br>
-  [**High-Dimension Human Value Representation in Large Language Models**](https://arxiv.org/abs/2404.07900)
-  <br>
-  arXiv Preprint, 2024. [[code]](https://github.com/HLTCHKUST/UniVaR)
-
-<br><br>
-
-- Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai
-  <br>
-  [**Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**](https://arxiv.org/abs/2409.12435)
-  <br>
-  NeurIPS 2024 Workshop on Foundation Model Interventions (MINT). [[code](https://github.com/ChenDelong1999/Linguistic-Similarity)]
-  
-<br><br>
-
-- Yejin Bang, **<u>Delong Chen</u>**, Nayeon Lee, Pascale Fung
-  <br>
-  [**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**](https://arxiv.org/abs/2403.18932)
-  <br>
-  ACL 2024 Main.
-
-<br><br>
-
-- Ziwei Ji, **<u>Delong Chen</u>**, Etsuko Ishii, Samuel Cahyawijaya, Yejin Bang, Bryan Wilie, Pascale Fung
-  <br>
-  [**LLM Internal States Reveal Hallucination Risk Faced With a Query**](https://arxiv.org/abs/2407.03282)
-  <br>
-  EMNLP 2024 Workshop on analyzing and interpreting neural networks for NLP (BlackboxNLP).
-  
-<br><br>
-
-- Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, **<u>Delong Chen</u>**, Ho Shu Chan, Wenliang Dai, Andrea Madotto, Pascale Fung
-  <br>
-  [**Survey of Hallucination in Natural Language Generation**](https://arxiv.org/abs/2202.03629)
-  <br>
-  arXiv Preprint, 2024.
-
-
-
-### Few-shot Visual Recognition
-<br><br>
-
-- Fan Liu*, **<u>Delong Chen</u>***, Fei Wang, Zewen Li, Feng Xu
-  <br>
-  [**Deep Learning based Single Sample Face Recognition: A Survey**](https://arxiv.org/abs/2006.11395)
-  <br>
-  Artificial Intelligence Review, 2022.
-  
-<br><br>
-
-- Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Jun Zhou
-  <br>
-  [**Few-shot Classification via Ensemble Learning with Multi-Order Statistics**](https://arxiv.org/abs/2305.00454)
-  <br>
-  Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023. <span style="color:red">(Oral Presentation)</span>
-
-<br><br>
-
-- Sai Yang, Fan Liu, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
-  <br>
-  [**Few-shot Classification Model Compression via School Learning**](https://doi.org/10.1109/TCSVT.2024.3432596)
-  <br>
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. 
-  
-<br><br>
-
-- Fan Liu, Sai Yang, **<u>Delong Chen</u>**, Huaxi Huang, Jun Zhou
-  <br>
-  [**Few-shot Classification Guided by Generalization Error Bound**](https://doi.org/10.1016/j.patcog.2023.109904)
-  <br>
-  Pattern Recognition, 2023.
-  
-<br><br>
-
-- Fan Liu, Wenwen Cai, Jian Huo, Chuanyi Zhang, **<u>Delong Chen</u>**, Jun Zhou 
-  <br>
-  [**Making Large Vision Language Models to be Good Few-shot Learners**](https://arxiv.org/abs/2408.11297)
-  <br>
-  arXiv Preprint, 2024.
-<br><br>
-
-- Fan Liu, Tianshu Zhang, Wenwen Dai, Chuanyi Zhang, Wenwen Cai, Xiaocong Zhou, **<u>Delong Chen</u>✉**
-  <br>
-  [**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**](https://arxiv.org/abs/2401.01736)
-  <br>
-  Artificial Intelligence Review, 2024.
-
-
-### Music-Driven Conducting Motion Generation
-<br><br>
-
-- **<u>Delong Chen</u>**, Fan Liu, Zewen Li, Feng Xu
-  <br>
-  [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350)
-  <br>
-  IEEE International Conference on Multimedia & Expo (ICME) 2021. <span style="color:red">(Best Demo)</span> [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://www.bilibili.com/video/BV1aX4y1g7wh)]
-
-<br><br>
-
-- Fan Liu, **<u>Delong Chen</u>✉**,Ruizhi Zhou, Sai Yang, Feng Xu
-  <br>
-  [**Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](http://dx.doi.org/10.1007/s11390-022-2030-z)
-  <br>
-  Journal of Computer Science and Technology (JCST), 2022 [[code](https://github.com/ChenDelong1999/VirtualConductor)] [[video](https://youtu.be/8lr5Q2qg58w)]
-
-<br><br>
-
-- Zhuoran Zhao, Jinbin Bai, **<u>Delong Chen</u>**, Debang Wang, Yubo Pan
-  <br>
-  [**Taming Diffusion Models for Music-driven Conducting Motion Generation**](https://arxiv.org/abs/2306.10065)
-  <br>
-  AAAI 2023 Inaugural Summer Symposium Series – AI x metaverse. <span style="color:red">(Best Paper)</span> [[code](https://github.com/viiika/Diffusion-Conductor)] 
-
-<br><br>
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span>Xinyu Zhou🌹*, <strong><u>Delong Chen</u></strong>*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</span>
+    <br>
+    <span><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
+    <br>
+    <span>NeurIPS 2024 Workshop on Foundation Model Interventions (MINT). <a href="https://github.com/ChenDelong1999/Linguistic-Similarity">[<i class="fab fa-github"></i> code]</a></span>
+  </div>
+  <img src="figures/linguistic_similarity.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
 
 
 \* Joint First Authors / Equal Contribution
 <br>
 ✉ Corresponding Authors
 '
-
-
-# - Xinyu Zhou🌹*, **<u>Delong Chen</u>**\*, Yudong Chen
-#   <br>
-#   [**Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model**](https://arxiv.org/abs/2309.11000)
-#   <br>
-#   The 6th International Conference on Natural Language and Speech Processing (ICNLSP), 2023. [[code](https://github.com/XinyuZhou2000/Spoken-Dialogue)] 
-
-
-# <br><br>
-
-# - **<u>Delong Chen</u>** (Advisor: Fan Liu)
-#   <br>
-#   **基于动态频域分解与自监督跨模态感知的乐队指挥动作生成**
-#   <br>
-#   (Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss)
-#   <br>
-#   Bachelor Degree Thesis, 2021. [[pdf](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf)] <span style="color:red">(First-class Outstanding Thesis of Jiangsu Province) </span>
-
-# <br><br>
-
-# - Liang Yao, Fan Liu, Zhiquan Ou, Fei Wang, **<u>Delong Chen</u>**
-#   <br>
-#   **Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation**
-#   <br>
-#   The 17th Chinese Conference on Biometric Recognition, Biometric Recognition (CCBR), 2023. [[doi](https://doi.org/10.1007/978-981-99-8565-4_21)]
-
     design:
       # Choose a layout view
-      view: 4
+      view: 1
       columns: '1'
-  - block: markdown
-    id: awards
-    content:
-      title: 'Awards'
-      subtitle: ''
-      text: '
-
-- 2023-06.  **Best Paper**<br>at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse
-
-- 2022-06.  **江苏省优秀本科毕业论文一等奖**<br>First Class Outstanding Graduation Thesis of Jiangsu Province
-
-- 2021-08. 	**Best Dataset Paper**<br>at Long-Tailed Distribution Learning Workshop, IJCAI 2021
-
-- 2021-07. 	**Best Demo** <br>at IEEE International Conference on Multimedia and Expo (ICME) 2021
-
-- 2021-07. 	**Best Presentation Winner**<br>at 2021 4th International Conference on Big Data and Artificial Intelligence
-
-- 2021-06. 	**河海大学2021届本科优秀毕业设计**<br>Outstanding Graduation Thesis of Hohai University in 2021
-
-- 2021-06.  **河海大学2021届本科“优秀毕业生”荣誉称号**<br>Excellent Graduate Student of Hohai University (highest honor)
-
-- 2021-04.  **2020江苏省大学生网络文化节校园歌曲作品征集一等奖**<br>First Prize in 2020 Campus Music Competition of Jiangsu Province
-
-- 2020-05. 	**“江苏省优秀共青团员”称号**<br>Excellent Communist Youth League Member of Jiangsu Province
-
-- 2020-10. 	**“2019江苏省大学生年度人物”提名奖**<br>Nomination Award for the Person of the Year in Jiangsu Province in 2019
-
-- 2020-04. 	**2020年河海大学“海韵风华大学生年度人物”称号**<br>Hohai University 2019 Undergraduate Person of the Year
-
-- 2019-06. 	**第八届“中国软件杯”大学生软件设计大赛华东分赛区决赛三等奖** （团队负责人）<br>Third Prize of The 8th China Software Cup, East China Division Finals
-
-- 2017-10. 	**河海大学计算机与信息学院2017年新生杯辩论赛“最佳辩手”**<br>Best Debater in the 2017 Freshman Cup Debate Competition at Hohai University
-
-'
-    design:
-      # Choose a layout view
-      view: 4
-      columns: '2'
 
   - block: portfolio
     id: music
