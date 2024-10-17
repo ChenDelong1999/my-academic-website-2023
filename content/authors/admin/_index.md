@@ -56,7 +56,7 @@ social:
     link: mailto:delong.chen@connect.ust.hk
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=zh-CN&user=7PW095gAAAAJ
+    link: https://scholar.google.com/citations?user=7PW095gAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ChenDelong1999
@@ -66,7 +66,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Delong0_0
-    label: Follow me on Twitter
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=61550677410028
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/291158396
@@ -92,7 +94,10 @@ highlight_name: true
 
 <br>
 
-Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html), and an incomming visiting researcher at [Meta Fundamentl AI Research (FAIR)](https://ai.meta.com/research/) in Paris. He received the B.Eng degree of computer science in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). He is working on multimodal (vision-language) learning. 
+Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html), and an incomming visiting researcher at [Meta Fundamentl AI Research (FAIR)](https://ai.meta.com/research/) in Paris. Before that, he received the B.Eng degree of computer science in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). 
+{style="text-align: justify;"}
+
+He is working on the intersection between computer vision and natural language processing, topics include multimodal (vision-language) learning, large (vision) language models, etc.
 {style="text-align: justify;"}
 
 

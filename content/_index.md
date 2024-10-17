@@ -36,9 +36,8 @@ sections:
       text: '
 
 <div style="display: flex; justify-content: space-between;">
-  <!-- 左边的 "Awards & Honors" 列 -->
   <div style="flex: 1; padding-right: 20px;">
-    <strong>Awards & Honors</strong>
+    <span style="font-size: 18px;"><strong>Awards & Honors</strong></span>
     <ul>
       <li><strong>Best Paper</strong> at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse</li>
       <li><strong>Best Dataset Paper</strong> at Long-Tailed Distribution Learning Workshop, IJCAI 2021</li>
@@ -53,26 +52,24 @@ sections:
     </ul>
   </div>
 
-  <!-- 右边的 "Professional Services" 列 -->
   <div style="flex: 1; padding-left: 20px;">
-    <strong>Reviewer</strong>
-    
+    <span style="font-size: 18px;"><strong>Reviewer</strong></span>
     <ul>
-      <li> ICLR 2024
-      <li> NeurIPS 2024
-      <li> ACL Rolling Review (ARR): ACL 2024, EMNLP 2024
-      <li> ACM Multimedia 2023, 2024
-      <li> ACM Transactions on Intelligent Systems and Technology
-      <li> Artificial Intelligence Review
-    </ul>
-    
-    <strong>Volunteer</strong>
-    <ul>
-      <li> AAAI-24
-      <li> ACL&apos;24
+      <li>International Conference on Learning Representations (ICLR) 2024
+      <li>Conference on Neural Information Processing Systems (NeurIPS) 2024
+      <li>ACL Rolling Review (ARR) for ACL 2024 and EMNLP 2024
+      <li>ACM Multimedia 2023, 2024
+      <li>ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+      <li>Artificial Intelligence Review
     </ul>
 
-    <strong>Teaching Assistant</strong>
+    <span style="font-size: 18px;"><strong>Volunteer</strong></span>
+    <ul>
+      <li> AAAI 2024 (Vancouver, Canada)
+      <li> ACL 2024 (Bangkok, Thailand)
+    </ul>
+
+    <span style="font-size: 18px;"><strong>Teaching Assistant</strong></span>
     <ul>
       <li> ELEC 1200 A System View of Communications (2024 Spring, HKUST)
     </ul>
@@ -90,90 +87,105 @@ sections:
       title: 'Publications'
       subtitle: ''
       text: '
-<i class="fas fa-graduation-cap"></i> See full list of papers in [**Google Scholar**](https://scholar.google.com/citations?user=7PW095gAAAAJ).
-
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2402.14327"><strong>Subobject-level Image Tokenization</strong></a></span>
+    <br>
     <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung</span>
-    <br>
-    <span><a href="https://arxiv.org/abs/2402.14327"><strong>Subobject-level Image Tokenization</strong></a></span>
-    <br><span>arXiv Preprint, 2024. <a href="https://github.com/ChenDelong1999/subobjects"> [<i class="fab fa-github"></i> code]</a></span>
+    <br>arXiv Preprint, 2024
+    <br><a href="https://github.com/ChenDelong1999/subobjects"> [<i class="fab fa-github"></i> ChenDelong1999/subobjects]</a> 
+    <a href="https://x.com/_akhaliq/status/1760869569248289151"> [🤗 AK&#39s Huggingface Daily Paper]</a>
   </div>
-  <img src="figures/subobject.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/subobject.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2405.00485"><strong>What Makes for Good Image Captions?</strong></a></span>
+    <br>
     <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung</span>
-    <br>
-    <span><a href="https://arxiv.org/abs/2405.00485"><strong>What Makes for Good Image Captions?</strong></a></span>
-    <br>
-    <span>NeurIPS 2024 Workshop on Machine Learning and Compression.</span>
+    <br>NeurIPS 2024 Workshop on Machine Learning and Compression
   </div>
-  <img src="figures/good_image_captions.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/good_image_captions.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
+    <br>
     <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
-    <br>
-    <span><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
-    <br>
-    <span>arXiv Preprint, 2024. <a href="https://github.com/HLTCHKUST/UniVaR">[<i class="fab fa-github"></i> code]</a></span>
+    <br>arXiv Preprint, 2024
+    <br><a href="https://github.com/HLTCHKUST/UniVaR"> [<i class="fab fa-github"></i> HLTCHKUST/UniVaR]</a> 
   </div>
   <img src="figures/human_value_representation.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
-    <span>Fan Liu*✉, <strong><u>Delong Chen</u></strong>*✉, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2306.11029"><strong>RemoteCLIP: A Vision Language Foundation Model for Remote Sensing</strong></a></span>
     <br>
-    <span><a href="https://arxiv.org/abs/2306.11029"><strong>RemoteCLIP: A Vision Language Foundation Model for Remote Sensing</strong></a></span>
-    <br>
-    <span>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. <a href="https://github.com/ChenDelong1999/RemoteCLIP">[<i class="fab fa-github"></i> code]</a></span>
+    <span>Fan Liu*<i class="fas fa-envelope"></i>, <strong><u>Delong Chen</u></strong>*<i class="fas fa-envelope"></i>, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
+    <br>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024
+    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (200+ stars)]</a> 
+    <a href="https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd?p=remoteclip-a-vision-language-foundation-model">[<i class="fas fa-chart-line"></i> Paperswithcode Leaderboard]</a>
   </div>
-  <img src="figures/remoteclip.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/remoteclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2307.01003"><strong>Visual Instruction Tuning with Polite Flamingo</strong></a></span>
+    <br>
     <span><strong><u>Delong Chen</u></strong>, Jianfeng Liu, Wenliang Dai, Baoyuan Wang</span>
-    <br>
-    <span><a href="https://arxiv.org/abs/2307.01003"><strong>Visual Instruction Tuning with Polite Flamingo</strong></a></span>
-    <br>
-    <span>Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. <span style="color:red">(Oral Presentation)</span> <a href="https://github.com/ChenDelong1999/polite-flamingo">[<i class="fab fa-github"></i> code]</a></span>
+    <br>Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. <span style="color:red">(Oral Presentation)</span>
+    <br><a href="https://github.com/ChenDelong1999/polite-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/polite-flamingo]</a> 
+    <a href="https://github.com/ChenDelong1999/instruct-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/instruct-flamingo]</a> 
   </div>
-  <img src="figures/polite_flamingo.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/polite_flamingo.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2410.06194"><strong>Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images</strong></a></span>
+    <br>
+    <span>Shiyu Miao, <strong><u>Delong Chen</u></strong>*, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou</span>
+    <br><a href="https://github.com/StevenMsy/DirectSAM-RS"> [<i class="fab fa-github"></i> DirectSAM-RS]</a> 
+  </div>
+  <img src="figures/directsam_rs.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2206.10996"><strong>ProtoCLIP: Prototypical Contrastive Language Image Pretraining</strong></a></span>
+    <br>
     <span><strong><u>Delong Chen</u></strong>, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou</span>
-    <br>
-    <span><a href="https://arxiv.org/abs/2206.10996"><strong>ProtoCLIP: Prototypical Contrastive Language Image Pretraining</strong></a></span>
-    <br>
-    <span>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <a href="https://github.com/megvii-research/protoclip">[<i class="fab fa-github"></i> code]</a></span>
+    <br>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023
+    <br><a href="https://github.com/megvii-research/protoclip"> [<i class="fab fa-github"></i> megvii-research/protoclip]</a> 
+    <a href="https://itra.readthedocs.io/en/latest/"> [<i class="fas fa-file-code"></i> ITRA codebase]</a> 
   </div>
-  <img src="figures/protoclip.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/protoclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
+    <br>
     <span>Xinyu Zhou🌹*, <strong><u>Delong Chen</u></strong>*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</span>
-    <br>
-    <span><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
-    <br>
-    <span>NeurIPS 2024 Workshop on Foundation Model Interventions (MINT). <a href="https://github.com/ChenDelong1999/Linguistic-Similarity">[<i class="fab fa-github"></i> code]</a></span>
+    <br>NeurIPS 2024 Workshop on Foundation Model Interventions (MINT)
+    <br><a href="https://github.com/ChenDelong1999/Linguistic-Similarity"> [<i class="fab fa-github"></i> ChenDelong1999/Linguistic-Similarity]</a> 
   </div>
-  <img src="figures/linguistic_similarity.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/linguistic_similarity.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
-
-\* Joint First Authors / Equal Contribution
+* Joint First Authors / Equal Contribution
 <br>
-✉ Corresponding Authors
+<i class="fas fa-envelope"></i> Corresponding Authors
+<br>
+<br>
+<i class="fas fa-graduation-cap"></i>  See full list of papers in <a href="https://scholar.google.com/citations?user=7PW095gAAAAJ"><strong>Google Scholar</strong></a>
+
 '
     design:
       # Choose a layout view
