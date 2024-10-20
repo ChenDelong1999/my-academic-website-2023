@@ -85,7 +85,7 @@ sections:
     id: publications
     content:
       title: 'Publications'
-      subtitle: ''
+      subtitle: 'Selected first \& co-first aurthor papers (see full list in <a href="https://scholar.google.com/citations?user=7PW095gAAAAJ"><strong>Google Scholar <i class="fas fa-graduation-cap"></i></strong></a>)'
       text: '
 <br>
 
@@ -124,22 +124,10 @@ sections:
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
-    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2306.11029"><strong>RemoteCLIP: A Vision Language Foundation Model for Remote Sensing</strong></a></span>
-    <br>
-    <span>Fan Liu*<i class="fas fa-envelope"></i>, <strong><u>Delong Chen</u></strong>*<i class="fas fa-envelope"></i>, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
-    <br>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024
-    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (200+ stars)]</a> 
-    <a href="https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd?p=remoteclip-a-vision-language-foundation-model">[<i class="fas fa-chart-line"></i> Paperswithcode Leaderboard]</a>
-  </div>
-  <img src="figures/remoteclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
-  <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2307.01003"><strong>Visual Instruction Tuning with Polite Flamingo</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Jianfeng Liu, Wenliang Dai, Baoyuan Wang</span>
-    <br>Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024. <span style="color:red">(Oral Presentation)</span>
+    <br>AAAI 2024 <span style="color:red">(Oral Presentation)</span>
     <br><a href="https://github.com/ChenDelong1999/polite-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/polite-flamingo]</a> 
     <a href="https://github.com/ChenDelong1999/instruct-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/instruct-flamingo]</a> 
   </div>
@@ -148,12 +136,14 @@ sections:
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
-    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2410.06194"><strong>Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images</strong></a></span>
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2306.11029"><strong>RemoteCLIP: A Vision Language Foundation Model for Remote Sensing</strong></a></span>
     <br>
-    <span>Shiyu Miao, <strong><u>Delong Chen</u></strong>*, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou</span>
-    <br><a href="https://github.com/StevenMsy/DirectSAM-RS"> [<i class="fab fa-github"></i> DirectSAM-RS]</a> 
+    <span>Fan Liu*<i class="fas fa-envelope"></i>, <strong><u>Delong Chen</u></strong>*<i class="fas fa-envelope"></i>, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
+    <br>IEEE Transactions on Geoscience and Remote Sensing, 2024
+    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (200+ stars)]</a> 
+    <a href="https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd?p=remoteclip-a-vision-language-foundation-model">[<i class="fas fa-chart-line"></i> Paperswithcode Leaderboard]</a>
   </div>
-  <img src="figures/directsam_rs.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/remoteclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
@@ -161,7 +151,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2206.10996"><strong>ProtoCLIP: Prototypical Contrastive Language Image Pretraining</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Zhao Wu, Fan Liu, Zaiquan Yang, Huaxi Huang, Ying Tan, Erjin Zhou</span>
-    <br>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023
+    <br>IEEE Transactions on Neural Networks and Learning Systems, 2023
     <br><a href="https://github.com/megvii-research/protoclip"> [<i class="fab fa-github"></i> megvii-research/protoclip]</a> 
     <a href="https://itra.readthedocs.io/en/latest/"> [<i class="fas fa-file-code"></i> ITRA codebase]</a> 
   </div>
@@ -173,20 +163,28 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
     <br>
     <span>Xinyu Zhou🌹*, <strong><u>Delong Chen</u></strong>*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</span>
-    <br>NeurIPS 2024 Workshop on Foundation Model Interventions (MINT)
+    <br>NeurIPS 2024 Workshop on Foundation Model Interventions
     <br><a href="https://github.com/ChenDelong1999/Linguistic-Similarity"> [<i class="fab fa-github"></i> ChenDelong1999/Linguistic-Similarity]</a> 
   </div>
   <img src="figures/linguistic_similarity.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
-* Joint First Authors / Equal Contribution
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2410.06194"><strong>Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images</strong></a></span>
+    <br>
+    <span>Shiyu Miao*, <strong><u>Delong Chen</u></strong>*, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou</span>
+    <br>arXiv Preprint, 2024
+    <br><a href="https://github.com/StevenMsy/DirectSAM-RS"> [<i class="fab fa-github"></i> DirectSAM-RS]</a> 
+  </div>
+  <img src="figures/directsam_rs.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
+
+* Equal Contribution
 <br>
 <i class="fas fa-envelope"></i> Corresponding Authors
-<br>
-<br>
-<i class="fas fa-graduation-cap"></i>  See full list of papers in <a href="https://scholar.google.com/citations?user=7PW095gAAAAJ"><strong>Google Scholar</strong></a>
-
 '
+
     design:
       # Choose a layout view
       view: 1

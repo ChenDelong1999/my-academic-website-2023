@@ -8,43 +8,43 @@ last_name: Chen
 
 # Status emoji
 status:
-  icon:
+  icon: ""
 
 # Is this the primary user of the site?
-superuser: truei
+superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: "陈德龙"
 
 # Organizations/Affiliations to show in About widget
 organizations:
 
-- name: Hong Kong University of Science and Technology (HKUST)
+- name: Ph.D. Student (HKUST)
   url: https://hkust.edu.hk/
-# - name: Xiaobing.AI
-#   url: https://www.xiaoice.com/
+- name: Visiting Researcher (FAIR Paris)
+  url: https://ai.meta.com/research/fair-paris/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student at HKUST
+# bio: ""
 
 # Interests to show in About widget
-interests:
-  - Multi-modal Large Language Models
-  - Computer Vision: Self-supervised Learning, Vision Language Learning'
-  - Music Information Retrieval
+# interests:
+#   - Multi-modal Large Language Models
+#   - Computer Vision: Self-supervised Learning, Vision Language Learning'
+#   - Music Information Retrieval
 
-# Education to show in About widget
-education:
-  courses:
-    - course: Gap year
-      year: 2022-2023
-      institution: Xiaobing.AI & AIM Group, Hohai University
-    - course: Gap year
-      year: 2021-2022
-      institution: MEGVII Technology & Hohai University
-    - course: BSc in Computer Science
-      institution: Hohai University
-      year: 2017-2021
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: Gap year
+#       year: 2022-2023
+#       institution: Xiaobing.AI & AIM Group, Hohai University
+#     - course: Gap year
+#       year: 2021-2022
+#       institution: MEGVII Technology & Hohai University
+#     - course: BSc in Computer Science
+#       institution: Hohai University
+#       year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -94,23 +94,11 @@ highlight_name: true
 
 <br>
 
-Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html), and an incomming visiting researcher at [Meta Fundamentl AI Research (FAIR)](https://ai.meta.com/research/) in Paris. Before that, he received the B.Eng degree of computer science in 2021 from Hohai University, where he was advised by [Prof. Fan Liu](https://multimodality.group/). 
+Delong Chen is a PhD student (2023–present) at the Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>, and a visiting researcher at <a href="https://ai.meta.com/research/">Meta Fundamental AI Research (FAIR)</a> in Paris, France.
 {style="text-align: justify;"}
 
-He is working on the intersection between computer vision and natural language processing, topics include multimodal (vision-language) learning, large (vision) language models, etc.
+Prior to that, he received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at <a href="https://en.megvii.com/megvii_research">MEGVII (Face++) Research</a> and <a href="https://xiaoice.com/">Xiaobing.AI</a> (Microsoft Xiaoice) during 2021–2023.
 {style="text-align: justify;"}
 
-
-<!-- Academic Services
+He is working on the intersection of Computer Vision (CV) and Natural Language Processing (NLP), with research topics including multimodal learning, large vision-language models, etc.
 {style="text-align: justify;"}
-  - Reviewer: ACL Rolling Review (ARR) Feb/Apr 2024, ACM Multimedia (MM) 2023/2024, ACM Transactions on Intelligent Systems and Technology (TIST), Artificial Intelligence Review (AIRE), IEEE Transactions on Intelligent Transportation Systems (TITS).
-  - TA: A System View of Communications (2024 Spring, HKUST)
-{style="text-align: justify;"} -->
-
-<!-- 📄 Download **{{< staticref "uploads/Delong-Chen-CV.pdf" "newtab" >}}CV{{< /staticref >}}** (updated on May 2024)
-{style="text-align: justify;"} -->
-
-<!-- 🎶 Delong is passionate about music. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
-He served as the leader of the Hohai University Symphony Orchestra during 2019-2020. 
-He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
-{style="text-align: justify;"} -->
