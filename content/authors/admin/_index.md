@@ -19,9 +19,9 @@ role: "陈德龙"
 # Organizations/Affiliations to show in About widget
 organizations:
 
-- name: Ph.D. Student (HKUST)
+- name: HKUST (Ph.D. Student)
   url: https://hkust.edu.hk/
-- name: Visiting Researcher (FAIR Paris)
+- name: FAIR at Meta (Visiting Researcher) 
   url: https://ai.meta.com/research/fair-paris/
 
 # Short bio (displayed in user profile at end of posts)
@@ -94,11 +94,8 @@ highlight_name: true
 
 <br>
 
-Delong Chen is a PhD student (2023–present) at the Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>, and a visiting researcher at <a href="https://ai.meta.com/research/">Meta Fundamental AI Research (FAIR)</a> in Paris, France.
+Delong Chen is a Ph.D. student (2023–present) at the Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now at <a href="https://ai.meta.com/research/">Meta Fundamental AI Research (FAIR)</a> in Paris as a visiting researcher, working on the multimodal (vision-language) learning, world models, reasoning and planning, etc.
 {style="text-align: justify;"}
 
 Prior to that, he received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at <a href="https://en.megvii.com/megvii_research">MEGVII (Face++) Research</a> and <a href="https://xiaoice.com/">Xiaobing.AI</a> (Microsoft Xiaoice) during 2021–2023.
-{style="text-align: justify;"}
-
-He is working on the intersection of Computer Vision (CV) and Natural Language Processing (NLP), with research topics including multimodal learning, large vision-language models, etc.
 {style="text-align: justify;"}

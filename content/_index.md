@@ -55,11 +55,12 @@ sections:
   <div style="flex: 1; padding-left: 20px;">
     <span style="font-size: 18px;"><strong>Reviewer</strong></span>
     <ul>
-      <li>International Conference on Learning Representations (ICLR) 2024
-      <li>Conference on Neural Information Processing Systems (NeurIPS) 2024
-      <li>ACL Rolling Review (ARR) for ACL 2024 and EMNLP 2024
-      <li>ACM Multimedia 2023, 2024
-      <li>ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+      <li>ICLR
+      <li>NeurIPS
+      <li>ACL Rolling Review (ARR)
+      <li>ACM MM
+      <li>IEEE TPAMI
+      <li>ACM TIST
       <li>Artificial Intelligence Review
     </ul>
 
@@ -85,7 +86,7 @@ sections:
     id: publications
     content:
       title: 'Publications'
-      subtitle: 'Selected first \& co-first aurthor papers (see full list in <a href="https://scholar.google.com/citations?user=7PW095gAAAAJ"><strong>Google Scholar <i class="fas fa-graduation-cap"></i></strong></a>)'
+      subtitle: 'Selected first \& co-first aurthor papers. See full list in <a href="https://scholar.google.com/citations?user=7PW095gAAAAJ"><strong>Google Scholar <i class="fas fa-graduation-cap"></i></strong></a>'
       text: '
 <br>
 
@@ -163,7 +164,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
     <br>
     <span>Xinyu Zhou🌹*, <strong><u>Delong Chen</u></strong>*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</span>
-    <br>NeurIPS 2024 Workshop on Foundation Model Interventions
+    <br>COLING 2025
     <br><a href="https://github.com/ChenDelong1999/Linguistic-Similarity"> [<i class="fab fa-github"></i> ChenDelong1999/Linguistic-Similarity]</a> 
   </div>
   <img src="figures/linguistic_similarity.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
@@ -194,8 +195,7 @@ sections:
     id: music
     content:
       title: Music 🎻
-      subtitle: '<br>Delong is passionate about music！
-      <br>He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
+      subtitle: '<br>Delong was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}} (中央音乐学院). 
       <br>He served as the concertmaster of the Hohai University Symphony Orchestra during 2019-2020. 
       <br>He is also at {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}bilibili.com{{< /staticref >}} with 20k+ followers.
       <br><br>
