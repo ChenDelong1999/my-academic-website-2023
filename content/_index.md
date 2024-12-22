@@ -175,7 +175,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2410.06194"><strong>Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images</strong></a></span>
     <br>
     <span>Shiyu Miao*, <strong><u>Delong Chen</u></strong>*, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou</span>
-    <br>ICASSP, 2025
+    <br>ICASSP 2025
     <br><a href="https://github.com/StevenMsy/DirectSAM-RS"> [<i class="fab fa-github"></i> DirectSAM-RS]</a> 
   </div>
   <img src="figures/directsam_rs.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
