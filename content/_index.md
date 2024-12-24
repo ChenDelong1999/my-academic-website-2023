@@ -164,7 +164,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
     <br>
     <span>Xinyu Zhou🌹*, <strong><u>Delong Chen</u></strong>*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</span>
-    <br>COLING 2025
+    <br>COLING 2025 (Oral Presentation)
     <br><a href="https://github.com/ChenDelong1999/Linguistic-Similarity"> [<i class="fab fa-github"></i> ChenDelong1999/Linguistic-Similarity]</a> 
   </div>
   <img src="figures/linguistic_similarity.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
