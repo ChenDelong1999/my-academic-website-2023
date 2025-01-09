@@ -94,7 +94,7 @@ highlight_name: true
 
 <br>
 
-Delong Chen is a Ph.D. student (2023–present) at the Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now at <a href="https://ai.meta.com/research/">Meta Fundamental AI Research (FAIR)</a> in Paris as a visiting researcher, working on the multimodal (vision-language) learning, world models, reasoning and planning, etc.
+Delong Chen is a Ph.D. candidate (2023–present) at the Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now at <a href="https://ai.meta.com/research/">Meta Fundamental AI Research (FAIR)</a> in Paris as a visiting researcher, working on the multimodal (vision-language) learning, world models, reasoning and planning, etc.
 {style="text-align: justify;"}
 
 Prior to that, he received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at <a href="https://en.megvii.com/megvii_research">MEGVII (Face++) Research</a> and <a href="https://xiaoice.com/">Xiaobing.AI</a> (Microsoft Xiaoice) during 2021–2023.
