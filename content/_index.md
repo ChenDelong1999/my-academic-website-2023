@@ -141,7 +141,7 @@ sections:
     <br>
     <span>Fan Liu*<i class="fas fa-envelope"></i>, <strong><u>Delong Chen</u></strong>*<i class="fas fa-envelope"></i>, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
     <br>IEEE Transactions on Geoscience and Remote Sensing, 2024
-    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (200+ stars)]</a> 
+    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (300+ stars)]</a> 
     <a href="https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd?p=remoteclip-a-vision-language-foundation-model">[<i class="fas fa-chart-line"></i> Paperswithcode Leaderboard]</a>
   </div>
   <img src="figures/remoteclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
