@@ -117,7 +117,7 @@ sections:
   <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
     <br>
-    <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
+    <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie*, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
     <br>NAACL 2025 (Main)
     <br><a href="https://github.com/HLTCHKUST/UniVaR"> [<i class="fab fa-github"></i> HLTCHKUST/UniVaR]</a> 
   </div>
