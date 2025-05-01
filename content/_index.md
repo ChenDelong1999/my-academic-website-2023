@@ -96,7 +96,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2402.14327"><strong>Subobject-level Image Tokenization</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung</span>
-    <br>arXiv Preprint, 2024
+    <br>ICML, 2025
     <br><a href="https://github.com/ChenDelong1999/subobjects"> [<i class="fab fa-github"></i> ChenDelong1999/subobjects]</a> 
     <a href="https://x.com/_akhaliq/status/1760869569248289151"> [🤗 AK&#39s Huggingface Daily Paper]</a>
   </div>
