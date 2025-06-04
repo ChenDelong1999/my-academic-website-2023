@@ -1,5 +1,5 @@
 ---
-title: '11校云合奏《汉阳门花园》'
+title: '南京-武汉11高校云合奏《汉阳门花园》'
 summary: "Cloud Symphony: Hanyang Gate Garden. Organized an 11-university symphony orchestra cloud performance -- composition, audio mixing, and video editing. Media coverage [Xinhua News Agency (新华社)](https://m.gmw.cn/2020-03/02/content_1301006574.htm), [People's Daily (人民日报)](https://wap.peopleapp.com/video/rmh11875548/rmh11875548)"
 
 

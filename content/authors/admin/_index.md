@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: "陈德龙"
+# role: "陈德龙"
 
 # Organizations/Affiliations to show in About widget
 organizations:
 
-- name: HKUST (Ph.D. Student)
-  url: https://hkust.edu.hk/
-- name: FAIR at Meta (Visiting Researcher) 
-  url: https://ai.meta.com/research/fair-paris/
+- name: Visiting Researcher at Meta FAIR Paris
+- name: Ph.D. Candidate at HKUST
+  # url: https://hkust.edu.hk/
+  # url: https://ai.meta.com/research/fair-paris/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
@@ -51,9 +51,6 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:delong.chen@connect.ust.hk
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7PW095gAAAAJ
@@ -75,6 +72,9 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/chen-de-long-15-78
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:delong.chen@connect.ust.hk
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -94,8 +94,8 @@ highlight_name: true
 
 <br>
 
-Delong Chen is a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST), adviced by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now at <a href="https://ai.meta.com/research/">Meta Fundamental AI Research (FAIR)</a> in Paris as a visiting researcher, working on the multimodal (vision-language) learning, world modeling, reasoning and planning, etc.
+Delong Chen (陈德龙) is a Ph.D. candidate at The Hong Kong University of Science and Technology (HKUST), adviced by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now visiting Meta FAIR Paris. He received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at MEGVII (Face++) Research and Xiaobing.AI (Microsoft Xiaoice) during 2021–2023.
 {style="text-align: justify;"}
 
-Prior to that, he received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at <a href="https://en.megvii.com/megvii_research">MEGVII (Face++) Research</a> and <a href="https://xiaoice.com/">Xiaobing.AI</a> (Microsoft Xiaoice) during 2021–2023.
+His research interest includes vision-language learning, self-supervised learning, world models, reasoning and planning, etc.
 {style="text-align: justify;"}

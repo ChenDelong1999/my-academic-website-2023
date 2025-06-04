@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: 'ocean'
+  theme_day: 'minimal'
   theme_night: minimal
   font: Classic 
   font_size: S
@@ -32,11 +32,11 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r # Options: 'l', 'r', 'c'
+    align: l # Options: 'l', 'r', 'c'
     show_logo: true
     show_language: false
     show_day_night: false
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
