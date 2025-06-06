@@ -94,8 +94,9 @@ highlight_name: true
 
 <br>
 
-Delong Chen (陈德龙) is a Ph.D. candidate at The Hong Kong University of Science and Technology (HKUST), adviced by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now visiting Meta FAIR Paris. He received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at MEGVII (Face++) Research and Xiaobing.AI (Microsoft Xiaoice) during 2021–2023.
+Delong Chen (陈德龙) is a Ph.D. candidate at The Hong Kong University of Science and Technology (HKUST), adviced by <a href="https://pascale.home.ece.ust.hk/about.html">Prof. Pascale Fung</a>. He is now visiting Meta FAIR Paris. His current research interest includes vision-language learning, self-supervised learning, world models, reasoning and planning, etc.
 {style="text-align: justify;"}
 
-His research interest includes vision-language learning, self-supervised learning, world models, reasoning and planning, etc.
+Before this, he received his B.Eng. degree in Computer Science in 2021 from Hohai University, where he was advised by <a href="https://multimodality.group/">Prof. Fan Liu</a>. He interned at MEGVII (Face++) Research and Xiaobing.AI (Microsoft Xiaoice) during 2021–2023.
 {style="text-align: justify;"}
+
