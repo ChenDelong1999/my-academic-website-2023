@@ -92,7 +92,7 @@ sections:
 Long-horizon Procedural Planning</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Willy Chung*, Yejin Bang, Ziwei Ji, Pascale Fung</span>
-    <br>arXiv, 2025
+    <br>ICML 2025 Workshop on Assessing World Models
   </div>
   <img src="figures/worldprediction.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
@@ -102,7 +102,7 @@ Long-horizon Procedural Planning</strong></a></span>
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2402.14327"><strong>Subobject-level Image Tokenization</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung</span>
-    <br>ICML, 2025
+    <br>ICML 2025
     <br><a href="https://github.com/ChenDelong1999/subobjects"> [<i class="fab fa-github"></i> ChenDelong1999/subobjects]</a> 
     <a href="https://x.com/_akhaliq/status/1760869569248289151"> [🤗 AK&#39s Huggingface Daily Paper]</a>
     <a href="https://www.youtube.com/watch?v=tlNs7xUQ0x4"> [<i class="fas fa-play"></i> Demo]</a> 
@@ -125,7 +125,7 @@ Long-horizon Procedural Planning</strong></a></span>
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
     <br>
     <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie*, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
-    <br>NAACL 2025 (Main)
+    <br>NAACL 2025 Main
     <br><a href="https://github.com/HLTCHKUST/UniVaR"> [<i class="fab fa-github"></i> HLTCHKUST/UniVaR]</a> 
   </div>
   <img src="figures/human_value_representation.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
