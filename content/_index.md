@@ -54,9 +54,9 @@ sections:
   </div>
 
   <div style="flex: 1; padding-left: 20px;">
-    <span style="font-size: 18px;"><strong>Reviewer</strong></span>
+    <span style="font-size: 18px;"><strong>Reviewer / Program Committee </strong></span>
     <ul>
-      <li>ICLR, NeurIPS, ICCV, ICML, ACL Rolling Review (ARR), ACM MM 
+      <li>ICLR, NeurIPS, ICCV, ICML, ACL Rolling Review (ARR), AAAI, ACMMM 
       <li>IEEE TPAMI, ACM TIST, Artificial Intelligence Review
     </ul>
 
