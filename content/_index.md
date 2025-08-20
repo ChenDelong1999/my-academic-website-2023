@@ -115,7 +115,7 @@ Long-horizon Procedural Planning</strong></a></span>
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2405.00485"><strong>What Makes for Good Image Captions?</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Samuel Cahyawijaya, Etsuko Ishii, Ho Shu Chan, Yejin Bang, Pascale Fung</span>
-    <br>NeurIPS 2024 Workshop on Machine Learning and Compression
+    <br>EMNLP 2025 Findings & NeurIPS 2024 Workshop on Machine Learning and Compression
   </div>
   <img src="figures/good_image_captions.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
