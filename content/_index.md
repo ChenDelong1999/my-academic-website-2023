@@ -88,6 +88,16 @@ sections:
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2509.02722"><strong>Planning with Reasoning using Vision Language World Model</strong></a></span>
+    <br>
+    <span><strong><u>Delong Chen</u></strong>*, Theo Moutakanni*, Willy Chung, Yejin Bang, Ziwei Ji, Allen Bolourchi, Pascale Fung</span>
+    <br>arXiv preprint
+  </div>
+  <img src="figures/vlwm.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2506.04363"><strong>WorldPrediction: A Benchmark for High-level World Modeling and
 Long-horizon Procedural Planning</strong></a></span>
     <br>
