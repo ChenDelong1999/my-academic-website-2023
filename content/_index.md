@@ -90,7 +90,7 @@ sections:
   <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://www.arxiv.org/abs/2512.10942"><strong>VL-JEPA: Joint Embedding Predictive Architecture for Vision-language</strong></a></span>
     <br>
-    <span><strong><u>Delong Chen</u></strong>*,Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
+    <span><strong><u>Delong Chen</u></strong>*, Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
     <br>World Modeling Workshop (Mila, 2026)
   </div>
   <img src="figures/vl_jepa.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
