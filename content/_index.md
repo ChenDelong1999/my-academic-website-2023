@@ -88,10 +88,20 @@ sections:
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://www.arxiv.org/abs/2512.10942"><strong>VL-JEPA: Joint Embedding Predictive Architecture for Vision-language</strong></a></span>
+    <br>
+    <span><strong><u>Delong Chen</u></strong>*,Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
+    <br>World Modeling Workshop (Mila, 2026)
+  </div>
+  <img src="figures/vl_jepa.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2509.02722"><strong>Planning with Reasoning using Vision Language World Model</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Theo Moutakanni*, Willy Chung, Yejin Bang, Ziwei Ji, Allen Bolourchi, Pascale Fung</span>
-    <br>arXiv preprint
+    <br>World Modeling Workshop (Mila, 2026)
   </div>
   <img src="figures/vlwm.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
@@ -177,18 +187,10 @@ Long-horizon Procedural Planning</strong></a></span>
   <img src="figures/protoclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
-  <div style="flex-grow: 1;">
-    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2409.12435"><strong>Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</strong></a></span>
-    <br>
-    <span>Xinyu Zhou🌹*, <strong><u>Delong Chen</u></strong>*, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</span>
-    <br>COLING 2025
-    <br><a href="https://github.com/ChenDelong1999/Linguistic-Similarity"> [<i class="fab fa-github"></i> ChenDelong1999/Linguistic-Similarity]</a> 
-  </div>
-  <img src="figures/linguistic_similarity.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
-</div>
 
-* Equal Contribution
+
+
+\* Equal Contribution
 <br>
 <i class="fas fa-envelope"></i> Corresponding Authors
 '
