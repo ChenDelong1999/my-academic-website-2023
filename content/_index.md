@@ -41,9 +41,9 @@ sections:
   <div style="flex: 1; padding-right: 20px;">
     <span style="font-size: 18px;"><strong>Awards</strong></span>
     <ul>
-      <li><strong>Best Paper</strong> at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse</li>
-      <li><strong>Best Dataset Paper</strong> at Long-Tailed Distribution Learning Workshop, IJCAI 2021</li>
-      <li><strong>Best Demo</strong> at IEEE ICME 2021</li>
+      <li>Best Paper at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse</li>
+      <li>Best Dataset Paper at Long-Tailed Distribution Learning Workshop, IJCAI 2021</li>
+      <li>Best Demo at IEEE ICME 2021</li>
       <li> 江苏省优秀本科毕业论文一等奖 </li>
       <li> 河海大学2021届本科“优秀毕业生”荣誉称号</li>
       <li> 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 </li>
@@ -56,7 +56,7 @@ sections:
   <div style="flex: 1; padding-left: 20px;">
     <span style="font-size: 18px;"><strong>Reviewer / Program Committee </strong></span>
     <ul>
-      <li>ICLR, NeurIPS, ICCV, ICML, ACL Rolling Review (ARR), AAAI, ACMMM 
+      <li>ICLR, NeurIPS, CVPR, ICCV, ICML, ACL Rolling Review (ARR), AAAI, ACMMM 
       <li>IEEE TPAMI, ACM TIST, Artificial Intelligence Review
     </ul>
 
@@ -86,6 +86,18 @@ sections:
       text: '
 <br>
 
+
+<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+  <div style="flex-grow: 1;">
+    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2601.10592"><strong>Action100M: A Large-scale Video Action Dataset</strong></a></span>
+    <br>
+    <span><strong><u>Delong Chen</u></strong>, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung</span>
+    <br>World Modeling Workshop (Mila, 2026)
+    <br><a href="https://github.com/facebookresearch/Action100M"> [<i class="fab fa-github"></i> facebookresearch/Action100M (300+ stars)]</a> 
+  </div>
+  <img src="figures/action100m.png" style="width: auto; height: 140px; object-fit: cover; margin-left: 10px;" />
+</div>
+
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
   <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://www.arxiv.org/abs/2512.10942"><strong>VL-JEPA: Joint Embedding Predictive Architecture for Vision-language</strong></a></span>
@@ -93,7 +105,7 @@ sections:
     <span><strong><u>Delong Chen</u></strong>*, Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
     <br>World Modeling Workshop (Mila, 2026)
   </div>
-  <img src="figures/vl_jepa.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/vl_jepa.png" style="width: auto; height: 100px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
@@ -113,6 +125,7 @@ Long-horizon Procedural Planning</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Willy Chung*, Yejin Bang, Ziwei Ji, Pascale Fung</span>
     <br>ICML 2025 Workshop on Assessing World Models
+    <br><a href="https://github.com/facebookresearch/WorldPrediction"> [<i class="fab fa-github"></i> facebookresearch/WorldPrediction]</a> 
   </div>
   <img src="figures/worldprediction.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
@@ -167,9 +180,9 @@ Long-horizon Procedural Planning</strong></a></span>
   <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2306.11029"><strong>RemoteCLIP: A Vision Language Foundation Model for Remote Sensing</strong></a></span>
     <br>
-    <span>Fan Liu*<i class="fas fa-envelope"></i>, <strong><u>Delong Chen</u></strong>*<i class="fas fa-envelope"></i>, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
+    <span>Fan Liu*</i>, <strong><u>Delong Chen</u></strong>*, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou</span>
     <br>IEEE Transactions on Geoscience and Remote Sensing, 2024
-    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (300+ stars)]</a> 
+    <br><a href="https://github.com/ChenDelong1999/RemoteCLIP"> [<i class="fab fa-github"></i> ChenDelong1999/RemoteCLIP (500+ stars)]</a> 
     <a href="https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd?p=remoteclip-a-vision-language-foundation-model">[<i class="fas fa-chart-line"></i> Paperswithcode Leaderboard]</a>
   </div>
   <img src="figures/remoteclip.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
