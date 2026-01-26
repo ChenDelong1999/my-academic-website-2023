@@ -103,7 +103,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://www.arxiv.org/abs/2512.10942"><strong>VL-JEPA: Joint Embedding Predictive Architecture for Vision-language</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
-    <br>World Modeling Workshop (Mila, 2026)
+    <br>ICLR 2026 & World Modeling Workshop (Mila, 2026)
   </div>
   <img src="figures/vl_jepa.png" style="width: auto; height: 100px; object-fit: cover; margin-left: 10px;" />
 </div>
@@ -204,8 +204,6 @@ Long-horizon Procedural Planning</strong></a></span>
 
 
 \* Equal Contribution
-<br>
-<i class="fas fa-envelope"></i> Corresponding Authors
 '
     design:
       # Choose a layout view
