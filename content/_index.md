@@ -92,7 +92,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2601.10592"><strong>Action100M: A Large-scale Video Action Dataset</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung</span>
-    <br>World Modeling Workshop (Mila, 2026)
+    <br>Mila World Modeling Workshop
     <br><a href="https://github.com/facebookresearch/Action100M"> [<i class="fab fa-github"></i> facebookresearch/Action100M (300+ stars)]</a> 
   </div>
   <img src="figures/action100m.png" style="width: auto; height: 140px; object-fit: cover; margin-left: 10px;" />
@@ -102,8 +102,8 @@ sections:
   <div style="flex-grow: 1;">
     <span style="font-size: 18px;"><a href="https://www.arxiv.org/abs/2512.10942"><strong>VL-JEPA: Joint Embedding Predictive Architecture for Vision-language</strong></a></span>
     <br>
-    <span><strong><u>Delong Chen</u></strong>*, Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
-    <br>ICLR 2026 & World Modeling Workshop (Mila, 2026)
+    <span><strong><u>Delong Chen</u></strong>*, Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Yejin Bang, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
+    <br>ICLR 2026 & Mila World Modeling Workshop (oral presentation)
   </div>
   <img src="figures/vl_jepa.png" style="width: auto; height: 100px; object-fit: cover; margin-left: 10px;" />
 </div>
@@ -113,9 +113,9 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2509.02722"><strong>Planning with Reasoning using Vision Language World Model</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Theo Moutakanni*, Willy Chung, Yejin Bang, Ziwei Ji, Allen Bolourchi, Pascale Fung</span>
-    <br>World Modeling Workshop (Mila, 2026)
+    <br>Mila World Modeling Workshop
   </div>
-  <img src="figures/vlwm.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/vlwm.png" style="width: auto; height: 130px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
