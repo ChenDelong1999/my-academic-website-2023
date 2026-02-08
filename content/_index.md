@@ -95,7 +95,7 @@ sections:
     <br>World Modeling Workshop
     <br><a href="https://github.com/facebookresearch/Action100M"> [<i class="fab fa-github"></i> facebookresearch/Action100M (300+ stars)]</a> 
   </div>
-  <img src="figures/action100m.png" style="width: auto; height: 140px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/action100m.png" style="width: auto; height: 150px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
@@ -104,8 +104,11 @@ sections:
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Mustafa Shukor*, Theo Moutakanni*, Willy Chung*, Jade Yu, Tejaswi Kasarla, Yejin Bang, Allen Bolourchi, Yann LeCun, Pascale Fung</span>
     <br>ICLR 2026 & World Modeling Workshop (Oral Presentation)
+    <br>
+    <a href="https://www.youtube.com/watch?v=gEjnxEDI9DU"> [<i class="fas fa-play"></i> Presentation]</a> 
+    <a href="https://www.bilibili.com/video/BV15Rcwz7ETP/"> (bilibili) </a>
   </div>
-  <img src="figures/vl_jepa.png" style="width: auto; height: 130px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/vl_jepa.png" style="width: auto; height: 150px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
@@ -127,7 +130,7 @@ Long-horizon Procedural Planning</strong></a></span>
     <br>ICML 2025 Workshop on Assessing World Models
     <br><a href="https://github.com/facebookresearch/WorldPrediction"> [<i class="fab fa-github"></i> facebookresearch/WorldPrediction]</a> 
   </div>
-  <img src="figures/worldprediction.png" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+  <img src="figures/worldprediction.png" style="width: auto; height: 130px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
@@ -151,29 +154,6 @@ Long-horizon Procedural Planning</strong></a></span>
     <br>EMNLP 2025 Findings & NeurIPS 2024 Workshop on Machine Learning and Compression
   </div>
   <img src="figures/good_image_captions.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
-  <div style="flex-grow: 1;">
-    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
-    <br>
-    <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie*, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
-    <br>NAACL 2025 Main
-    <br><a href="https://github.com/HLTCHKUST/UniVaR"> [<i class="fab fa-github"></i> HLTCHKUST/UniVaR]</a> 
-  </div>
-  <img src="figures/human_value_representation.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
-  <div style="flex-grow: 1;">
-    <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2307.01003"><strong>Visual Instruction Tuning with Polite Flamingo</strong></a></span>
-    <br>
-    <span><strong><u>Delong Chen</u></strong>, Jianfeng Liu, Wenliang Dai, Baoyuan Wang</span>
-    <br>AAAI 2024
-    <br><a href="https://github.com/ChenDelong1999/polite-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/polite-flamingo]</a> 
-    <a href="https://github.com/ChenDelong1999/instruct-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/instruct-flamingo]</a> 
-  </div>
-  <img src="figures/polite_flamingo.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
@@ -202,9 +182,33 @@ Long-horizon Procedural Planning</strong></a></span>
 
 
 
-
 \* Equal Contribution
 '
+
+
+# <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+#   <div style="flex-grow: 1;">
+#     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2307.01003"><strong>Visual Instruction Tuning with Polite Flamingo</strong></a></span>
+#     <br>
+#     <span><strong><u>Delong Chen</u></strong>, Jianfeng Liu, Wenliang Dai, Baoyuan Wang</span>
+#     <br>AAAI 2024
+#     <br><a href="https://github.com/ChenDelong1999/polite-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/polite-flamingo]</a> 
+#     <a href="https://github.com/ChenDelong1999/instruct-flamingo"> [<i class="fab fa-github"></i> ChenDelong1999/instruct-flamingo]</a> 
+#   </div>
+#   <img src="figures/polite_flamingo.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+# </div>
+
+
+# <div style="display: flex; justify-content: space-between; align-items: center;  margin-bottom: 25px;">
+#   <div style="flex-grow: 1;">
+#     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2404.07900"><strong>High-Dimension Human Value Representation in Large Language Models</strong></a></span>
+#     <br>
+#     <span>Samuel Cahyawijaya*, <strong><u>Delong Chen</u></strong>*, Yejin Bang*, Leila Khalatbari, Bryan Wilie*, Ziwei Ji, Etsuko Ishii, Pascale Fung*</span>
+#     <br>NAACL 2025 Main
+#     <br><a href="https://github.com/HLTCHKUST/UniVaR"> [<i class="fab fa-github"></i> HLTCHKUST/UniVaR]</a> 
+#   </div>
+#   <img src="figures/human_value_representation.jpg" style="width: auto; height: 120px; object-fit: cover; margin-left: 10px;" />
+# </div>
     design:
       # Choose a layout view
       view: 1
