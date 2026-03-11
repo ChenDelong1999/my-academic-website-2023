@@ -20,7 +20,7 @@ superuser: true
 organizations:
 
 # - name: Visiting Researcher at Meta FAIR Paris
-- name: Ph.D. Candidate at HKUST
+- name: Ph.D. Student at HKUST & AMI Labs
   # url: https://hkust.edu.hk/
   # url: https://ai.meta.com/research/fair-paris/
 
@@ -94,7 +94,7 @@ highlight_name: true
 
 <br>
 
-Delong Chen (陈德龙) is a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by <a href="https://scholar.google.com/citations?user=QEMJWzEAAAAJ">Prof. Pascale Fung</a>. He was a visiting researcher at Meta FAIR in Paris from 2024 to 2026. Prior to that, he interned at MEGVII (Face++) Research and Xiaobing.AI (Microsoft Xiaoice) in Beijing from 2021 to 2023. He received his bachelor's degree in 2021 from Hohai University, where he worked with <a href="https://multimodality.group/">Prof. Fan Liu</a>. He is now working on VL-JEPA and vision-language and world modeling.
+Delong Chen (陈德龙) is a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by <a href="https://scholar.google.com/citations?user=QEMJWzEAAAAJ">Prof. Pascale Fung</a>. He is a Founding Team Member of Advanced Machine Intelligence (AMI Labs). He was a visiting researcher at Meta FAIR in Paris from 2024 to 2026. Prior to that, he interned at MEGVII (Face++) Research and Xiaobing.AI (Microsoft Xiaoice) in Beijing from 2021 to 2023. He received his bachelor's degree in 2021 from Hohai University, where he worked with <a href="https://multimodality.group/">Prof. Fan Liu</a>. He is now working on VL-JEPA and vision-language and world modeling.
 {style="text-align: justify;"}
 
 
