@@ -92,7 +92,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2601.10592"><strong>Action100M: A Large-scale Video Action Dataset</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung</span>
-    <br>World Modeling Workshop
+    <br>EgoVis Workshop at CVPR 2026
     <br><a href="https://github.com/facebookresearch/Action100M"> [<i class="fab fa-github"></i> facebookresearch/Action100M (300+ stars)]</a> 
   </div>
   <img src="figures/action100m.png" style="width: auto; height: 150px; object-fit: cover; margin-left: 10px;" />
