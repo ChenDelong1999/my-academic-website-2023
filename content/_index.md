@@ -41,6 +41,7 @@ sections:
   <div style="flex: 1; padding-right: 20px;">
     <span style="font-size: 18px;"><strong>Awards</strong></span>
     <ul>
+      <li>First Place Award at CVPR’26 EgoVis EPIC-KITCHENS-100 Action Recognition Challenge</li>
       <li>Best Paper at AAAI 2023 Inaugural Summer Symposium Series - AI x Metaverse</li>
       <li>Best Dataset Paper at Long-Tailed Distribution Learning Workshop, IJCAI 2021</li>
       <li>Best Demo at IEEE ICME 2021</li>
@@ -57,7 +58,7 @@ sections:
     <span style="font-size: 18px;"><strong>Reviewer / Program Committee </strong></span>
     <ul>
       <li>ICLR, NeurIPS, CVPR, ICCV, ICML, ACL Rolling Review (ARR), AAAI, ACMMM 
-      <li>IEEE TPAMI, ACM TIST, Artificial Intelligence Review
+      <li>IEEE TPAMI, ACM TIST, Artificial Intelligence Review, Nature (co-reviewer)
     </ul>
 
     <span style="font-size: 18px;"><strong>Volunteer</strong></span>
@@ -116,7 +117,7 @@ sections:
     <span style="font-size: 18px;"><a href="https://arxiv.org/abs/2509.02722"><strong>Planning with Reasoning using Vision Language World Model</strong></a></span>
     <br>
     <span><strong><u>Delong Chen</u></strong>*, Theo Moutakanni*, Willy Chung, Yejin Bang, Ziwei Ji, Allen Bolourchi, Pascale Fung</span>
-    <br>World Modeling Workshop
+    <br>World Modeling Workshop, Mila, 2026
   </div>
   <img src="figures/vlwm.png" style="width: auto; height: 130px; object-fit: cover; margin-left: 10px;" />
 </div>
